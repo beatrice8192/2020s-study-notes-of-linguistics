@@ -32,3 +32,16 @@ Notes:
 
 * Danish, Swedish, and Norwegian weekdays are almost equivalent except for a few vowels.
 
+### Romance months
+
+### Germanic months
+
+### Other vocabulary
+
+1. year, month, day
+1. hour, minute, second
+1. times of day
+1. meals of day
+1. seasons of year
+1. multiple years
+
