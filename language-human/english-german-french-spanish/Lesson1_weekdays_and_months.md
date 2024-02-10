@@ -2,15 +2,15 @@
 
 ### Romance weekdays
 
-| Planets   | Japanese                              | Latin             | French    | Spanish   | Italian   | Portuguese    | Romanian  |
-| --        | --                                    | --                | --        | --        | --        | --            | --        |
-| lune      | 月曜日<br>げつようび<br>getsui-youbi  | dies lunae        | lundi     | lunes     | lunedi    | segunda-feira | luni      |
-| mars      | 火曜日<br>かようび  <br>ka-youbi      | dies martis       | mardi     | martes    | martedi   | terça-feira   | marţi     |
-| mercury   | 水曜日<br>すいようび<br>sui-youbi     | dies mercurii     | mercredi  | miércoles | mercoledi | quarta-feira  | miercuri  |
-| jupiter   | 木曜日<br>もくようび<br>moku-youbi    | dies iovis        | jeudi     | jueves    | giovedi   | quinta-feira  | joi       |
-| venus     | 金曜日<br>きんようび<br>kin-youbi     | dies veneris      | vendredi  | viernes   | venerdi   | sexta-feira   | vineri    |
-| saturn    | 土曜日<br>どようび  <br>do-youbi      | dies saturni      | samedi    | sábado    | sabato    | sábado        | sâmbătă   |
-| sun       | 日曜日<br>にちようび<br>nichi-youbi| dies solis/dominicus | dimanche  | domingo   | domenica  | domingo       | duminică  |
+| Planets   | Japanese                              | Latin             | French    | Spanish   | Portuguese    | Italian   | Romanian  |
+| --        | --                                    | --                | --        | --        | --            | --        | --        |
+| lune      | 月曜日<br>げつようび<br>getsui-youbi  | dies lunae        | lundi     | lunes     | segunda-feira | lunedi    | luni      |
+| mars      | 火曜日<br>かようび  <br>ka-youbi      | dies martis       | mardi     | martes    | terça-feira   | martedi   | marţi     |
+| mercury   | 水曜日<br>すいようび<br>sui-youbi     | dies mercurii     | mercredi  | miércoles | quarta-feira  | mercoledi | miercuri  |
+| jupiter   | 木曜日<br>もくようび<br>moku-youbi    | dies iovis        | jeudi     | jueves    | quinta-feira  | giovedi   | joi       |
+| venus     | 金曜日<br>きんようび<br>kin-youbi     | dies veneris      | vendredi  | viernes   | sexta-feira   | venerdi   | vineri    |
+| saturn    | 土曜日<br>どようび  <br>do-youbi      | dies saturni      | samedi    | sábado    | sábado        | sabato    | sâmbătă   |
+| sun       | 日曜日<br>にちようび<br>nichi-youbi| dies solis/dominicus | dimanche  | domingo   | domingo       | domenica  | duminică  |
 
 Notes:
 
@@ -32,51 +32,75 @@ Notes:
 
 * Danish, Swedish, and Norwegian weekdays are almost identical except for a few vowels.
 
-### Romance months
+### Germanic and Romance months
 
-| English   | Latin             | French    | Spanish   | Italian   | Portuguese    | Romanian      |
-| --        | --                | --        | --        | --        | --            | --            |
-| january   | mensis ianuarius  | janvier   | enero     | gennaio   | janeiro       | ianuarie      |
-| february  | mensis februarius | février   | febrero   | febbraio  | fevereiro     | februarie     |
-| march     | mensis martius    | mars      | marzo     | marzo     | março         | martie        |
-| april     | mensis aprilis    | avril     | abril     | aprile    | abril         | aprilie       |
-| may       | mensis maius      | mai       | mayo      | maggio    | maio          | mai           |
-| june      | mensis iunius     | juin      | junio     | giugno    | junho         | iunie         |
-| july      | mensis quintilis  | juillet   | julio     | luglio    | julho         | iulie         |
-| august    | mensis sextilis   | août      | agosto    | agosto    | agosto        | august        |
-| september | mensis september  | septembre | septiembre| settembre | setembro      | septembrie    |
-| october   | mensis october    | octobre   | octubre   | ottobre   | outubro       | octombrie     |
-| november  | mensis november   | novembre  | noviembre | novembre  | novembro      | noiembrie     |
-| december  | mensis december   | décembre  | diciembre | dicembre  | dezembro      | decembrie     |
-
-### Germanic months
-
-| English   | German    | Dutch     |
-| --        | --        | --        |
-| january   | januar    | januari   |
-| february  | februar   | februari  |
-| march     | märz      | maart     |
-| april     | april     | april     |
-| may       | mai       | mei       |
-| june      | juni      | juni      |
-| july      | juli      | juli      |
-| august    | august    | augustus  |
-| september | september | september |
-| october   | oktober   | oktober   |
-| november  | november  | november  |
-| december  | dezember  | december  |
+| English   | German    | Dutch     | Latin             | French    | Spanish   | Portuguese    | Italian   | Romanian      |
+| --        | --        | --        | --                | --        | --        | --            | --        | --            |
+| january   | januar    | januari   | mensis ianuarius  | janvier   | enero     | janeiro       | gennaio   | ianuarie      |
+| february  | februar   | februari  | mensis februarius | février   | febrero   | fevereiro     | febbraio  | februarie     |
+| march     | märz      | maart     | mensis martius    | mars      | marzo     | março         | marzo     | martie        |
+| april     | april     | april     | mensis aprilis    | avril     | abril     | abril         | aprile    | aprilie       |
+| may       | mai       | mei       | mensis maius      | mai       | mayo      | maio          | maggio    | mai           |
+| june      | juni      | juni      | mensis iunius     | juin      | junio     | junho         | giugno    | iunie         |
+| july      | juli      | juli      | mensis quintilis  | juillet   | julio     | julho         | luglio    | iulie         |
+| august    | august    | augustus  | mensis sextilis   | août      | agosto    | agosto        | agosto    | august        |
+| september | september | september | mensis september  | septembre | septiembre| setembro      | settembre | septembrie    |
+| october   | oktober   | oktober   | mensis october    | octobre   | octubre   | outubro       | ottobre   | octombrie     |
+| november  | november  | november  | mensis november   | novembre  | noviembre | novembro      | novembre  | noiembrie     |
+| december  | dezember  | december  | mensis december   | décembre  | diciembre | dezembro      | dicembre  | decembrie     |
 
 Notes:
 
-* Romance and Germanic months follow the same system. English, German, and Dutch months are almost identical.
+* Germanic and Romance months follow the same system. English, German, and Dutch months are almost identical.
 * Latin months are based on Roman republican calendar (https://en.wikipedia.org/wiki/Roman_calendar#Republican_calendar).
 
 ### Other vocabulary
 
 1. year, month, day
 1. hour, minute, second
+1. yesterday, today, tomorrow
 1. times of day
 1. meals of day
 1. seasons of year
-1. multiple years
+
+| English           | German        | Dutch         | Latin                 | French                | Spanish       | Portuguese    | Italian           |
+| --                | --            | --            | --                    | --                    | --            | --            | --                |
+| year              | jahr          | jaar          | year                  | année                 | año           | ano           | anno              |
+| month             | monat         | maand         | mensis                | mois                  | mes           | mês           | mese              |
+| day               | tag           | dag           | dies                  | jour                  | día           | dia           | giorno            |
+| hour              | stunde        | uur           | hora                  | heure                 | hora          | hora          | ora               |
+| minute            | minute        | minuut        | minute                | minutes               | minuto        | minuto        | minuto            |
+| second            | zweite        | tweede        | secundo               | deuxième              | segundo       | segundo       | secondo           |
+| date              | datum         | datum         | date                  | date                  | fecha         | data          | data              |
+| week              | woche         | week          | week                  | semaine               | semana        | semana        | settimana         |
+| weekday           | wochentag     | weekdag       | feria                 | jour de semaine       | día laborable | dia da semana | giorno feriale    |
+| weekend           | wochenende    | weekeinde     | --                    | fin de semaine        | fin de semana | fim de semana | fine settimana    |
+| yesterday         | gestern       | gisteren      | heri                  | hier                  | ayer          | ontem         | ieri              |
+| today             | heute         | vandaag       | hodie                 | aujourd'hui           | hoy           | hoje          | oggi              |
+| tomorrow          | morgen        | morgen        | cras                  | demain                | mañana        | amanhã        | domani            |
+| morning           | morgen        | ochtend       | ante meridiem / mane  | matin                 | mañana        | manhã         | mattina           |
+| noon              | mittag        | middag        | meridies              | midi                  | mediodía      | meio-dia      | mezzogiorno       |
+| aftermoon         | nachmond      | middag        | post meridiem         | après-lune            | tarde         | tarde         | pomeriggio        |
+| evening           | abend         | avond         | vesperi               | soirée                | tarde         | noite         | sera              |
+| night             | nacht         | nacht         | nox                   | nuit                  | noche         | noite         | notte             |
+| midnight          | mitternacht   | middernacht   | media nocte           | minuit                | medianoche    | meia-noite    | mezzanotte        |
+| breakfast         | frühstück     | ontbijt       | prandium              | petit déjeuner        | desayuno      | pequeno-almoço| colazione         |
+| lunch             | mittagessen   | lunchen       | prandium              | déjeuner              | almuerzo      | almoço        | pranzo            |
+| supper / dinner   | abendessen    | avondmaal     | cena                  | souper / dîner        | cena          | ceia          | cena              |
+| spring            | frühling      | lente         | ver                   | printemps             | primavera     | primavera     | primavera         |
+| summer            | sommer        | zomer         | aestas                | été                   | verano        | verão         | estate            |
+| autumn / fall     | herbst        | herfst        | autumna               | automne               | otoño         | outono        | autunno           |
+| winter            | winter        | winter        | hiems                 | hiver                 | invierno      | inverno       | inverno           |
+
+7. multiple years (English only)
+
+| Length    | English       |
+| --        | --            |
+| 1 year    | annual        |
+| 2 year    | biennual      |
+| 4 year    | quadrennial   |
+| 10 year   | decade        |
+| 20 year   | vicennial     |
+| 100 year  | century       |
+| 1000 year | millennium    |
 
