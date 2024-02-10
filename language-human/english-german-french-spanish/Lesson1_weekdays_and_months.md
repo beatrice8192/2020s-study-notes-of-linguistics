@@ -2,15 +2,15 @@
 
 ### Romance weekdays
 
-| Planets   | Japanese                          | Latin             | French    | Spanish   | Italian   | Romanian  | Portuguese    |
-| --        | --                                | --                | --        | --        | --        | --        | --            |
-| lune      | 月曜日 げつようび getsui-youbi    | dies lunae        | lundi     | lunes     | lunedi    | luni      | segunda-feira |
-| mars      | 火曜日 かようび   ka-youbi        | dies martis       | mardi     | martes    | martedi   | marţi     | terça-feira   |
-| mercury   | 水曜日 すいようび sui-youbi       | dies mercurii     | mercredi  | miércoles | mercoledi | miercuri  | quarta-feira  |
-| jupiter   | 木曜日 もくようび moku-youbi      | dies iovis        | jeudi     | jueves    | giovedi   | joi       | quinta-feira  |
-| venus     | 金曜日 きんようび kin-youbi       | dies veneris      | vendredi  | viernes   | venerdi   | vineri    | sexta-feira   |
-| saturn    | 土曜日 どようび   do-youbi        | dies saturni      | samedi    | sábado    | sabato    | sâmbătă   | sábado        |
-| sun       | 日曜日 にちようび nichi-youbi  | dies solis/dominicus | dimanche  | domingo   | domenica  | duminică  | domingo       |
+| Planets   | Japanese                              | Latin             | French    | Spanish   | Italian   | Romanian  | Portuguese    |
+| --        | --                                    | --                | --        | --        | --        | --        | --            |
+| lune      | 月曜日<br>げつようび<br>getsui-youbi  | dies lunae        | lundi     | lunes     | lunedi    | luni      | segunda-feira |
+| mars      | 火曜日<br>かようび  <br>ka-youbi      | dies martis       | mardi     | martes    | martedi   | marţi     | terça-feira   |
+| mercury   | 水曜日<br>すいようび<br>sui-youbi     | dies mercurii     | mercredi  | miércoles | mercoledi | miercuri  | quarta-feira  |
+| jupiter   | 木曜日<br>もくようび<br>moku-youbi    | dies iovis        | jeudi     | jueves    | giovedi   | joi       | quinta-feira  |
+| venus     | 金曜日<br>きんようび<br>kin-youbi     | dies veneris      | vendredi  | viernes   | venerdi   | vineri    | sexta-feira   |
+| saturn    | 土曜日<br>どようび  <br>do-youbi      | dies saturni      | samedi    | sábado    | sabato    | sâmbătă   | sábado        |
+| sun       | 日曜日<br>にちようび<br>nichi-youbi| dies solis/dominicus | dimanche  | domingo   | domenica  | duminică  | domingo       |
 
 Notes:
 
