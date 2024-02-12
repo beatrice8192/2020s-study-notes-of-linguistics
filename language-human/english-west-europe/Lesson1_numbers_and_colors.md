@@ -77,6 +77,17 @@
 | ninety-nine | neun-und-neunzig<br>`9 and 90` | negen-en-negentig<br>`9 and 90` | ni-og-halvfems<br>`9 and (5-0.5)*20` |
 | hundred   | hundert   | honderd   | hundrede  |
 | thousand  | tausend   | duizend   | tusind    |
-| nineteen ninety-nine<br>`19 99` | ein-tausend-neun-hundert-neun-und-neunzig<br>`1000 900 9 and 90` | duizend-negen-honderd-negen-en-negentig<br>`1000 900 9 and 90` | tusind ni-hundrede og ni-og-halvfems<br>`1000 900 and (9 and 90)` |
-| twenty twenty-two<br>`20 22` | zwei-tausend-zwei-und-zwanzig<br>`2000 2 and 20` | twee-duizend-twee-ën-twintig<br>`2000 2 and 20` | to tusind og to-og-tyve<br>`2000 and (2 and 20)` |
+| nineteen ninety-nine<br>`19 99` | ein-tausend-neun-hundert-neun-und-neunzig<br>`1000 900 (9 and 90)` | duizend-negen-honderd-negen-en-negentig<br>`1000 900 (9 and 90)` | tusind ni-hundrede og ni-og-halvfems<br>`1000 900 and (9 and 90)` |
+| twenty twenty-two<br>`20 22` | zwei-tausend-zwei-und-zwanzig<br>`2000 (2 and 20)` | twee-duizend-twee-ën-twintig<br>`2000 (2 and 20)` | to tusind og to-og-tyve<br>`2000 and (2 and 20)` |
+
+### Colors
+
+| English   | German    | Dutch     | Latin     | French    | Spanish   | Portuguese| Italian   |
+| --        | --        | --        | --        | --        | --        | --        | --        |
+| black     | schwarz   | zwart     | nigreos   | noir      | negro     | preto     | nero      |
+| red       | rot       | rood      | rubrum    | rouge     | rojo      | vermelho  | rosso     |
+| green     | grün      | groente   | viridis   | vert      | verde     | verde     | verde     |
+| yellow    | gelb      | geel      | flavum    | jaune     | amarillo  | amarelo   | giallo    |
+| blue      | blau      | blauw     | caeruleum | bleu      | azul      | azul      | blu       |
+| white     | weiß      | wit       | album     | blanc     | blanco    | branco    | bianco    |
 
