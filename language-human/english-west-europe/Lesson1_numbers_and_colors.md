@@ -36,6 +36,8 @@
 | 99    | XCIX  | ενενήντα εννιά<br>enenínta enniá | nonaginta novem<br>`90 9` | quatre-vingt-dix-neuf<br>`4*20 19` | noventa y nueve<br>`90 and 9` | noventa e nove<br>`90 and 9` | novanta-nove<br>`90 9` |
 | 100   | X     | εκατό      <br>ekató          | centum            | cent              | cien      | cem           | cento         |
 | 1000  | M     | χιλιάδες   <br>chiliádes      | milia             | mille             | mil       | mil           | mille         |
+| 1999  | MCMXCIX | χίλια εννιακόσια ενενήντα εννέα<br>chília enniakósia enenínta ennéa | -- | mille neuf cent quatre-vingt-dix-neuf | mil novecientos noventa y nueve | mil novecentos e noventa e nove | mille-nove-cento-novanta-nove |
+| 2022  | MMXXII | δύο χίλιάδες είκοσι δύο<br>dýo chíliádes eíkosi dýo | -- | deux mille vingt-deux | dos mil veintidós | dois mil e vinte e dois | due-mila-venti-due |
 
 ### Germanic numbers
 
@@ -75,4 +77,6 @@
 | ninety-nine | neun-und-neunzig<br>`9 and 90` | negen-en-negentig<br>`9 and 90` | ni-og-halvfems<br>`9 and (5-0.5)*20` |
 | hundred   | hundert   | honderd   | hundrede  |
 | thousand  | tausend   | duizend   | tusind    |
+| nineteen ninety-nine<br>`19 99` | ein-tausend-neun-hundert-neun-und-neunzig<br>`1000 900 9 and 90` | duizend-negen-honderd-negen-en-negentig<br>`1000 900 9 and 90` | tusind ni-hundrede og ni-og-halvfems<br>`1000 900 and (9 and 90)` |
+| twenty twenty-two<br>`20 22` | zwei-tausend-zwei-und-zwanzig<br>`2000 2 and 20` | twee-duizend-twee-ën-twintig<br>`2000 2 and 20` | to tusind og to-og-tyve<br>`2000 and (2 and 20)` |
 
