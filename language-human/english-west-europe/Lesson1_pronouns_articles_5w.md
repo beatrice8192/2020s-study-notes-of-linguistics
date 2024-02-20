@@ -1,4 +1,4 @@
-# Pronouns Cheatsheet
+# Pronoun Cheatsheet
 
 ### Pronouns
 

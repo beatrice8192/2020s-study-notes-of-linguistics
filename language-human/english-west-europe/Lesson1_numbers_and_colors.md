@@ -46,8 +46,8 @@
 | 700   | DCC   | εφτακόσια         <br>eftakósia           | septingenti       | sept cent         | setecientos   | setecentos    | settecento    |
 | 800   | DCCC  | οχτακόσια         <br>ochtakósia          | octingenti        | huit cent         | ochocientos   | oitocentos    | ottocento     |
 | 900   | CM    | εννιακόσια        <br>enniakósia          | nongenti          | neuf cent         | novecientos   | novecentos    | novecento     |
-| 1000  | M     | χιλιάδες          <br>chiliádes           | milia             | mille             | mil           | mil           | mille         |
-| 1000  | M     | χιλιάδες          <br>chiliádes           | mille             | mille             | mil           | mil           | mille         |
+| 1000  | M     | χίλια             <br>chília              | milia             | mille             | mil           | mil           | mille         |
+| 1000  | M     | χίλια             <br>chília              | mille             | mille             | mil           | mil           | mille         |
 | 2000  | MM    | δύο χιλιάδες      <br>dýo chiliádes       | duo milia         | deux mille        | dos mil       | dois mil      | duemila       |
 | 3000  | MMM   | τρεις χιλιάδες    <br>treis chiliádes     | tria milia        | trois mille       | tres mil      | três mil      | tremila       |
 | 4000  | MV̅    | τέσσερις χιλιάδες <br>tésseris chiliádes  | quattuor milia    | quatre mille      | cuatro mil    | quatro mil    | quattro mila  |
@@ -57,8 +57,8 @@
 | 8000  | V̅MMM  | οκτώ χιλιάδες     <br>októ chiliádes      | octo milia        | huit mille        | ocho mil      | oito mil      | ottomila      |
 | 9000  | MX̅    | εννέα χιλιάδες    <br>ennéa chiliádes     | novem milia       | neuf mille        | nueve mil     | nove mil      | novemila      |
 | 10000 | X̅     | δέκα χιλιάδες     <br>déka chiliádes      | decem milia       | dix mille         | diez mil      | dez mil       | dieci mila    |
-| 1999  | MCMXCIX   | χίλια εννιακόσια ενενήντα εννέα   <br>chília enniakósia enenínta ennéa    | -- | mille neuf cent quatre-vingt-dix-neuf| mil novecientos noventa y nueve   | mil novecentos e noventa e nove   | mille-nove-cento-novanta-nove |
-| 2022  | MMXXII    | δύο χίλιάδες είκοσι δύο           <br>dýo chíliádes eíkosi dýo            | -- | deux mille vingt-deux                | dos mil veintidós                 | dois mil e vinte e dois           | due-mila-venti-due            |
+| 1984  | MCMLXXXIV | χίλια εννιακόσια ογδόντα τέσσερα  <br>chília enniakósia ogdónta téssera   | -- | mille neuf cent quatre-vingt-quatre  | mil novecientos ochenta y cuatro  | mil novecentos e oitenta e quatro | mille-nove-cent-ottanta-quattro   |
+| 2012  | MMXII     | δύο χίλιάδες δώδεκα               <br>dýo chíliádes dódeka                | -- | deux mille douze                     | dos mil doce                      | dois mil e doze                   | due-mila-dodici                   |
 
 ### Germanic numbers
 
@@ -117,8 +117,13 @@
 | eight thousand    | achttausend   | achtduizend   | otte tusinde  |
 | nine thousand     | neuntausend   | negenduizend  | ni tusinde    |
 | ten thousand      | zehntausend   | tien duizend  | titusinde     |
-| nineteen ninety-nine<br>`19 99` | ein-tausend-neun-hundert-neun-und-neunzig<br>`1000 900 (9 and 90)` | duizend-negen-honderd-negen-en-negentig<br>`1000 900 (9 and 90)` | tusind ni-hundrede og ni-og-halvfems<br>`1000 900 and (9 and 90)` |
-| twenty twenty-two<br>`20 22` | zwei-tausend-zwei-und-zwanzig<br>`2000 (2 and 20)` | twee-duizend-twee-ën-twintig<br>`2000 (2 and 20)` | to tusind og to-og-tyve<br>`2000 and (2 and 20)` |
+| nineteen eighty-four  <br>`19 84` | neunzehnhundert-vier-und-achtzig  <br>`1900 84`   | duizend-negen-honderd-vier-en-tachtig <br>| tusind ni-hundrede og fire-og-firs    <br>|
+| twenty twelve         <br>`20 12` | zwei-tausend-zwölf                <br>`2000 12`   | twee-duizend-twaalf                   <br>| to tusind og to-og-tyve               <br>|
+
+Notes:
+
+* https://german.stackexchange.com/questions/23325/how-to-read-years-in-german
+* TODO: verify how years are read in Dutch and Danish.
 
 ### Greek/Latin numbers and science
 

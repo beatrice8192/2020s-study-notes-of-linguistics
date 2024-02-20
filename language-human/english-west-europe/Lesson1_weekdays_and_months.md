@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Date Cheatsheet
 
 ### Romance weekdays
@@ -101,8 +99,8 @@ Notes:
 | 1 year    | annual        |
 | 2 year    | biennual      |
 | 4 year    | quadrennial   |
-| 10 year   | decade        |
+| 10 year   | decennial     |
 | 20 year   | vicennial     |
-| 100 year  | century       |
-| 1000 year | millennium    |
+| 100 year  | centennial    |
+| 1000 year | millennial    |
 
