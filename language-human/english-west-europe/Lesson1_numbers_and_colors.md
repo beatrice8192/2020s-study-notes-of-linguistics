@@ -36,6 +36,7 @@
 | 55    | LV    | πενήντα πέντε     <br>penínta pénte       | quinquaginta quinque<br>`50 5`| cinquante cinq<br>`50 5`          | cincuenta y cinco<br>`50 and 5`   | cinquenta e cinco<br>`50 and 5`   | cinquanta-cinque<br>`50 5`|
 | 77    | LXXVII| εβδομήντα επτά    <br>evdomínta eptá      | septuaginta septem<br>`70 7`  | soixante-dix-sept<br>`60 17`      | setenta y siete<br>`70 and 7`     | setenta e sete<br>`70 and 7`      | settanta-sette<br>`70 7`  |
 | 99    | XCIX  | ενενήντα εννιά    <br>enenínta enniá      | nonaginta novem<br>`90 9`     | quatre-vingt-dix-neuf<br>`4*20 19`| noventa y nueve<br>`90 and 9`     | noventa e nove<br>`90 and 9`      | novanta-nove<br>`90 9`    |
+| 100   | C     | εκατό             <br>ekató               | centum            | cent              | centenar      | centenas      | centinaio     |
 | 100   | C     | εκατό             <br>ekató               | centum            | cent              | cien          | cem           | cento         |
 | 200   | CC    | διακόσια          <br>diakósia            | duplex centum     | deux cent         | doscientos    | duzentos      | duecento      |
 | 300   | CCC   | τριακόσια         <br>triakósia           | trecenti          | trois cents       | trescientos   | trezentos     | trecento      |
@@ -46,6 +47,7 @@
 | 800   | DCCC  | οχτακόσια         <br>ochtakósia          | octingenti        | huit cent         | ochocientos   | oitocentos    | ottocento     |
 | 900   | CM    | εννιακόσια        <br>enniakósia          | nongenti          | neuf cent         | novecientos   | novecentos    | novecento     |
 | 1000  | M     | χιλιάδες          <br>chiliádes           | milia             | mille             | mil           | mil           | mille         |
+| 1000  | M     | χιλιάδες          <br>chiliádes           | mille             | mille             | mil           | mil           | mille         |
 | 2000  | MM    | δύο χιλιάδες      <br>dýo chiliádes       | duo milia         | deux mille        | dos mil       | dois mil      | duemila       |
 | 3000  | MMM   | τρεις χιλιάδες    <br>treis chiliádes     | tria milia        | trois mille       | tres mil      | três mil      | tremila       |
 | 4000  | MV̅    | τέσσερις χιλιάδες <br>tésseris chiliádes  | quattuor milia    | quatre mille      | cuatro mil    | quatro mil    | quattro mila  |
@@ -60,42 +62,61 @@
 
 ### Germanic numbers
 
-| English   | German    | Dutch     | Danish    |
-| --        | --        | --        | --        |
-| zero      | null      | nul       | nul       |
-| one       | eins      | een       | en        |
-| two       | zwei      | twee      | to        |
-| three     | drei      | drie      | tre       |
-| four      | vier      | vier      | fire      |
-| five      | fünf      | vijf      | fem       |
-| six       | sechs     | zes       | seks      |
-| seven     | sieben    | zeven     | syv       |
-| eight     | acht      | acht      | otte      |
-| nine      | neun      | negen     | ni        |
-| ten       | zehn      | tien      | ti        |
-| eleven    | elf       | elf       | elleve    |
-| twelve    | zwölf     | twaalf    | tolv      |
-| thirteen  | dreizehn  | dertien   | tretten   |
-| fourteen  | vierzehn  | veertien  | fjorten   |
-| fifteen   | fünfzehn  | vijftien  | femten    |
-| sixteen   | sechzehn  | zestien   | seksten   |
-| seventeen | siebzehn  | zeventien | sytten    |
-| eighteen  | achtzehn  | achttien  | atten     |
-| nineteen  | neunzehn  | negentien | nitten    |
-| twenty    | zwanzig   | twintig   | tyve      |
-| thirty    | dreißig   | dertig    | tredive   |
-| thirty-three | drei-und-dreißig<br>`3 and 30` | drie-ën-dertig<br>`3 and 30` | tre-og-tredive<br>`3 and 30` |
-| forty     | vierzig   | veertig   | fyrre     |
-| fifty     | fünfzig   | vijftig   | halvtreds |
-| fifty-five | fünf-und-fünfzig<br>`5 and 50` | vijf-en-vijftig<br>`5 and 50` | fem-og-halvtreds<br>`5 and (3-0.5)*20` |
-| sixty     | sechzig   | zestig    | tres      |
-| seventy   | siebzig   | zeventig  | halvfjerds|
-| seventy-seven | sieben-und-siebzig<br>`7 and 70` | zeven-en-zeventig<br>`7 and 70` | syv-og-halvfjerds<br>`7 and (4-0.5)*20` |
-| eighty    | achtzig   | tachtig   | firs      |
-| ninety    | neunzig   | negentig  | halvfems  |
-| ninety-nine | neun-und-neunzig<br>`9 and 90` | negen-en-negentig<br>`9 and 90` | ni-og-halvfems<br>`9 and (5-0.5)*20` |
-| hundred   | hundert   | honderd   | hundrede  |
-| thousand  | tausend   | duizend   | tusind    |
+| English           | German        | Dutch         | Danish        |
+| --                | --            | --            | --            |
+| zero              | null          | nul           | nul           |
+| one               | eins          | een           | en            |
+| two               | zwei          | twee          | to            |
+| three             | drei          | drie          | tre           |
+| four              | vier          | vier          | fire          |
+| five              | fünf          | vijf          | fem           |
+| six               | sechs         | zes           | seks          |
+| seven             | sieben        | zeven         | syv           |
+| eight             | acht          | acht          | otte          |
+| nine              | neun          | negen         | ni            |
+| ten               | zehn          | tien          | ti            |
+| eleven            | elf           | elf           | elleve        |
+| twelve            | zwölf         | twaalf        | tolv          |
+| thirteen          | dreizehn      | dertien       | tretten       |
+| fourteen          | vierzehn      | veertien      | fjorten       |
+| fifteen           | fünfzehn      | vijftien      | femten        |
+| sixteen           | sechzehn      | zestien       | seksten       |
+| seventeen         | siebzehn      | zeventien     | sytten        |
+| eighteen          | achtzehn      | achttien      | atten         |
+| nineteen          | neunzehn      | negentien     | nitten        |
+| twenty            | zwanzig       | twintig       | tyve          |
+| thirty            | dreißig       | dertig        | tredive       |
+| forty             | vierzig       | veertig       | fyrre         |
+| fifty             | fünfzig       | vijftig       | halvtreds     |
+| sixty             | sechzig       | zestig        | tres          |
+| seventy           | siebzig       | zeventig      | halvfjerds    |
+| eighty            | achtzig       | tachtig       | firs          |
+| ninety            | neunzig       | negentig      | halvfems      |
+| thirty-three      | drei-und-dreißig  <br>`3 and 30`  | drie-ën-dertig    <br>`3 and 30` | tre-og-tredive     <br>`3 and 30`          |
+| fifty-five        | fünf-und-fünfzig  <br>`5 and 50`  | vijf-en-vijftig   <br>`5 and 50` | fem-og-halvtreds   <br>`5 and (3-0.5)*20`  |
+| seventy-seven     | sieben-und-siebzig<br>`7 and 70`  | zeven-en-zeventig <br>`7 and 70` | syv-og-halvfjerds  <br>`7 and (4-0.5)*20`  |
+| ninety-nine       | neun-und-neunzig  <br>`9 and 90`  | negen-en-negentig <br>`9 and 90` | ni-og-halvfems     <br>`9 and (5-0.5)*20`  |
+| hundred           | hundert       | honderd       | hundrede      |
+| one hundred       | einhundert    | honderd       | et hundrede   |
+| two hundred       | zweihundert   | tweehonderd   | to hundrede   |
+| three hundred     | dreihundert   | driehonderd   | tre hundrede  |
+| four hundred      | vierhundert   | vierhonderd   | firehundrede  |
+| five hundred      | fünfhundert   | vijfhonderd   | fem hundrede  |
+| six hundred       | sechshundert  | zeshonderd    | seks hundrede |
+| seven hundred     | siebenhundert | zevenhonderd  | syvhundrede   |
+| eight hundred     | acht hundert  | achthonderd   | ottehundrede  |
+| nine hundred      | neun hundert  | negenhonderd  | nihundrede    |
+| thousand          | tausend       | duizend       | tusind        |
+| one thousand      | eintausend    | duizend       | et tusind     |
+| two thousand      | zweitausend   | tweeduizend   | to tusinde    |
+| three thousand    | dreitausend   | drie duizend  | tre tusinde   |
+| four thousand     | vier tausend  | vierduizend   | fire tusinde  |
+| five thousand     | fünftausend   | vijfduizend   | fem tusinde   |
+| six thousand      | sechstausend  | zesduizend    | seks tusind   |
+| seven thousand    | siebentausend | zevenduizend  | syv tusinde   |
+| eight thousand    | achttausend   | achtduizend   | otte tusinde  |
+| nine thousand     | neuntausend   | negenduizend  | ni tusinde    |
+| ten thousand      | zehntausend   | tien duizend  | titusinde     |
 | nineteen ninety-nine<br>`19 99` | ein-tausend-neun-hundert-neun-und-neunzig<br>`1000 900 (9 and 90)` | duizend-negen-honderd-negen-en-negentig<br>`1000 900 (9 and 90)` | tusind ni-hundrede og ni-og-halvfems<br>`1000 900 and (9 and 90)` |
 | twenty twenty-two<br>`20 22` | zwei-tausend-zwei-und-zwanzig<br>`2000 (2 and 20)` | twee-duizend-twee-ën-twintig<br>`2000 (2 and 20)` | to tusind og to-og-tyve<br>`2000 and (2 and 20)` |
 
