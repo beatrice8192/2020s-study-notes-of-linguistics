@@ -1,30 +1,38 @@
-# Pronunciation Cheatsheet
+# Phonetic Cheatsheet
 
 Overview:
 
-* This pronunciation guide is mainly based on 6 languages: Chinese, Japanese, English, German, French, Spanish.
-* Even though each language has its unique variance for almost every sound, this guide attempts to approximate, compare, and summarize the sounds across multiple languages.
+* This page is mainly based on _Chinese_, _Japanese_, _English_.
+* It is expanded to cover pronunciations in _German_, _French_, _Spanish_.
+* Even though each language has its unique variance for almost every phonetic sound it makes, this guide attempts to _quantify_, _approximate_, _compare_, and _summarize_ the sounds across multiple languages.
+    * Quantify: Instead of using literal descriptions, I prefer to imagine the sounds that are the furthest apart as a _graph_, and insert nodes using _mathematical formula_.
+        * For example:
+        * [A] = [B] + [C], each of [B] and [C] composes 50%.
+        * [A] = [[B] + [C]] + [D], each of [B] and [C] composes 25%.
+    * Approximate: This is an important skill to possess as a foreign speaker. An approximation is considered _safe_ if it doesn't introduce much misunderstanding under _context_.
+    * Compare: I would include as many _references_ and _examples_ as possible, if the same sound is produced across multiple languages.
+    * Summarize: I would include as many _tables_ and _diagrams_ as possible, instead of using single dimensional lists.
 
 Notations:
 
-* B: B/Beatrice notation
-* IPA: International Phonetic Alphabet
-* CH: Chinese
-* JP: Japanese
-* EN: English
-* DE: German
-* FR: French
-* ES: Spanish
+* `B`: B/Beatrice notation
+* [IPA]: International Phonetic Alphabet
+* (CH): Chinese
+* (JP): Japanese
+* (EN): English
+* (DE): German
+* (FR): French
+* (ES): Spanish
 
 ### Consonants matrix
 
-| **bases→**    | [k]   K/か    | [t]   T/た    | [tɕ]  Q/ち    | [ts]  C/TS/つ | [tʃ]  CH/TR   | [p]   P/ぱ    |
-| --            | --            | --            | --            | --            | --            | --            |
-| **modifiers↓**| --            | --            | --            | --            | --            | --            |
-| muddy/dakuon  | [ɡ]   G/が    | [d]   D/だ    | [dʑ]  J/じ    | [dz]  Z/DS/ず | [dʒ]  ZH/DR   | [b]   B/ば    |
-| clear/seion   | [h]   H/は    | --            | [ɕ]   X/し    | [s]   S/す    | [ʃ]   SH      | [f]   F       |
-| approximant   |       E/あ    | --            | [j]   Y/や    |       RZ      | [r]   R       | [v]   V       |
-| nasal/bidakuon| [ŋ]   NG      | [n]   N/な    | [ɲ]   GN/Ñ/に |       NZ      |       NR      | [m]   M/ま    |
+| **bases→**    | [k]   `K`/か  | [t]   `T`/た  | [tɕ]  `Q`/ち      | [ts]  C/`TS`/つ   | [tʃ]  CH/`TR` | [p]   `P`/ぱ  |
+| --            | --            | --            | --                | --                | --            | --            |
+| **modifiers↓**| --            | --            | --                | --                | --            | --            |
+| muddy/dakuon  | [ɡ]   `G`/が  | [d]   `D`/だ  | [dʑ]  `J`/じ      | [dz]  Z/`DS`/ず   | [dʒ]  ZH/`DR` | [b]   `B`/ば  |
+| clear/seion   | [h]   `H`/は  | --            | [ɕ]   `X`/し      | [s]   `S`/す      | [ʃ]   `SH`    | [f]   `F`     |
+| approximant   |       `E`/あ  | --            | [j]   `Y`/や      |       `RZ`        | [ɹ]   `R`     | [v]   `V`     |
+| nasal/bidakuon| [ŋ]   `NG`    | [n]   `N`/な  | [ɲ]   `GN`/Ñ/に   |       `NZ`        |       `NR`    | [m]   `M`/ま  |
 
 Format:
 
@@ -36,7 +44,15 @@ Column [k] K/か:
 
 * (Plosive) Velar consonant, the back part of the tongue against the soft palate.
 * https://en.wikipedia.org/wiki/Velar_consonant
-* In many Japanese dialects, the muddy/dakuon variance が, ぎ, ぐ, げ, ご can all be pronounced with nasal variance, which is not reflected in the writing.
+* `E`, `Y`, `W` disambiguation:
+    * `E` is the vowel sound that's used to initiate `a`, `e`, `o`.
+    * **oo**ze (EN) `Eu` is different from **woo**l (EN) `Wu`.
+    * **ea**sy (EN) `Ei` is different from **y**ankee (EN) `Yi`.
+* `NG` usage:
+    * Western Europe: uncommon, but exists.
+        * si**ng**er (EN)
+    * Eastern Asia: common.
+* In many Japanese dialects, the muddy/dakuon variance `G` (が, ぎ, ぐ, げ, ご) can all be pronounced with nasal variance `NG`, which is not reflected in the writing.
     * 長 na-**ng**a (JP)
 
 Column [t] T/た:
