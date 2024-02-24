@@ -2,8 +2,8 @@
 
 Overview:
 
-* This page is mainly based on _Chinese_, _Japanese_, _English_.
-* It is expanded to cover pronunciations in _German_, _French_, _Spanish_.
+* This page is mainly based on _English_, _Chinese_, _Japanese_. (TODO: fix sequence)
+* It is expanded to cover phonetic sound in _German_, _French_, _Spanish_.
 * Even though each language has its unique variance for almost every phonetic sound it makes, this guide attempts to _quantify_, _approximate_, _compare_, and _summarize_ the sounds across multiple languages.
     * Quantify: Instead of using literal descriptions, I prefer to imagine the sounds that are the furthest apart as a _graph_, and insert nodes using _mathematical formula_.
         * For example:
@@ -15,28 +15,31 @@ Overview:
 
 Notations:
 
-* `B`: B/Beatrice notation
-* [IPA]: International Phonetic Alphabet
-* (CH): Chinese
-* (JP): Japanese
-* (EN): English
-* (DE): German
-* (FR): French
-* (ES): Spanish
+| Notation  | Description                       |
+| --        | --                                |
+| ""        | Spelling                          |
+| `B`       | B/Beatrice notation               |
+| [IPA]     | International Phonetic Alphabet   |
+| (CH)      | Chinese                           |
+| (JP)      | Japanese                          |
+| (EN)      | English                           |
+| (DE)      | German                            |
+| (FR)      | French                            |
+| (ES)      | Spanish                           |
 
 ### Consonants matrix
 
-| **bases→**    | [k]   `K`/か  | [t]   `T`/た  | [tɕ]  `Q`/ち      | [ts]  C/`TS`/つ   | [tʃ]  CH/`TR` | [p]   `P`/ぱ  |
-| --            | --            | --            | --                | --                | --            | --            |
-| **modifiers↓**| --            | --            | --                | --                | --            | --            |
-| muddy/dakuon  | [ɡ]   `G`/が  | [d]   `D`/だ  | [dʑ]  `J`/じ      | [dz]  Z/`DS`/ず   | [dʒ]  ZH/`DR` | [b]   `B`/ば  |
-| clear/seion   | [h]   `H`/は  | --            | [ɕ]   `X`/し      | [s]   `S`/す      | [ʃ]   `SH`    | [f]   `F`     |
-| approximant   |       `E`/あ  | --            | [j]   `Y`/や      |       `RZ`        | [ɹ]   `R`     | [v]   `V`     |
-| nasal/bidakuon| [ŋ]   `NG`    | [n]   `N`/な  | [ɲ]   `GN`/Ñ/に   |       `NZ`        |       `NR`    | [m]   `M`/ま  |
+| **bases→**    | [k]   `K`/か (EN) | [t]   `T`/た (EN) | [tɕ]  `Q`/ち    (CH)  | [ts]  C/`TS`/つ (EN)  | [tʃ]  CH/`TR` (EN)| [p]   `P`/ぱ (EN) |
+| --            | --                | --                | --                    | --                    | --                | --                |
+| **modifiers↓**| --                | --                | --                    | --                    | --                | --                |
+| muddy/dakuon  | [ɡ]   `G`/が (EN) | [d]   `D`/だ (EN) | [dʑ]  `J`/じ    (CH)  | [dz]  Z/`DS`/ず (EN)  | [dʒ]  ZH/`DR` (EN)| [b]   `B`/ば (EN) |
+| clear/seion   | [h]   `H`/は (EN) | --                | [ɕ]   `X`/し    (CH)  | [s]   `S`/す    (EN)  | [ʃ]   `SH`    (EN)| [f]   `F`    (EN) |
+| approximant   | [ ]   `E`/あ (EN) | --                | [j]   `Y`/や    (EN)  | [ ]   `RZ`      (B)   | [ɹ]   `R`     (EN)| [v]   `V`    (EN) |
+| nasal/bidakuon| [ŋ]   `NG`   (JP) | [n]   `N`/な (EN) | [ɲ]   `GN`/Ñ/に (FR)  | [ ]   `NZ`      (B)   | [ ]   `NR`    (B) | [m]   `M`/ま (EN) |
 
 Format:
 
-* Each cell: [IPA][B notation][hiragana]
+* [IPA] `B notation`/hiragana (B notation origin)
 * Upper case
 * Order by hiragana
 
@@ -63,7 +66,7 @@ Format:
 * [l] `L`/ら variance:
     * Lateral approximant.
     * Commonly used in many languages.
-    * Japanese romaji spells (ら, り, る, れ, ろ) as R, but they pronounce the same as `L` in Chinese and English.
+    * Japanese romaji spells (ら, り, る, れ, ろ) as "r", but they pronounce the same as `L` in Chinese and English.
     * saku**r**a (JP)
 
 **Column [tɕ] `Q`/ち:**
@@ -74,12 +77,27 @@ Format:
     * Western Europe: uncommon.
     * Eastern Asia: common.
         * In Japanese romaji, `Q`/ち is spelled as "chi", but it's not "**chea**p" (EN), it's "七" (CH) [tɕi] `Qi`. Similarly, `X`/し is spelled as "shi", but it's not "**shee**p" (EN), it's "西" (CH) [ɕi] `Xi`.
+* [ɲ] = [n] + [j]
+    * `N`:
+        * fi**n**ish (EN)
+    * `GN`:
+        * **n**ews (EN)
+        * a**nn**ual (EN)
+        * espa**gn**ol (FR)
+        * espa**ñ**a (ES)
+    * Chinese
+    * Japanese
 
 **Column [ts] C/`TS`/つ:**
 
 * (Fricative) Alveolar consonant, the tongue against or close to the superior alveolar ridge.
 * https://en.wikipedia.org/wiki/Alveolar_consonant
 * In Japanese romaji, `S`/す is spelled as "su", `TS`/つ is spelled as "tsu", but none of them should have any "**u**" or "**oo**" sound. `S`/す should be 四 (CH) [sɹ̩], `TS`/つ should be 次 (CH) [tsɹ̩].
+* Japanese doesn't have the sounds `Si`, `Su`, `Ti`, `Tu`. They are replaced with `Xi`, `S`, `Qi`, `TS`.
+* Japanese `TS` only supports 1 type of vowel. Chinese supports more.
+* English: TODO.
+* Vowel conjugation: TODO.
+* Distinguish `Z`, `RZ`: TODO.
 * The nasal variance `NZ` is only theoretical. I haven't seen any language using it.
 
 **Column [tʃ] CH/`TR`:**
@@ -89,23 +107,24 @@ Format:
 * [ʒ] = [ʃ] + [dʒ]
     * Even though English IPA has a separate symbol for [ʒ], I would treat it as a combination of [ʃ] + [dʒ].
     * vi**s**ion (EN)
-* [tʃ] `TR`, [dʒ] `DR`, [ɹ] `R` usage:
-    * English `TR`: common, generated by "tr" or "ch".
-        * **ch**ess (EN) [tʃ]
-        * **tr**y (EN) [tʃɹ]
-    * English `DR`: common, generated by "dr" or "str", but not "zh".
-        * **dr**ess (EN) [dʒɹ]
-        * s**tr**eet (EN) [dʒɹ]
-    * English `R`: common, generated by "r".
-        * **r**otate (EN) [ɹ]
-    * Chinese `TR`: common, generated by "ch".
-        * 吃 (CH) [tʃɻ̩]
-    * Chinese `DR`: common, generated by "zh".
-        * 之 (CH) [dʒɻ̩]
-    * Chinese `R`: common, generated by "r".
-        * 日 (CH) [ɹ]
-    * Japanese: none of the above.
 * The nasal variance `NR` is only theoretical. I haven't seen any language using it.
+* [tʃ] `TR`, [dʒ] `DR`, [ɹ] `R` usage:
+    * Japanese: none of the above.
+    * Other languages: TODO.
+    * Vowel conjugation: TODO.
+
+| B notation    | Generated by  | Examples                  |
+| --            | --            | --                        |
+| `TR`  (EN)    | "tr"          | **tr**espass (EN) [tʃɹ]   |
+|               | "ch"          | **ch**ess (EN) [tʃ]       |
+| `DR`  (EN)    | "dr"          | **dr**ess (EN) [dʒɹ]      |
+|               | "str"         | s**tr**ess (EN) [dʒɹ]     |
+|               | "j"           | **j**ohn  (EN)            |
+|               | "g"           | **g**eor**g**e (EN)       |
+| `R`   (EN)    | "r"           | **r**est (EN) [ɹ]         |
+| `TR`  (CH)    | "ch"          | 吃 (CH) [tʃɻ̩]             |
+| `DR`  (CH)    | "zh"          | 之 (CH) [dʒɻ̩]             |
+| `R`   (CH)    | "r"           | 日 (CH) [ɹ]               |
 
 **Column [p] `P`/ぱ:**
 
@@ -120,7 +139,7 @@ Format:
     * Chinese and Japanese: has `W` only.
 * In many Spanish dialects, `V` is pronounced as `B`.
 
-**Dental consonant [θ][ð] `TH`:**
+**Dental consonant [θ][ð] `TH` (EN):**
 
 * Dental consonant, the tongue against the upper teeth.
 * https://en.wikipedia.org/wiki/Dental_consonant
@@ -128,17 +147,17 @@ Format:
 * https://en.wikipedia.org/wiki/Voiced_dental_fricative
 * Europe:
     * Very common in English and hits a lot of frequent words.
-    * pronouns: they, them, this, that, these, those, there (EN)
-    * articles: the (EN)
-    * nouns: thing (EN)
-    * conjunctions: than, though (EN)
-    * adverbs: then (EN)
+    * pronouns: **th**ey, **th**em, **th**is, **th**at, **th**ese, **th**ose, **th**ere (EN)
+    * articles: **th**e (EN)
+    * nouns: **th**ing (EN)
+    * conjunctions: **th**an, **th**ough (EN)
+    * adverbs: **th**en (EN)
 * Asia:
     * Eastern Asia: uncommon, usually mistaken with `S`.
     * Southern Asia: uncommon, usually mistaken with `T`.
     * Arabic: common.
 
-**Trill consonant [r] `RH`:**
+**Trill consonant [r] `RR` (ES):**
 
 * Trill consonant, a consonantal sound produced by vibrations between the active articulator and passive articulator.
 * https://en.wikipedia.org/wiki/Trill_consonant
@@ -146,7 +165,7 @@ Format:
     * Common in many languages, such as Spanish and Russian, except English.
     * French variance: `H` based.
         * [r] = [[h] + [k]] + trill
-        * **r**ouge (FR)
+        * **r**usse (FR)
     * Russian variance: `R` based. (TODO: Study this)
         * **р**усский (RU)
     * Spanish variance: `L`/`R` based.
@@ -154,7 +173,7 @@ Format:
         * "rr" = [r] + more trill
         * Depending on the context, it can be approximated as either `L` or `R`.
         * As `R` if it's at the beginning of word.
-            * **r**oja (ES)
+            * **r**usa (ES)
         * As `L` if it's in the middle of word.
             * aho**r**a (ES)
             * aho**rr**ar (ES)
@@ -187,12 +206,12 @@ Distinguish `E`/え, `Y`/い, `W`/う:
     * **oo**ze (EN) `Eu` is different from **woo**l (EN) `Wu`.
     * **ea**sy (EN) `Ei` is different from **y**ankee (EN) `Yi`.
 * `Eu` and `Ei` are more commonly used in Western Europe than Eastern Asia.
-* Chinese: 一 is pronounced as `Yi`, 五 is pronounced as `Wu`. There are no inconsistencies.
-* Japanese: い is generally pronounced as `Yi`, う is generally pronounced as `Wu`, even though they are classified as vowels and there are inconsistencies in the pronunciations.
+* Chinese: 一 is pronounced as `Yi`, 五 is pronounced as `Wu` consistently.
+* Japanese: い is generally pronounced as `Yi`, う is generally pronounced as `Wu`. However, there are inconsistencies in the pronunciations.
 
-Distinguish [l] `L`, [n] `N`, [ɹ] `R`, [r] `RH`:
+Distinguish [l] `L`, [n] `N`, [ɹ] `R`, [r] `RR`:
 
-| Language      | [l] `L`       | [n] `N`       | [ɹ] `R`       | [r] `RH`      |
+| Language      | [l] `L`       | [n] `N`       | [ɹ] `R`       | [r] `RR`      |
 | --            | --            | --            | --            | --            |
 | Chinese       | 蓝 `Lan`      | 南 `Nan`      | 然 `Ran`      | --            |
 | Japanese      | 蘭 `Lan`      | 何 `Nan`      | --            | --            |
@@ -218,18 +237,6 @@ Distinguish [s] `S`, [ʃ] `SH`, [ɕ] `X`:
 | Chinese       | 四            | 十            | 夕            |
 | Japanese      | 寿司          | --            | 寿司          |
 | English       | ??            | ??            | --            |
-
-Distinguish  [n] `N`, [ŋ] `GN`:
-
-* `N`:
-    * fi**n**ish (EN)
-* `GN`:
-    * **n**ews (EN)
-    * a**nn**ual (EN)
-    * espa**gn**ol (FR)
-    * espa**ñ**a (ES)
-
-Distinguish `Z`, `RZ`:
 
 ### Consonants modifiers
 
