@@ -150,12 +150,12 @@ Notes:
 
 ### Colors
 
-| English   | German    | Dutch     | Latin     | French    | Spanish   | Portuguese| Italian   |
-| --        | --        | --        | --        | --        | --        | --        | --        |
-| black     | schwarz   | zwart     | nigreos   | noir      | negro     | preto     | nero      |
-| red       | rot       | rood      | rubrum    | rouge     | rojo      | vermelho  | rosso     |
-| green     | grün      | groente   | viridis   | vert      | verde     | verde     | verde     |
-| yellow    | gelb      | geel      | flavum    | jaune     | amarillo  | amarelo   | giallo    |
-| blue      | blau      | blauw     | caeruleum | bleu      | azul      | azul      | blu       |
-| white     | weiß      | wit       | album     | blanc     | blanco    | branco    | bianco    |
+| Japanese  | English   | German    | Dutch     | Latin     | French    | Spanish   | Portuguese| Italian   |
+| --        | --        | --        | --        | --        | --        | --        | --        | --        |
+| kuro      | black     | schwarz   | zwart     | nigreos   | noir      | negro     | preto     | nero      |
+| aka       | red       | rot       | rood      | rubrum    | rouge     | rojo      | vermelho  | rosso     |
+| midori    | green     | grün      | groente   | viridis   | vert      | verde     | verde     | verde     |
+| kiiro     | yellow    | gelb      | geel      | flavum    | jaune     | amarillo  | amarelo   | giallo    |
+| ao        | blue      | blau      | blauw     | caeruleum | bleu      | azul      | azul      | blu       |
+| shiro     | white     | weiß      | wit       | album     | blanc     | blanco    | branco    | bianco    |
 
