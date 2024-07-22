@@ -92,6 +92,10 @@ Notes:
 | autumn / fall     | herbst        | herfst        | autumna               | automne               | otoño         | outono        | autunno           |
 | winter            | winter        | winter        | hiems                 | hiver                 | invierno      | inverno       | inverno           |
 
+Notes:
+
+* In Spanish, mañana means both tomorrow (verb) and morning (noun).
+
 7. multiple years (English only)
 
 | Length    | English       |
