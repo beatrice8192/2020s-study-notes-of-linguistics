@@ -1,15 +1,8 @@
 # Pronoun Cheatsheet
 
-Notations:
+### Pronouns: Who, What, When, Where, Why
 
-* S: Single
-* P: Plural
-* M: Masculine
-* F: Feminine
-* Sb: as subject (German only)
-* Ob: as object (German only)
-
-### Who, What, When, Where, Why
+Basic:
 
 | English   | Classical Latin   | German    | French    | Spanish   |
 | --        | --                | --        | --        | --        |
@@ -20,49 +13,69 @@ Notations:
 | why       | cur               | warum     | pourquoi  | por qué   |
 | how       | quomodo           | wie       | comment   | cómo      |
 
-Reference:
+References:
 
 * https://en.wikipedia.org/wiki/Five_Ws
 
 ### Articles
 
-| English       | German    | French    | Spanish   |
-| --            | --        | --        | --        |
-| a/an/one  (M) | ein       | un        | un        |
-| a/an/one  (F) | eine      | une       | una       |
-| the       (MS)| der       | le        | el        |
-| the       (MP)| die       | les       | los       |
-| the       (FS)| die       | la        | la        |
-| the       (FP)| die       | les       | las       |
+Basic:
+
+| Modifier          | English   | German    | French    | Spanish   |
+| --                | --        | --        | --        | --        |
+| masculine         | a/an/one  | ein       | un        | un        |
+| feminine          | a/an/one  | eine      | une       | una       |
+| masculine single  | the       | der       | le        | el        |
+| feminine single   | the       | die       | la        | la        |
+| masculine plural  | the       | die       | les       | los       |
+| feminine plural   | the       | die       | les       | las       |
 
 Examples:
 
-| English           | German        | French        | Spanish       |
-| --                | --            | --            | --            |
-| an/one apple      | ein apfel     | une pomme     | una manzana   |
-| a/one banana      | eine banane   | une banane    | un plátano    |
-| a/one cherry      | eine kirsche  | une cerise    | una cereza    |
-| a/one pineapple   | eine ananas   | un ananas     | una piña      |
+| English           | German            | French            | Spanish           |
+| --                | --                | --                | --                |
+| an/one apple      | **ein**  apfel    | **une** pomme     | **una** manzana   |
+| a/one banana      | **eine** banane   | **une** banane    | **un**  plátano   |
+| a/one cherry      | **eine** kirsche  | **une** cerise    | **una** cereza    |
+| an/one orange     | **eine** orange   | **une** orange    | **una** naranja   |
+| a/one pineapple   | **eine** ananas   | **un**  ananas    | **una** piña      |
+| a/one tomato      | **eine** tomate   | **une** tomate    | **un**  tomate    |
 
-| English           | German        | French        | Spanish       |
-| --                | --            | --            | --            |
-| the apple         | der apfel     | la pomme      | la manzana    |
-| the apples        | die äpfel     | les pommes    | las manzanas  |
-| the banana        | die banane    | la banane     | el plátano    |
-| the bananas       | die bananen   | les bananes   | los plátanos  |
-| the cherry        | die kirsche   | la cerise     | la cereza     |
-| the cherries      | die kirschen  | les cerises   | las cerezas   |
-| the pineapple     | die ananas    | l'ananas      | la piña       |
-| the pineapples    | die ananas    | les ananas    | las piñas     |
+| English           | German            | French            | Spanish       |
+| --                | --                | --                | --            |
+| the apple         | **der** apfel     | **la**  pomme     | **la**  manzana    |
+| the apples        | **die** äpfel     | **les** pommes    | **las** manzanas  |
+| the banana        | **die** banane    | **la**  banane    | **el**  plátano    |
+| the bananas       | **die** bananen   | **les** bananes   | **los** plátanos  |
+| the cherry        | **die** kirsche   | **la**  cerise    | **la**  cereza     |
+| the cherries      | **die** kirschen  | **les** cerises   | **las** cerezas   |
+| the orange        | **die** orange    | **l**'orange      | **la**  naranja    |
+| the oranges       | **die** orangen   | **les** oranges   | **las** naranjas  |
+| the pineapple     | **die** ananas    | **l**'ananas      | **la**  piña       |
+| the pineapples    | **die** ananas    | **les** ananas    | **las** piñas     |
+| the tomato        | **die** tomate    | **la**  tomate    | **el**  tomate     |
+| the tomatoes      | **die** tomaten   | **les** tomates   | **los** tomates   |
 
-### Pronouns Concepts
+German only:
 
-| Name          | Description                                       |
+|               |                                                   |
 | --            | --                                                |
 | nominative    | the subject                                       |
 | accusative    | the direct object                                 |
 | dative        | the indirect object or object of a preposition    |
 | genitive      | possessive                                        |
+
+| Gender    | Single Subject    | Single Object | Plural    |
+| --        | --                | --            | --        |
+| masculine | der               | den           | die       |
+| feminine  | die               | die           | die       |
+| neuter    | das               | das           | die       |
+
+| Gender    | Single Subject    | Single Object     | Plural                |
+| --        | --                | --                | --                    |
+| masculine | **der** Mann isst | iss **den** Mann  | **die** Männer essen  |
+| feminine  | **die** Frau isst | iss **die** Frau  | **die** Frauen essen  |
+| neuter    | **das** Kind isst | iss **das** Kind  | **die** Kinder essen  |
 
 References:
 
@@ -72,6 +85,8 @@ References:
 * https://en.wikibooks.org/wiki/Category:Book:French
 * https://en.wikibooks.org/wiki/Category:Book:Spanish
 * https://people.umass.edu/sharris/in/gram/GrammarBook/GramCases.html
+
+- [ ] Spelling rules of genders in nouns:
 
 ### Pronouns - (Naive) English-to-X Summary
 
