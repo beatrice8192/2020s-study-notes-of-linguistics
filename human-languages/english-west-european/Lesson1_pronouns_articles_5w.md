@@ -6,6 +6,8 @@ Notations:
 * P: Plural
 * M: Masculine
 * F: Feminine
+* Sb: as subject (German only)
+* Ob: as object (German only)
 
 ### Who, What, When, Where, Why
 
@@ -24,16 +26,34 @@ Reference:
 
 ### Articles
 
-| English   | German    | French    | Spanish   |
-| --        | --        | --        | --        |
-| a         | ein       | un        | a         |
-| an        | eine      | un        | un        |
-| the       | das       | le        | el        |
-| the       | das       | il        | el        |
-| the   (MS)| der       | il        | lo        |
-| the   (MP)| die       | les       | los       |
-| the   (FS)| die       | la        | la        |
-| the   (FP)| die       | le        | las       |
+| English       | German    | French    | Spanish   |
+| --            | --        | --        | --        |
+| a/an/one  (M) | ein       | un        | un        |
+| a/an/one  (F) | eine      | une       | una       |
+| the       (MS)| der       | le        | el        |
+| the       (MP)| die       | les       | los       |
+| the       (FS)| die       | la        | la        |
+| the       (FP)| die       | les       | las       |
+
+Examples:
+
+| English           | German        | French        | Spanish       |
+| --                | --            | --            | --            |
+| an/one apple      | ein apfel     | une pomme     | una manzana   |
+| a/one banana      | eine banane   | une banane    | un plátano    |
+| a/one cherry      | eine kirsche  | une cerise    | una cereza    |
+| a/one pineapple   | eine ananas   | un ananas     | una piña      |
+
+| English           | German        | French        | Spanish       |
+| --                | --            | --            | --            |
+| the apple         | der apfel     | la pomme      | la manzana    |
+| the apples        | die äpfel     | les pommes    | las manzanas  |
+| the banana        | die banane    | la banane     | el plátano    |
+| the bananas       | die bananen   | les bananes   | los plátanos  |
+| the cherry        | die kirsche   | la cerise     | la cereza     |
+| the cherries      | die kirschen  | les cerises   | las cerezas   |
+| the pineapple     | die ananas    | l'ananas      | la piña       |
+| the pineapples    | die ananas    | les ananas    | las piñas     |
 
 ### Pronouns Concepts
 
