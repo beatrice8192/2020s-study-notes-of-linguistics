@@ -1,22 +1,5 @@
 # Pronoun Cheatsheet
 
-### Pronouns: Who, What, When, Where, Why
-
-Basic:
-
-| English   | Classical Latin   | German    | French    | Spanish   |
-| --        | --                | --        | --        | --        |
-| who       | quis              | wer       | oms       | oms       |
-| what      | quid              | was       | quoi      | qué       |
-| when      | quando            | wenn      | quand     | cuando    |
-| where     | ubi               | wo        | où        | dónde     |
-| why       | cur               | warum     | pourquoi  | por qué   |
-| how       | quomodo           | wie       | comment   | cómo      |
-
-References:
-
-* https://en.wikipedia.org/wiki/Five_Ws
-
 ### Articles
 
 Basic:
@@ -25,10 +8,10 @@ Basic:
 | --                | --        | --        | --        | --        |
 | masculine         | a/an/one  | ein       | un        | un        |
 | feminine          | a/an/one  | eine      | une       | una       |
-| masculine single  | the       | der       | le        | el        |
-| feminine single   | the       | die       | la        | la        |
-| masculine plural  | the       | die       | les       | los       |
-| feminine plural   | the       | die       | les       | las       |
+| masculine, single | the       | der       | le        | el        |
+| feminine, single  | the       | die       | la        | la        |
+| masculine, plural | the       | die       | les       | los       |
+| feminine, plural  | the       | die       | les       | las       |
 
 Examples:
 
@@ -94,16 +77,55 @@ The pronouns are translated from English word-by-word.
 However, some of the words are one-to-many mappings between English and Romance languages.
 In which case, the Romance-to-Romance summary would be more helpful.
 
-| English   | German    | French        | Spanish   |
-| --        | --        | --            | --        |
-| I         | ich       | je            | yo        |
-| me        | mich      | moi           | mí        |
-| my        | mein      | mon           | mi        |
-| mine      | meins     | mien, mienne  | mío       |
-| you    (S)| du        | tu            | tú        |
-| you    (S)| du        | toi           | tú        |
-| your   (S)| dein      | ton           | su        |
-| yours  (S)| dein      | tien, tienne  | tuyo      |
+1st Person, Single:
+
+| Modifier                  | English   | German                        | French                            | Spanish                       |
+| --                        | --        | --                            | --                                | --                            |
+| single, subjective        | I         | ich                           | je                                | yo                            |
+| single, objective         | me        | mich                          | moi                               | me                            |
+| possessive adjective      | my        | mein  (single and masculine)  | mon (single and masculine)        | mi   (single and genderless)  |
+| possessive adjective      | my        | meine (single and feminine)   | ma  (single and feminine)         | mi   (single and genderless)  |
+| possessive adjective      | my        | meine (plural)                | mes (plural)                      | mis  (plural)                 |
+| possessive pronoun        | mine      | --                            | --                                | mio  (single and masculine)   |
+| possessive pronoun        | mine      | --                            | --                                | mia  (single and feminine)    |
+| possessive pronoun        | mine      | --                            | --                                | mios (plural and masculine)   |
+| possessive pronoun        | mine      | --                            | --                                | mias (plural and feminine)    |
+
+* The gender and quantity of possessive adjective and pronoun depend on the object being possessed.
+* German: `gehört mir` (belongs to me) is used instead of possessive pronoun.
+* French: `est à moi` (is to me) is used instead of possessive pronoun.
+
+Examples:
+
+| English               | German                        | French                    | Spanish               |
+| --                    | --                            | --                        | --                    |
+| I eat my lunch        | Ich esse mein Mittagessen     | Je mange mon déjeuner     | Yo como mi almuerzo   |
+| I eat my food         | Ich esse mein Essen           | Je mange ma nourriture    | Yo como mi comida     |
+| I eat my egg          | Ich esse mein Ei              | Je mange mon œuf          | Yo como mi huevo      |
+| I eat my eggs         | Ich esse meine Eier           | Je mange mes œufs         | Yo como mis huevos    |
+| I eat my apple        | Ich esse meinen Apfel         | Je mange ma pomme         | Yo como mi manzana    |
+| I eat my apples       | Ich esse meine Äpfel          | Je mange mes pommes       | Yo como mis manzanas  |
+| I eat my banana       | Ich esse meine Banane         | Je mange ma banane        | Yo como mi plátano    |
+| I eat my bananas      | Ich esse meine Bananen        | Je mange mes bananes      | Yo como mis plátanos  |
+| I eat my pineapple    | Ich esse meine Ananas         | Je mange mon ananas       | Yo como mi piña       |
+| I eat my pineapples   | Ich esse meine Ananas         | Je mange mes ananas       | Yo como mis piñas     |
+| The apple is mine     | Der Apfel gehört mir          | La pomme est à moi        | La manzana es mía     |
+| The apples are mine   | Die Äpfel gehören mir         | Les pommes sont à moi     | Las manzanas son mías |
+| The banana is mine    | Die Banane gehört mir         | La banane est à moi       | El plátano es mío     |
+| The bananas are mine  | Die Bananen gehören mir       | Les bananes sont à moi    | Los plátanos son míos |
+| The book is mine      | Das Buch gehört mir           | Le livre est à moi        | El libro es mio       |
+| The books are mine    | Die Bücher gehören mir        | Les livres sont à moi     | Los libros son míos   |
+| It is mine            | Es ist meins                  | C'est à moi               | Es mio                |
+| read me               | lies mich                     | lis-moi                   | léeme                 |
+
+2nd Person, Single:
+
+| Modifier                  | English   | German    | French        | Spanish   |
+| --                        | --        | --        | --            | --        |
+| single, subjective        | you    (S)| du        | tu            | tú        |
+| single, objective         | you    (S)| du        | toi           | tú        |
+|                           | your   (S)| dein      | ton           | su        |
+|                           | yours  (S)| dein      | tien, tienne  | tuyo      |
 
 | English   | German    | French        | Spanish   |
 | --        | --        | --            | --        |
@@ -152,4 +174,21 @@ References:
 * https://en.wikibooks.org/wiki/German/Grammar/Pronouns
 * https://www.lawlessfrench.com/grammar/possessive-pronouns/
 * https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
+
+### Pronouns: Who, What, When, Where, Why
+
+Basic:
+
+| English   | Classical Latin   | German    | French    | Spanish   |
+| --        | --                | --        | --        | --        |
+| who       | quis              | wer       | oms       | oms       |
+| what      | quid              | was       | quoi      | qué       |
+| when      | quando            | wenn      | quand     | cuando    |
+| where     | ubi               | wo        | où        | dónde     |
+| why       | cur               | warum     | pourquoi  | por qué   |
+| how       | quomodo           | wie       | comment   | cómo      |
+
+References:
+
+* https://en.wikipedia.org/wiki/Five_Ws
 
