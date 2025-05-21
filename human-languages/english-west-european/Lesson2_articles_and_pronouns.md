@@ -82,7 +82,8 @@ In which case, the Romance-to-Romance summary would be more helpful.
 | Modifier                  | English   | German                        | French                            | Spanish                       |
 | --                        | --        | --                            | --                                | --                            |
 | single, subjective        | I         | ich                           | je                                | yo                            |
-| single, objective         | me        | mich                          | moi                               | me                            |
+| single, objective         | me        | mich                          | me                                | me                            |
+| single, objective         | me        | mich                          | moi                               | mi                            |
 | possessive adjective      | my        | mein  (single and masculine)  | mon (single and masculine)        | mi   (single and genderless)  |
 | possessive adjective      | my        | meine (single and feminine)   | ma  (single and feminine)         | mi   (single and genderless)  |
 | possessive adjective      | my        | meine (plural)                | mes (plural)                      | mis  (plural)                 |
@@ -94,6 +95,7 @@ In which case, the Romance-to-Romance summary would be more helpful.
 * The gender and quantity of possessive adjective and pronoun depend on the object being possessed.
 * German: `gehört mir` (belongs to me) is used instead of possessive pronoun.
 * French: `est à moi` (is to me) is used instead of possessive pronoun.
+* German: What is `meinen`?
 
 Examples:
 
@@ -115,17 +117,53 @@ Examples:
 | The bananas are mine  | Die Bananen gehören mir       | Les bananes sont à moi    | Los plátanos son míos |
 | The book is mine      | Das Buch gehört mir           | Le livre est à moi        | El libro es mio       |
 | The books are mine    | Die Bücher gehören mir        | Les livres sont à moi     | Los libros son míos   |
-| It is mine            | Es ist meins                  | C'est à moi               | Es mio                |
-| read me               | lies mich                     | lis-moi                   | léeme                 |
 
 2nd Person, Single:
 
-| Modifier                  | English   | German    | French        | Spanish   |
-| --                        | --        | --        | --            | --        |
-| single, subjective        | you    (S)| du        | tu            | tú        |
-| single, objective         | you    (S)| du        | toi           | tú        |
-|                           | your   (S)| dein      | ton           | su        |
-|                           | yours  (S)| dein      | tien, tienne  | tuyo      |
+| Modifier                  | English   | German                        | French                            | Spanish                       |
+| --                        | --        | --                            | --                                | --                            |
+| single, subjective        | you       | du                            | tu                                | tú                            |
+| single, objective         | you       | dich                          | te                                | te                            |
+| single, objective         | you       | dich                          | toi                               | ti                            |
+| possessive adjective      | your      | dein  (single and masculine)  | ton (single and masculine)        | tu   (single and genderless)  |
+| possessive adjective      | your      | deine (single and feminine)   | ta  (single and feminine)         | tu   (single and genderless)  |
+| possessive adjective      | your      | deine (plural)                | tes (plural)                      | tus  (plural)                 |
+| possessive pronoun        | yours     | --                            | --                                | tuyo  (single and masculine)  |
+| possessive pronoun        | yours     | --                            | --                                | tuya  (single and feminine)   |
+| possessive pronoun        | yours     | --                            | --                                | tuyos (plural and masculine)  |
+| possessive pronoun        | yours     | --                            | --                                | tuyas (plural and feminine)   |
+
+Examples:
+
+| English                   | German                        | French                    | Spanish                   |
+| --                        | --                            | --                        | --                        |
+| You eat your lunch        | Du isst dein Mittagessen      | Tu manges ton déjeuner    | Tú comes tu almuerzo      |
+| You eat your food         | Du isst dein Essen            | Tu manges ta nourriture   | Tú comes tu comida        |
+| You eat your egg          | Du isst dein Ei               | Tu manges ton œuf         | Te comes tu huevo         |
+| You eat your eggs         | Du isst deine Eier            | Tu manges tes œufs        | Te comes tus huevos       |
+| You eat your apple        | Du isst deinen Apfel          | Tu manges ta pomme        | Te comes tu manzana       |
+| You eat your apples       | Du isst deine Äpfel           | Tu manges tes pommes      | Te comes tus manzanas     |
+| You eat your banana       | Du isst deine Banane          | Tu manges ta banane       | Te comes tu plátano       |
+| You eat your bananas      | Du isst deine Bananen         | Tu manges tes bananes     | Te comes tus plátanos     |
+| You eat your pineapple    | Du isst deine Ananas          | Tu manges ton ananas      | Te comes tu piña          |
+| You eat your pineapples   | Du isst deine Ananas          | Tu manges tes ananas      | Te comes tus piñas        |
+| The apple is yours        | Der Apfel gehört dir          | La pomme est à toi        | La manzana es tuya        |
+| The apples are yours      | Die Äpfel gehören dir         | Les pommes sont à toi     | Las manzanas son tuyas    |
+| The banana is yours       | Die Banane gehört dir         | La banane est à toi       | El plátano es tuyo        |
+| The bananas are yours     | Die Bananen gehören dir       | Les bananes sont à toi    | Los plátanos son tuyos    |
+| The book is yours         | Das Buch gehört dir           | Le livre est à toi        | El libro es tuyo          |
+| The books are yours       | Die Bücher gehören dir        | Les livres sont à toi     | Los libros son tuyos      |
+
+| English                   | German                        | French                    | Spanish                   |
+| --                        | --                            | --                        | --                        |
+| It is mine                | Es ist meins                  | C'est à moi               | Es mio                    |
+| It is yours               | Es ist deins                  | C'est à toi               | Es tuyo                   |
+| It is for me              | Es ist für mich               | C'est pour moi            | Es para mi                |
+| It is for you             | Es ist für dich               | C'est pour toi            | Es para ti                |
+| You see me                | Sie sehen mich                | Vous me voyez             | Me ves                    |
+| I see you                 | Ich sehe dich                 | Je te vois                | Te veo                    |
+| Watch me                  | Schau mir                     | Regarde-moi               | Mírame                    |
+| Read me                   | Lies mich                     | Lis-moi                   | Léame                     |
 
 | English   | German    | French        | Spanish   |
 | --        | --        | --            | --        |
