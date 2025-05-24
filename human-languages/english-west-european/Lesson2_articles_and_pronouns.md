@@ -1,124 +1,165 @@
 # Pronoun Cheatsheet
 
+### English Pronouns
+
+Personal pronouns in standard Modern English:
+
+| Person, Number, Gender    | Subject   | Object    | Dependent possessive  | Independent possessive    | Reflexive     |
+| --                        | --        | --        | --                    | --                        | --            |
+| First Person, Singular    | I         | me        | my                    | mine                      | myself        |
+| First Person, Plural      | we        | us        | our                   | ours                      | ourselves     |
+| Second Person, Singular   | you       | you       | your                  | yours                     | yourself      |
+| Second Person, Plural     | you       | you       | your                  | yours                     | yourselves    |
+| Third Person, Masculine   | he        | him       | his                   | his                       | himself       |
+| Third Person, Feminine    | she       | her       | her                   | hers                      | herself       |
+| Third Person, Neuter      | it        | it        | its                   | its                       | itself        |
+| Third Person, Plural      | they      | them      | their                 | theirs                    | themselves    |
+
+* Demonstrative: this, these, that, those
+* Relative
+* Indefinite:
+    * one, one's, oneself
+    * things: something, anything, nothing
+    * people: someone, anyone, no one
+    * people: somebody, anybody, nobody
+* Interrogative: who, whom, whose, what, which
+
 ### Articles
 
-Basic:
+| Gender, Number        | English   | German    | French    | Spanish   |
+| --                    | --        | --        | --        | --        |
+| masculine             | a/an/one  | ein       | un        | un        |
+| feminine              | a/an/one  | eine      | une       | una       |
+| masculine, singular   | the       | der       | le        | el        |
+| feminine, singular    | the       | die       | la        | la        |
+| masculine, plural     | the       | die       | les       | los       |
+| feminine, plural      | the       | die       | les       | las       |
 
-| Modifier          | English   | German    | French    | Spanish   |
-| --                | --        | --        | --        | --        |
-| masculine         | a/an/one  | ein       | un        | un        |
-| feminine          | a/an/one  | eine      | une       | una       |
-| masculine, single | the       | der       | le        | el        |
-| feminine, single  | the       | die       | la        | la        |
-| masculine, plural | the       | die       | les       | los       |
-| feminine, plural  | the       | die       | les       | las       |
+Examples of indefinite articles:
+
+| English       | German        | French        | Spanish       |
+| --            | --            | --            | --            |
+| a man         | ein mann      | un homme      | un hombre     |
+| a woman       | eine frau     | une femme     | una mujer     |
+| a child       | ein kind      | un enfant     | un niño       |
+|               |               |               | una niña      |
+| a book        | ein buch      | un livre      | un libro      |
+| an apple      | ein apfel     | une pomme     | una manzana   |
+| a banana      | eine banane   | une banane    | un plátano    |
+| a cherry      | eine kirsche  | une cerise    | una cereza    |
+| an orange     | eine orange   | une orange    | una naranja   |
+| a pineapple   | eine ananas   | un ananas     | una piña      |
+| a tomato      | eine tomate   | une tomate    | un tomate     |
+
+Examples of definite articles:
+
+| English           | German        | French        | Spanish       |
+| --                | --            | --            | --            |
+| the man           | der mann      | l'homme       | el hombre     |
+| the men           | die männer    | les hommes    | los hombres   |
+| the woman         | die frau      | la femme      | la mujer      |
+| the women         | die frauen    | les femmes    | las mujeres   |
+| the child         | das kind      | l'enfant      | el niño       |
+|                   |               |               | la niña       |
+| the children      | die kinder    | les enfants   | los niños     |
+|                   |               |               | las niñas     |
+| the book          | das buch      | le livre      | el libro      |
+| the books         | die bücher    | les livres    | los libros    |
+| the apple         | der apfel     | la pomme      | la manzana    |
+| the apples        | die äpfel     | les pommes    | las manzanas  |
+| the banana        | die banane    | la banane     | el plátano    |
+| the bananas       | die bananen   | les bananes   | los plátanos  |
+| the cherry        | die kirsche   | la cerise     | la cereza     |
+| the cherries      | die kirschen  | les cerises   | las cerezas   |
+| the orange        | die orange    | l'orange      | la naranja    |
+| the oranges       | die orangen   | les oranges   | las naranjas  |
+| the pineapple     | die ananas    | l'ananas      | la piña       |
+| the pineapples    | die ananas    | les ananas    | las piñas     |
+| the tomato        | die tomate    | la tomate     | el tomate     |
+| the tomatoes      | die tomaten   | les tomates   | los tomates   |
+
+### German Articles
+
+|               | Example                                           |
+| --            | --                                                |
+| Nominative    | the subject                                       |
+| Accusative    | the direct object                                 |
+| Dative        | the indirect object or object of a preposition    |
+| Genitive      | possessive, of the                                |
+
+Indefinite article endings:
+
+|               | Masculine | Feminine  | Neuter    | Plural    |
+| --            | --        | --        | --        | --        |
+| Nominative    | ein       | eine	    | ein       |
+| Accusative    | einen     | eine	    | ein       |
+| Dative        | einem     | einer	    | einem     |
+| Genitive      | eines     | einer	    | eines     |
+
+Definite article:
+
+|               | Masculine | Feminine  | Neuter    | Plural    |
+| --            | --        | --        | --        | --        |
+| Nominative    | der       | die       | das       | die       |
+| Accusative    | den       | die       | das       | die       |
+| Dative        | dem       | der       | dem       | den       |
+| Genitive      | des       | der       | des       | der       |
+
+Definite article-like endings:
+
+|               | Masculine | Feminine  | Neuter    | Plural    |
+| --            | --        | --        | --        | --        |
+| Nominative    | -er       | -e        | -es       | -e        |
+| Accusative    | -en       | -e        | -es       | -e        |
+| Dative        | -em       | -er       | -em       | -en       |
+| Genitive      | -es       | -er       | -es       | -er       |
 
 Examples:
 
-| English           | German            | French            | Spanish           |
-| --                | --                | --                | --                |
-| an/one apple      | **ein**  apfel    | **une** pomme     | **una** manzana   |
-| a/one banana      | **eine** banane   | **une** banane    | **un**  plátano   |
-| a/one cherry      | **eine** kirsche  | **une** cerise    | **una** cereza    |
-| an/one orange     | **eine** orange   | **une** orange    | **una** naranja   |
-| a/one pineapple   | **eine** ananas   | **un**  ananas    | **una** piña      |
-| a/one tomato      | **eine** tomate   | **une** tomate    | **un**  tomate    |
+|               | Masculine                     | Feminine                      | Neuter                        |
+| --            | --                            | --                            | --                            |
+| Nominative    | Der Mann gibt                 | Die Frau gibt                 | das Kind gibt                 |
+| Accusative    | Gib den Apfel                 | Gib die Kirsche               | gib das Buch                  |
+| Dative        | Ich gebe dem Mann den Apfel   | Ich gebe der Frau die Kirsche | Ich gebe dem Kind das Buch    |
+| Genitive      | Der Apfel des Mannes          | Die Kirsche der Frau          | das Buch des Kindes           |
 
-| English           | German            | French            | Spanish       |
-| --                | --                | --                | --            |
-| the apple         | **der** apfel     | **la**  pomme     | **la**  manzana    |
-| the apples        | **die** äpfel     | **les** pommes    | **las** manzanas  |
-| the banana        | **die** banane    | **la**  banane    | **el**  plátano    |
-| the bananas       | **die** bananen   | **les** bananes   | **los** plátanos  |
-| the cherry        | **die** kirsche   | **la**  cerise    | **la**  cereza     |
-| the cherries      | **die** kirschen  | **les** cerises   | **las** cerezas   |
-| the orange        | **die** orange    | **l**'orange      | **la**  naranja    |
-| the oranges       | **die** orangen   | **les** oranges   | **las** naranjas  |
-| the pineapple     | **die** ananas    | **l**'ananas      | **la**  piña       |
-| the pineapples    | **die** ananas    | **les** ananas    | **las** piñas     |
-| the tomato        | **die** tomate    | **la**  tomate    | **el**  tomate     |
-| the tomatoes      | **die** tomaten   | **les** tomates   | **los** tomates   |
+### Pronouns of 1st Person, Singular
 
-German only:
+|                           | English   | German                    | French                    | Spanish                   |
+| --                        | --        | --                        | --                        | --                        |
+| Subject                   | I         | ich                       | je                        | yo                        |
+| Object                    | me        | mich                      | me                        | me                        |
+| Object                    | me        | mich                      | moi                       | mi                        |
+| Dependent possessive      | my        | mein  (single, masculine) | mon (single, masculine)   | mi   (single, genderless) |
+| Dependent possessive      | my        | meine (single, feminine)  | ma  (single, feminine)    | mi   (single, genderless) |
+| Dependent possessive      | my        | meine (plural)            | mes (plural)              | mis  (plural)             |
+| Independent possessive    | mine      | --                        | --                        | mio  (single, masculine)  |
+| Independent possessive    | mine      | --                        | --                        | mia  (single, feminine)   |
+| Independent possessive    | mine      | --                        | --                        | mios (plural, masculine)  |
+| Independent possessive    | mine      | --                        | --                        | mias (plural, feminine)   |
 
-|               |                                                   |
-| --            | --                                                |
-| nominative    | the subject                                       |
-| accusative    | the direct object                                 |
-| dative        | the indirect object or object of a preposition    |
-| genitive      | possessive                                        |
-
-| Gender    | Single Subject    | Single Object | Plural    |
-| --        | --                | --            | --        |
-| masculine | der               | den           | die       |
-| feminine  | die               | die           | die       |
-| neuter    | das               | das           | die       |
-
-| Gender    | Single Subject    | Single Object     | Plural                |
-| --        | --                | --                | --                    |
-| masculine | **der** Mann isst | iss **den** Mann  | **die** Männer essen  |
-| feminine  | **die** Frau isst | iss **die** Frau  | **die** Frauen essen  |
-| neuter    | **das** Kind isst | iss **das** Kind  | **die** Kinder essen  |
-
-References:
-
-* https://en.wikibooks.org/wiki/German/Grammar
-* https://en.wikibooks.org/wiki/French/Grammar
-* https://en.wikibooks.org/wiki/Category:Book:German
-* https://en.wikibooks.org/wiki/Category:Book:French
-* https://en.wikibooks.org/wiki/Category:Book:Spanish
-* https://people.umass.edu/sharris/in/gram/GrammarBook/GramCases.html
-
-- [ ] Spelling rules of genders in nouns:
-
-### Pronouns - (Naive) English-to-X Summary
-
-The pronouns are translated from English word-by-word.
-However, some of the words are one-to-many mappings between English and Romance languages.
-In which case, the Romance-to-Romance summary would be more helpful.
-
-1st Person, Single:
-
-| Modifier                  | English   | German                        | French                            | Spanish                       |
-| --                        | --        | --                            | --                                | --                            |
-| single, subjective        | I         | ich                           | je                                | yo                            |
-| single, objective         | me        | mich                          | me                                | me                            |
-| single, objective         | me        | mich                          | moi                               | mi                            |
-| possessive adjective      | my        | mein  (single and masculine)  | mon (single and masculine)        | mi   (single and genderless)  |
-| possessive adjective      | my        | meine (single and feminine)   | ma  (single and feminine)         | mi   (single and genderless)  |
-| possessive adjective      | my        | meine (plural)                | mes (plural)                      | mis  (plural)                 |
-| possessive pronoun        | mine      | --                            | --                                | mio  (single and masculine)   |
-| possessive pronoun        | mine      | --                            | --                                | mia  (single and feminine)    |
-| possessive pronoun        | mine      | --                            | --                                | mios (plural and masculine)   |
-| possessive pronoun        | mine      | --                            | --                                | mias (plural and feminine)    |
-
-* The gender and quantity of possessive adjective and pronoun depend on the object being possessed.
+* The gender and number of possessive pronouns depend on the object being possessed.
 * German: `gehört mir` (belongs to me) is used instead of possessive pronoun.
 * French: `est à moi` (is to me) is used instead of possessive pronoun.
-* German: What is `meinen`?
 
 Examples:
 
-| English               | German                        | French                    | Spanish               |
-| --                    | --                            | --                        | --                    |
-| I eat my lunch        | Ich esse mein Mittagessen     | Je mange mon déjeuner     | Yo como mi almuerzo   |
-| I eat my food         | Ich esse mein Essen           | Je mange ma nourriture    | Yo como mi comida     |
-| I eat my egg          | Ich esse mein Ei              | Je mange mon œuf          | Yo como mi huevo      |
-| I eat my eggs         | Ich esse meine Eier           | Je mange mes œufs         | Yo como mis huevos    |
-| I eat my apple        | Ich esse meinen Apfel         | Je mange ma pomme         | Yo como mi manzana    |
-| I eat my apples       | Ich esse meine Äpfel          | Je mange mes pommes       | Yo como mis manzanas  |
-| I eat my banana       | Ich esse meine Banane         | Je mange ma banane        | Yo como mi plátano    |
-| I eat my bananas      | Ich esse meine Bananen        | Je mange mes bananes      | Yo como mis plátanos  |
-| I eat my pineapple    | Ich esse meine Ananas         | Je mange mon ananas       | Yo como mi piña       |
-| I eat my pineapples   | Ich esse meine Ananas         | Je mange mes ananas       | Yo como mis piñas     |
-| The apple is mine     | Der Apfel gehört mir          | La pomme est à moi        | La manzana es mía     |
-| The apples are mine   | Die Äpfel gehören mir         | Les pommes sont à moi     | Las manzanas son mías |
-| The banana is mine    | Die Banane gehört mir         | La banane est à moi       | El plátano es mío     |
-| The bananas are mine  | Die Bananen gehören mir       | Les bananes sont à moi    | Los plátanos son míos |
-| The book is mine      | Das Buch gehört mir           | Le livre est à moi        | El libro es mio       |
-| The books are mine    | Die Bücher gehören mir        | Les livres sont à moi     | Los libros son míos   |
+|               | English               | German                        | French                    | Spanish               |
+| --            | --                    | --                            | --                        | --                    |
+| Masculine     |                       | Ich esse meinen Apfel         | Je mange mon ananas       | Yo como mi tomate     |
+| Masculine     |                       | Ich esse meine Äpfel          | Je mange mes ananas       | Yo como mis tomates   |
+| Feminine      | I eat my cherry       | Ich esse meine Kirsche        | Je mange ma cerise        | Yo como mi cereza     |
+| Feminine      | I eat my cherries     | Ich esse meine Kirschen       | Je mange mes cerises      | Yo como mis cerezas   |
+| Neuter        | I read my book        | Ich lese mein Buch            | Je lis mon livre          | Yo leo mi libro       |
+| Neuter        | I read my books       | Ich lese meine Bücher         | Je lis mes livres         | Yo leo mis libros     |
+| Masculine     |                       | Der Apfel gehört mir          | L'ananas est à moi        | El tomate es mio      |
+| Masculine     |                       | Die Äpfel gehören mir         | Les ananas sont à moi     | Los tomates son míos  |
+| Feminine      | The cherry is mine    | Die Kirsche gehört mir        | La cerise est à moi       | La cereza es mía      |
+| Feminine      | The cherries are mine | Die Kirschen gehören mir      | Les cerises sont à moi    | Las cerezas son mías  |
+| Neuter        | The book is mine      | Das Buch gehört mir           | Le livre est à moi        | El libro es mio       |
+| Neuter        | The books are mine    | Die Bücher gehören mir        | Les livres sont à moi     | Los libros son míos   |
 
-2nd Person, Single:
+### Pronouns of 2nd Person, Singular
 
 | Modifier                  | English   | German                        | French                            | Spanish                       |
 | --                        | --        | --                            | --                                | --                            |
@@ -165,6 +206,69 @@ Examples:
 | Watch me                  | Schau mir                     | Regarde-moi               | Mírame                    |
 | Read me                   | Lies mich                     | Lis-moi                   | Léame                     |
 
+1st Person, Plural:
+
+| Modifier                  | English   | German        | French        |
+| --                        | --        | --            | --            |
+| plural, subjective        | we        | wir           | nous          |
+| plural, objective         | us        |               | nous          |
+| possessive adjective      | our       |               | notre         |
+| possessive pronoun        | ours      |               | nôtre         |
+
+Examples:
+
+| English                   | German                        | French                        | Spanish                               |
+| --                        | --                            | --                            | --                                    |
+| We eat our egg            | Wir essen unser Ei            | Nous mangeons notre œuf       | Nosotros comemos nuestro huevo        |
+| We eat our eggs           | Wir essen unsere Eier         | Nous mangeons nos œufs        | Nosotros comemos nuestros huevos      |
+| We eat our apple          | Wir essen unseren Apfel       | Nous mangeons notre pomme     | Nosotros comemos nuestra manzana      |
+| We eat our apples         | Wir essen unsere Äpfel        | Nous mangeons nos pommes      | Nosotros comemos nuestras manzanas    |
+| We eat our banana         | Wir essen unsere Banane       | Nous mangeons notre banane    | Nosotros Comemos nuestro plátano      |
+| We eat our bananas        | Wir essen unsere Bananen      | Nous mangeons nos bananes     | Nosotros Comemos nuestros plátanos    |
+| We eat our pineapple      | Wir essen unsere Ananas       | Nous mangeons notre ananas    | Nosotros comemos nuestra piña         |
+| We eat our pineapples     | Wir essen unsere Ananas       | Nous mangeons nos ananas      | Nosotros comemos nuestras piñas       |
+| The apple is ours         | Der Apfel gehört uns          | La pomme est à nous           | La manzana es nuestra                 |
+| The apples are ours       | Die Äpfel gehören uns         | Les pommes sont à nous        | Las manzanas son nuestras             |
+| The banana is ours        | Die Banane gehört uns         | La banane est à nous          | El plátano es nuestro                 |
+| The bananas are ours      | Die Bananen gehören uns       | Les bananes sont à nous       | Los plátanos son nuestros             |
+| The book is ours          | Das Buch gehört uns           | Le livre est à nous           | El libro es nuestro                   |
+| The books are ours        | Die Bücher gehören uns        | Les livres sont à nous        | Los libros son nuestros               |
+
+2nd Person, Plural:
+
+| English   | French        |
+| --        | --            |
+| you    (P)| vous          |
+| you    (P)| vous          |
+| your   (P)| votre         |
+| yours  (P)| vôtre         |
+| they   (M)| ils           |
+| they   (F)| elles         |
+| them      | eux           |
+| their     | leur          |
+| theirs    | leurs         |
+
+Examples:
+
+| English                   | German                        | French                        | Spanish                               |
+| --                        | --                            | --                            | --                                    |
+| We eat our egg            | Wir essen unser Ei            | Nous mangeons notre œuf       | Nosotros comemos nuestro huevo        |
+| We eat our eggs           | Wir essen unsere Eier         | Nous mangeons nos œufs        | Nosotros comemos nuestros huevos      |
+| We eat our apple          | Wir essen unseren Apfel       | Nous mangeons notre pomme     | Nosotros comemos nuestra manzana      |
+| We eat our apples         | Wir essen unsere Äpfel        | Nous mangeons nos pommes      | Nosotros comemos nuestras manzanas    |
+| We eat our banana         | Wir essen unsere Banane       | Nous mangeons notre banane    | Nosotros Comemos nuestro plátano      |
+| We eat our bananas        | Wir essen unsere Bananen      | Nous mangeons nos bananes     | Nosotros Comemos nuestros plátanos    |
+| We eat our pineapple      | Wir essen unsere Ananas       | Nous mangeons notre ananas    | Nosotros comemos nuestra piña         |
+| We eat our pineapples     | Wir essen unsere Ananas       | Nous mangeons nos ananas      | Nosotros comemos nuestras piñas       |
+| The apple is ours         | Der Apfel gehört uns          | La pomme est à nous           | La manzana es nuestra                 |
+| The apples are ours       | Die Äpfel gehören uns         | Les pommes sont à nous        | Las manzanas son nuestras             |
+| The banana is ours        | Die Banane gehört uns         | La banane est à nous          | El plátano es nuestro                 |
+| The bananas are ours      | Die Bananen gehören uns       | Les bananes sont à nous       | Los plátanos son nuestros             |
+| The book is ours          | Das Buch gehört uns           | Le livre est à nous           | El libro es nuestro                   |
+| The books are ours        | Die Bücher gehören uns        | Les livres sont à nous        | Los libros son nuestros               |
+
+3rd Person, Single:
+
 | English   | German    | French        | Spanish   |
 | --        | --        | --            | --        |
 | he        | er        | il            | él        |
@@ -180,21 +284,7 @@ Examples:
 | someone   |
 | someone's |
 
-| English   | French        |
-| --        | --            |
-| we        | nous          |
-| us        | nous          |
-| our       | notre         |
-| ours      | nôtre         |
-| you    (P)| vous          |
-| you    (P)| vous          |
-| your   (P)| votre         |
-| yours  (P)| vôtre         |
-| they   (M)| ils           |
-| they   (F)| elles         |
-| them      | eux           |
-| their     | leur          |
-| theirs    | leurs         |
+3rd Person, Plural:
 
 | English   | German    | French    | Spanish   |
 | --        | --        | --        | --        |
@@ -206,12 +296,6 @@ Examples:
 | there     | dort      | là        | allá      |
 
 ### Possessive Pronouns - Romance-to-Romance Summary
-
-References:
-
-* https://en.wikibooks.org/wiki/German/Grammar/Pronouns
-* https://www.lawlessfrench.com/grammar/possessive-pronouns/
-* https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
 
 ### Pronouns: Who, What, When, Where, Why
 
@@ -226,7 +310,24 @@ Basic:
 | why       | cur               | warum     | pourquoi  | por qué   |
 | how       | quomodo           | wie       | comment   | cómo      |
 
-References:
+### References:
 
 * https://en.wikipedia.org/wiki/Five_Ws
+* https://en.wikipedia.org/wiki/Article_(grammar)
+* https://en.wikipedia.org/wiki/Pronoun
+* https://en.wikipedia.org/wiki/Interlingua
+* https://en.wikibooks.org/wiki/German/Grammar
+* https://en.wikibooks.org/wiki/French/Grammar
+* https://en.wikibooks.org/wiki/Category:Book:German
+* https://en.wikibooks.org/wiki/Category:Book:French
+* https://en.wikibooks.org/wiki/Category:Book:Spanish
+* https://people.umass.edu/sharris/in/gram/GrammarBook/GramCases.html
+* https://en.wikipedia.org/wiki/German_articles
+* https://en.wikibooks.org/wiki/German/Grammar/Pronouns
+* https://www.lawlessfrench.com/grammar/possessive-pronouns/
+* https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
+
+### To-Do
+
+- [ ] Spelling rules of genders in nouns:
 
