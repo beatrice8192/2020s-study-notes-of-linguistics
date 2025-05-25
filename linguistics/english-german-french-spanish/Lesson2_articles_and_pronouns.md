@@ -1,29 +1,5 @@
 # Pronoun Cheatsheet
 
-### English Pronouns
-
-Personal pronouns in standard Modern English:
-
-| Person, Number, Gender    | Subject   | Object    | Dependent possessive  | Independent possessive    | Reflexive     |
-| --                        | --        | --        | --                    | --                        | --            |
-| First Person, Singular    | I         | me        | my                    | mine                      | myself        |
-| First Person, Plural      | we        | us        | our                   | ours                      | ourselves     |
-| Second Person, Singular   | you       | you       | your                  | yours                     | yourself      |
-| Second Person, Plural     | you       | you       | your                  | yours                     | yourselves    |
-| Third Person, Masculine   | he        | him       | his                   | his                       | himself       |
-| Third Person, Feminine    | she       | her       | her                   | hers                      | herself       |
-| Third Person, Neuter      | it        | it        | its                   | its                       | itself        |
-| Third Person, Plural      | they      | them      | their                 | theirs                    | themselves    |
-
-* Demonstrative: this, these, that, those
-* Relative
-* Indefinite:
-    * one, one's, oneself
-    * things: something, anything, nothing
-    * people: someone, anyone, no one
-    * people: somebody, anybody, nobody
-* Interrogative: who, whom, whose, what, which
-
 ### Articles
 
 | Gender, Number        | English   | German    | French    | Spanish   |
@@ -78,7 +54,31 @@ Examples of definite articles:
 | the tomato        | die tomate    | la tomate     | el tomate     |
 | the tomatoes      | die tomaten   | les tomates   | los tomates   |
 
-### German Articles
+### English Pronouns
+
+Personal pronouns in standard Modern English:
+
+| Person, Number, Gender    | Subject   | Object    | Dependent possessive  | Independent possessive    | Reflexive     |
+| --                        | --        | --        | --                    | --                        | --            |
+| First Person, Singular    | I         | me        | my                    | mine                      | myself        |
+| First Person, Plural      | we        | us        | our                   | ours                      | ourselves     |
+| Second Person, Singular   | you       | you       | your                  | yours                     | yourself      |
+| Second Person, Plural     | you       | you       | your                  | yours                     | yourselves    |
+| Third Person, Masculine   | he        | him       | his                   | his                       | himself       |
+| Third Person, Feminine    | she       | her       | her                   | hers                      | herself       |
+| Third Person, Neuter      | it        | it        | its                   | its                       | itself        |
+| Third Person, Plural      | they      | them      | their                 | theirs                    | themselves    |
+
+* Demonstrative: this, these, that, those
+* Relative
+* Indefinite:
+    * one, one's, oneself
+    * things: something, anything, nothing
+    * people: someone, anyone, no one
+    * people: somebody, anybody, nobody
+* Interrogative: who, whom, whose, what, which
+
+### German Articles And Pronouns
 
 |               | Example                                           |
 | --            | --                                                |
@@ -87,16 +87,16 @@ Examples of definite articles:
 | Dative        | the indirect object or object of a preposition    |
 | Genitive      | possessive, of the                                |
 
-Indefinite article endings:
+Indefinite articles:
 
-|               | Masculine | Feminine  | Neuter    | Plural    |
-| --            | --        | --        | --        | --        |
-| Nominative    | ein       | eine	    | ein       |
-| Accusative    | einen     | eine	    | ein       |
-| Dative        | einem     | einer	    | einem     |
-| Genitive      | eines     | einer	    | eines     |
+|               | Masculine     | Feminine      | Neuter        | Plural    |
+| --            | --            | --            | --            | --        |
+| Nominative    | ein           | ein**e**      | ein           |
+| Accusative    | ein**en**     | ein**e**      | ein           |
+| Dative        | ein**em**     | ein**er**     | ein**em**     |
+| Genitive      | ein**es**     | ein**er**     | ein**es**     |
 
-Definite article:
+Definite articles:
 
 |               | Masculine | Feminine  | Neuter    | Plural    |
 | --            | --        | --        | --        | --        |
@@ -114,6 +114,33 @@ Definite article-like endings:
 | Dative        | -em       | -er       | -em       | -en       |
 | Genitive      | -es       | -er       | -es       | -er       |
 
+Possessive pronouns (my, mine):
+
+|               | Masculine     | Feminine      | Neuter        | Plurals       |
+| --            | --            | --            | --            | --            |
+| Nominative    | mein          | mein**e**     | mein          | mein**e**     |
+| Accusative    | mein**en**    | mein**e**     | mein          | mein**e**     |
+| Dative        | mein**em**    | mein**er**    | mein**em**    | mein**en**    |
+| Genitive      | mein**es**    | mein**er**    | mein**es**    | mein**er**    |
+
+Relative pronouns (which, that) (compared to Definite articles):
+
+|               | Masculine     | Feminine      | Neuter        | Plural        |
+| --            | --            | --            | --            | --            |
+| Nominative    | der           | die           | das           | die           |
+| Accusative    | den           | die           | das           | die           |
+| Dative        | dem           | der           | dem           | den**en**     |
+| Genitive      | des**sen**    | der**en**     | des**sen**    | der**en**     |
+
+Demonstrative pronouns (this):
+
+|               | Masculine     | Feminine      | Neuter        | Plural        |
+| --            | --            | --            | --            | --            |
+| Nominative    | diese**r**    | diese         | diese**s**    | diese         |
+| Accusative    | diese**n**    | diese         | diese**s**    | diese         |
+| Dative        | diese**m**    | diese**r**    | diese**m**    | diese**n**    |
+| Genitive      | diese**s**    | diese**r**    | diese**s**    | diese**r**    |
+
 Examples:
 
 |               | Masculine                     | Feminine                      | Neuter                        |
@@ -123,22 +150,24 @@ Examples:
 | Dative        | Ich gebe dem Mann den Apfel   | Ich gebe der Frau die Kirsche | Ich gebe dem Kind das Buch    |
 | Genitive      | Der Apfel des Mannes          | Die Kirsche der Frau          | das Buch des Kindes           |
 
+### Spanish Pronouns
+
 ### Pronouns of 1st Person, Singular
 
-|                                               | English       | German        | French        | Spanish       |
-| --                                            | --            | --            | --            | --            |
-| Subject                                       | I             | ich           | je            | yo            |
-| Object (direct)                               | me            | mich          | me            | me            |
-| Object (indirect)                             | (for) me      | (für) mich    | (pour) moi    | (para) mí     |
-| Object (indirect)                             | (to) me       | mir           | (à) moi       | (a) mí        |
-| Dependent possessive (single, masculine)      | my            | meinen        | mon           | --            |
-| Dependent possessive (single, feminine)       | my            | meine         | ma            | --            |
-| Dependent possessive (single, neuter)         | my            | mein          | --            | mi            |
-| Dependent possessive (plural)                 | my            | meine         | mes           | mis           |
-| Independent possessive (single, masculine)    | mine          | --            | --            | mío           |
-| Independent possessive (single, feminine)     | mine          | --            | --            | mía           |
-| Independent possessive (plural, masculine)    | mine          | --            | --            | míos          |
-| Independent possessive (plural, feminine)     | mine          | --            | --            | mías          |
+|                                                       | English       | German        | French        | Spanish       |
+| --                                                    | --            | --            | --            | --            |
+| Subject (nominative)                                  | I             | ich           | je            | yo            |
+| Object (accusative, direct)                           | me            | mich          | me            | me            |
+| Object (dative, indirect)                             | (to) me       | mir           | me            | me            |
+| Object (disjunctive, prepositional)                   | (for) me      | mich          | (pour) moi    | (para) mí     |
+| Dependent possessive (genitive, single, masculine)    | my            | meinen        | mon           | mi            |
+| Dependent possessive (genitive, single, feminine)     | my            | meine         | ma            | mi            |
+| Dependent possessive (genitive, single, neuter)       | my            | mein          | --            | mi            |
+| Dependent possessive (genitive, plural)               | my            | meine         | mes           | mis           |
+| Independent possessive (genitive, single, masculine)  | mine          | --            | --            | mío           |
+| Independent possessive (genitive, single, feminine)   | mine          | --            | --            | mía           |
+| Independent possessive (genitive, plural, masculine)  | mine          | --            | --            | míos          |
+| Independent possessive (genitive, plural, feminine)   | mine          | --            | --            | mías          |
 
 * The gender and number of possessive pronouns depend on the object being possessed.
 * German: `gehört mir` (belongs to me) is used instead of possessive pronoun `mine`.
@@ -164,21 +193,20 @@ Examples:
 
 ### Pronouns of 2nd Person, Singular
 
-|                                               | English       | German        | French        | Spanish       |
-| --                                            | --            | --            | --            | --            |
-| Subject (informal)                            | you           | du            | tu            | tú            |
-| Subject and object (formal)                   | you           | Sie           | vous          | usted         |
-| Object (direct)                               | you           | dich          | te            | te            |
-| Object (indirect)                             | (for) you     | (für) dich    | (pour) toi    | (para) ti     |
-| Object (indirect)                             | (to) you      | dir           | (à) toi       | (a) ti        |
-| Dependent possessive (single, masculine)      | your          | deinen        | ton           | --            |
-| Dependent possessive (single, feminine)       | your          | deine         | ta            | --            |
-| Dependent possessive (single, neuter)         | your          | dein          | --            | tu            |
-| Dependent possessive (plural)                 | your          | deine         | tes           | tus           |
-| Independent possessive (single, masculine)    | yours         | --            | --            | tuyo          |
-| Independent possessive (single, feminine)     | yours         | --            | --            | tuya          |
-| Independent possessive (plural, masculine)    | yours         | --            | --            | tuyos         |
-| Independent possessive (plural, feminine)     | yours         | --            | --            | tuyas         |
+|                                                       | English       | German        | French        | Spanish       |
+| --                                                    | --            | --            | --            | --            |
+| Subject (nominative)                                  | you           | du            | tu            | tú            |
+| Object (accusative, direct)                           | you           | dich          | te            | te            |
+| Object (dative, indirect)                             | (to) you      | dir           | te            | te            |
+| Object (disjunctive, prepositional)                   | (for) you     | dich          | (pour) toi    | (para) ti     |
+| Dependent possessive (genitive, single, masculine)    | your          | deinen        | ton           | tu            |
+| Dependent possessive (genitive, single, feminine)     | your          | deine         | ta            | tu            |
+| Dependent possessive (genitive, single, neuter)       | your          | dein          | --            | tu            |
+| Dependent possessive (genitive, plural)               | your          | deine         | tes           | tus           |
+| Independent possessive (genitive, single, masculine)  | yours         | --            | --            | tuyo          |
+| Independent possessive (genitive, single, feminine)   | yours         | --            | --            | tuya          |
+| Independent possessive (genitive, plural, masculine)  | yours         | --            | --            | tuyos         |
+| Independent possessive (genitive, plural, feminine)   | yours         | --            | --            | tuyas         |
 
 Examples:
 
@@ -203,8 +231,8 @@ Examples:
 | It is yours               | Es ist deins              | C'est à toi               | Es tuyo                   |
 | It is for me              | Es ist für mich           | C'est pour moi            | Es para mí                |
 | It is for you             | Es ist für dich           | C'est pour toi            | Es para ti                |
-| You see me                | Sie sehen mich            | Vous me voyez             | Me ves                    |
 | I see you                 | Ich sehe dich             | Je te vois                | Te veo                    |
+| You see me                | Sie sehen mich            | Vous me voyez             | Me ves                    |
 | I give the book to you    | Ich gebe dir das Buch     | Je te donne le livre      | Te doy el libro           |
 |                           | (I give you the book)     | (I you give the book)     | ((I) you give the book)   |
 | You give the book to me   | Du gibst mir das Buch     | Tu me donnes le livre     | Me das el libro           |
@@ -214,61 +242,66 @@ Examples:
 
  ### Pronouns of 1st Person, Plural
 
-|                           | English   | German        | French        | Spanish       |
-| --                        | --        | --            | --            | --            |
-| Subject (masculine)       | we        | wir           | nous          | nosotros      |
-| Subject (feminine)        | we        | wir           | nous          | nosotras      | 
-| Object                    | us        |               | nous          |
-| Dependent possessive      | our       |               | notre         |
-| Independent possessive    | ours      |               | nôtre         |
+|                                           | English   | German    | French    | Spanish               |
+| --                                        | --        | --        | --        | --                    |
+| Subject (nominative)                      | we        | wir       | nous      | nosotros, nosotras    |
+| Object (accusative, direct)               | us        | uns       | nous      | nos                   |
+| Object (dative, indirect)                 | us        | uns       | nous      | nos                   |
+| Dependent possessive (genitive, single)   | our       | unser     | notre     | nuestro, nuestra      |
+| Dependent possessive (genitive, plural)   | our       | unser     | nos       | nuestros, nuestras    |
+| Independent possessive (genitive, single) | ours      | unser     | nôtre     | nuestro, nuestra      |
+| Independent possessive (genitive, plural) | ours      | unser     | nôtre     | nuestros, nuestras    |
 
 Examples:
 
-|               | English                   | German                        | French                        | Spanish                               |
-| --            | --                        | --                            | --                            | --                                    |
-| Masculine     | We love our brother       | Wir lieben unseren Bruder     | Nous aimons notre frère       | Amamos a nuestro hermano              |
-| Masculine     | We love our brothers      | Wir lieben unsere Brüder      | Nous aimons nos frères        | Amamos a nuestros hermanos            |
-| Feminine      | We love our sister        | Wir lieben unsere Schwester   | Nous aimons notre sœur        | Amamos a nuestra hermana              |
-| Feminine      | We love our sisters       | Wir lieben unsere Schwestern  | Nous aimons nos sœurs         | Amamos a nuestras hermanas            |
-| Neuter        | We read our book          | Wir lesen unser Buch          | Nous lisons notre livre       | Nosotros leemos nuestro libro         |
-| Neuter        | We read our books         | Wir lesen unsere Bücher       | Nous lisons nos livres        | Nosotros leemos nuestros libros       |
-| Neuter        | The book is ours          | Das Buch gehört uns           | Le livre est à nous           | El libro es nuestro                   |
-| Neuter        | The books are ours        | Die Bücher gehören uns        | Les livres sont à nous        | Los libros son nuestros               |
+|               | English                   | German                        | French                        | Spanish                       |
+| --            | --                        | --                            | --                            | --                            |
+| Masculine     | We love our brother       | Wir lieben unseren Bruder     | Nous aimons notre frère       | Amamos a nuestro hermano      |
+| Masculine     | We love our brothers      | Wir lieben unsere Brüder      | Nous aimons nos frères        | Amamos a nuestros hermanos    |
+| Feminine      | We love our sister        | Wir lieben unsere Schwester   | Nous aimons notre sœur        | Amamos a nuestra hermana      |
+| Feminine      | We love our sisters       | Wir lieben unsere Schwestern  | Nous aimons nos sœurs         | Amamos a nuestras hermanas    |
+| Neuter        | We read our book          | Wir lesen unser Buch          | Nous lisons notre livre       | Leemos nuestro libro          |
+| Neuter        | We read our books         | Wir lesen unsere Bücher       | Nous lisons nos livres        | Leemos nuestros libros        |
+| Neuter        | The book is ours          | Das Buch gehört uns           | Le livre est à nous           | El libro es nuestro           |
+| Neuter        | The books are ours        | Die Bücher gehören uns        | Les livres sont à nous        | Los libros son nuestros       |
 
 ### Pronouns of 2nd Person, Plural
 
-| English   | French        |
-| --        | --            |
-| you    (P)| vous          |
-| you    (P)| vous          |
-| your   (P)| votre         |
-| yours  (P)| vôtre         |
+|                                           | English   | German (informal) | German (formal)   | French    | Spanish               |
+| --                                        | --        | --                | --                | --        | --                    |
+| Subject (nominative)                      | you       | ihr               | Sie               | vous      | vosotros, vosotras    |
+| Object (accusative, direct)               | you       | euch              | Sie               | vous      | os                    |
+| Object (dative, indirect)                 | you       | euch              | Ihnen             | vous      | os                    |
+| Dependent possessive (genitive, single)   | yours     | euer              | Ihrer             | votre     | vuestro, vuestra      |
+| Dependent possessive (genitive, plural)   | yours     | euer              | Ihrer             | vos       | vuestros, vuestras    |
+| Independent possessive (genitive, single) | yours     | euer              | Ihrer             | vôtre     | vuestro, vuestra      |
+| Independent possessive (genitive, plural) | yours     | euer              | Ihrer             | vôtre     | vuestros, vuestras    |
 
-Examples:
+Examples (need to verify):
 
-|               | English                   | German                                | French                                | Spanish                               |
-| --            | --                        | --                                    | --                                    | --                                    |
-| Masculine     | You love your brother     | Ihr alle liebt euren Bruder           | Vous aimez tous votre frère           | Todos amáis a vuestro hermano         |
-| Masculine     | You love your brothers    | Ihr alle liebt eure Brüder            | Vous aimez tous vos frères            | Todos amáis a vuestros hermanos       |
-| Feminine      | You love your sister      | Ihr alle liebt eure Schwester         | Vous aimez tous votre sœur            | Todos amáis a vuestra hermana         |
-| Feminine      | You love your sisters     | Ihr alle liebt eure Schwestern        | Vous aimez toutes vos sœurs           | Todos amáis a vuestras hermanas       |
-| Neuter        | You read your book        | Ihr habt alle lest euer Buch          | Vous avez tous lu votre livre         | Todos ustedes leyeron su libro        |
-| Neuter        | You read your books       | Sie alle lesen Ihre Bücher            | Vous avez tous lu vos livres          | Todos ustedes leen sus libros         |
-| Neuter        | The book is yours         | Das Buch gehört euch allen            | Le livre appartient à vous tous       | El libro es de todos vosotros         |
-| Neuter        | The books are yours       | Die Bücher gehören euch allen         | Les livres appartiennent à vous tous  | Los libros son de todos vosotros      |
+|               | English                   | German                        | French                        | Spanish                       |
+| --            | --                        | --                            | --                            | --                            |
+| Masculine     | You love your brother     | Ihr liebt euren Bruder        | Vous aimez votre frère        | Amáis a vuestro hermano       |
+| Masculine     | You love your brothers    | Ihr liebt eure Brüder         | Vous aimez vos frères         | Amáis a vuestros hermanos     |
+| Feminine      | You love your sister      | Ihr liebt eure Schwester      | Vous aimez votre sœur         | Amáis a vuestra hermana       |
+| Feminine      | You love your sisters     | Ihr liebt eure Schwestern     | Vous aimez vos sœurs          | Amáis a vuestras hermanas     |
+| Neuter        | You read your book        | Sie lesen Ihr Buch            | Vous lisons votre livre       | Ustedes leyeron su libro      |
+| Neuter        | You read your books       | Sie lesen Ihre Bücher         | Vous lisons vos livres        | Ustedes leen sus libros       |
+| Neuter        | The book is yours         | Dieses Buch gehört Ihnen      | Le livre est à vous           | El libro es de vosotros       |
+| Neuter        | The books are yours       | Diese Bücher gehören Ihnen    | Les livres sont à vous        | Los libros son de vosotros    |
 
-| English                   | German                            | French                            | Spanish                               |
-| --                        | --                                | --                                | --                                    |
-| It is ours                | Es ist unser                      | C'est à nous                      | Es nuestro                            |
-| It is yours (plural)      | Es ist euer                       | C'est à vous                      | Es vuestro                            |
-| It is for us              | Es ist für uns                    | C'est pour nous                   | Es para nosotros                      |
-| It is for you             | Es ist für dich                   | C'est pour vous                   | Es para vosotros                      |
-| You see us                | Ihr seht uns alle                 | Vous nous voyez tous              | Todos nos ven                         |
-| We see you                | Wir sehen uns alle                | Nous vous voyons tous             | Los vemos a todos                     |
-| We give the book to you   | Wir schenken euch allen das Buch  | Nous vous donnons le livre à tous | Os regalamos el libro a todos         |
-|                           | (I give you the book)             | (I you give the book)             | ((I) you give the book)               |
-| You give the book to us   | Ihr alle gebt uns das Buch        | Vous nous donnez tous le livre    | Todos ustedes nos dan el libro        |
-|                           | (You give me the book)            | (You me give the book)            | ((You) me give the book)              |
+| English                   | German                        | French                        | Spanish                       |
+| --                        | --                            | --                            | --                            |
+| It is ours                | Es ist unser                  | C'est à nous                  | Es nuestro                    |
+| It is yours (plural)      | Es ist euer                   | C'est à vous                  | Es vuestro                    |
+| It is for us              | Es ist für uns                | C'est pour nous               | Es para nosotros              |
+| It is for you             | Es ist für euch               | C'est pour vous               | Es para vosotros              |
+| We see you                | Wir sehen euch                | Nous vous voyons              | Nos vemos                     |
+| You see us                | Ihr seht uns                  | Vous nous voyez               | Nos veis                      |
+| We give the book to you   | Wir schenken euch das Buch    | Nous vous donnons le livre    | Os damos el libro             |
+|                           | (We give you the book)        | (We you give the book)        | ((We) you give the book)      |
+| You give the book to us   | Ihr gebt uns das Buch         | Vous nous donnez le livre     | Nos dais el libro             |
+|                           | (You give us the book)        | (You us give the book)        | ((You) us give the book)      |
 
 ### Pronouns of 3rd Person, Singular
 
@@ -287,7 +320,7 @@ Examples:
 | someone   |
 | someone's |
 
-3rd Person, Plural:
+### Pronouns of 3rd Person, Plural
 
 | English   | French        |
 | --        | --            |
@@ -296,6 +329,10 @@ Examples:
 | them      | eux           |
 | their     | leur          |
 | theirs    | leurs         |
+
+### Other Pronouns
+
+Demonstrative Pronouns:
 
 | English   | German    | French    | Spanish   |
 | --        | --        | --        | --        |
@@ -306,11 +343,7 @@ Examples:
 | here      | hier      | ici       | aquí      |
 | there     | dort      | là        | allá      |
 
-### Possessive Pronouns - Romance-to-Romance Summary
-
-### Pronouns: Who, What, When, Where, Why
-
-Basic:
+Interrogative Pronouns:
 
 | English   | Classical Latin   | German    | French    | Spanish   |
 | --        | --                | --        | --        | --        |
@@ -321,7 +354,11 @@ Basic:
 | why       | cur               | warum     | pourquoi  | por qué   |
 | how       | quomodo           | wie       | comment   | cómo      |
 
-### References:
+Indefinite Pronouns:
+
+Reflexive Pronouns:
+
+### References
 
 * https://en.wikipedia.org/wiki/Five_Ws
 * https://en.wikipedia.org/wiki/Article_(grammar)
