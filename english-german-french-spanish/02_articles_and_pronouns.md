@@ -167,6 +167,8 @@ Examples:
 | Independent possessive (genitive, single, m/f/n)  | mine          | meiner, meine, meins  | mien, mienne      | mío, mía      |
 | Independent possessive (genitive, plural)         | mine          | meine                 | miens, miennes    | míos, mías    |
 
+_m/f/n is Masculine/Feminine/Neuter_
+
 * The gender and number of possessive pronouns depend on the object being possessed.
 * German: `gehört mir` (belongs to me) is used instead of possessive pronoun `mine`.
 * French: `est à moi` (is to me) is used instead of possessive pronoun `mine`.
@@ -330,22 +332,73 @@ Examples (need to verify):
 
 Masculine (he, him):
 
-|                                                   | English   | German                | French            | Spanish       |
-| --                                                | --        | --                    | --                | --            |
-| Subject (nominative)                              | he        | er                    | il                | él            |
-| Object (accusative, direct)                       | him       | ihn                   | le                | lo            |
-| Object (dative, indirect)                         | him       | ihm                   | lui               | le            |
-| Object (disjunctive, prepositional)               | him       | ihn                   | soi               | él            |
-| Dependent possessive (genitive, single, m/f/n)    | his       | seinen, seine, sein   | son, sa           | su            |
-| Dependent possessive (genitive, plural)           | his       | seine                 | ses               | sus           |
-| Independent possessive (genitive, single, m/f/n)  | his       | seiner, seine, seins  | sien, sienne      | suyo, suya    |
-| Independent possessive (genitive, plural          | his       | seine                 | siens, siennes    | suyos, suyas  |
+|                                                   | English   |                           German                  |                           French              |                           Spanish         |
+| --                                                | --        |                           --                      |                           --                  |                           --              |
+| Subject (nominative)                              | he        | ${\color{#000000}\text{   er                   }}$| ${\color{#000000}\text{   il            }}$   | ${\color{#cc9900}\text{   él          }}$ |
+| Object (accusative, direct)                       | him       | ${\color{#cc9900}\text{   ihn                  }}$| ${\color{#000000}\text{   le            }}$   | ${\color{#000000}\text{   lo          }}$ |
+| Object (dative, indirect)                         | him       | ${\color{#cc0000}\text{   ihm                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   le          }}$ |
+| Object (disjunctive, prepositional)               | him       | ${\color{#cc9900}\text{   ihn                  }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   él          }}$ |
+| Dependent possessive (genitive, single, m/f/n)    | his       | ${\color{#0066cc}\text{   seinen, seine, sein  }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (genitive, plural)           | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (genitive, single, m/f/n)  | his       | ${\color{#0066cc}\text{   seiner, seine, seins }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (genitive, plural          | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
 
 Feminine (she, her):
 
+|                                                   | English   |                           German                  |                           French              |                           Spanish         |
+| --                                                | --        |                           --                      |                           --                  |                           --              |
+| Subject (nominative)                              | she       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   elle          }}$   | ${\color{#cc9900}\text{   ella        }}$ |
+| Object (accusative, direct)                       | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   la            }}$   | ${\color{#000000}\text{   la          }}$ |
+| Object (dative, indirect)                         | her       | ${\color{#000000}\text{   ihr                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   le          }}$ |
+| Object (disjunctive, prepositional)               | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   ella        }}$ |
+| Dependent possessive (genitive, single, m/f/n)    | her       | ${\color{#000000}\text{   ihren                }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (genitive, plural)           | her       | ${\color{#000000}\text{   ihren                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (genitive, single, m/f/n)  | hers      | ${\color{#000000}\text{   ihrs                 }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (genitive, plural          | hers      | ${\color{#000000}\text{   ihrs                 }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+
 Neuter (it):
 
+|                                                   | English   |                           German                  |                           French              |                           Spanish         |
+| --                                                | --        |                           --                      |                           --                  |                           --              |
+| Subject (nominative)                              | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#000000}\text{   on            }}$   | ${\color{#cc9900}\text{   ello        }}$ |
+| Object (accusative, direct)                       | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#000000}\text{   --            }}$   | ${\color{#000000}\text{   se          }}$ |
+| Object (dative, indirect)                         | it        | ${\color{#cc0000}\text{   ihm                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   se          }}$ |
+| Object (disjunctive, prepositional)               | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   ello        }}$ |
+| Dependent possessive (genitive, single, m/f/n)    | its       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (genitive, plural)           | its       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (genitive, single, m/f/n)  | its       | ${\color{#0066cc}\text{   seins                }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (genitive, plural          | its       | ${\color{#0066cc}\text{   seins                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+
 Examples:
+
+| him                   | his family                | English                           | German                            | French                            |
+| --                    | --                        | --                                | --                                | --                                |
+| Subject (nominative)  | (dative, masculine)       | He gives his brother the book     | Er gibt seinem Bruder das Buch    | Il donne le livre à son frère     |
+| Subject (nominative)  | (dative, feminine)        | He gives his sister the book      | Er gibt seiner Schwester das Buch | Il donne le livre à sa sœur       |
+| Subject (nominative)  | (dative, neuter)          | He gives his child the book       | Er gibt seinem Kind das Buch      | Il donne le livre à son enfant    |
+| Object (dative)       | (nominative, masculine)   | His brother gives him the book    | Sein Bruder gibt ihm das Buch     | Son frère lui donne le livre      |
+| Object (dative)       | (nominative, feminine)    | His sister gives him the book     | Seine Schwester gibt ihm das Buch | Sa sœur lui donne le livre        |
+| Object (dative)       | (nominative, neuter)      | His child gives him the book      | Sein Kind gibt ihm das Buch       | Son enfant lui donne le livre     |
+| Subject (nominative)  | (accusative, masculine)   | He hates his brother              | Er hasst seinen Bruder            | Il déteste son frère              |
+| Subject (nominative)  | (accusative, feminine)    | He hates his sister               | Er hasst seine Schwester          | Il déteste sa sœur                |
+| Subject (nominative)  | (accusative, neuter)      | He hates his child                | Er hasst sein Kind                | Il déteste son enfant             |
+| Subject (nominative)  | (accusative, plural)      | He hates his children             | Er hasst seine Kinder             | Il déteste ses enfants            |
+| Object (accusative)   | (nominative, masculine)   | His brother hates him             | Sein Bruder hasst ihn             | Son frère le déteste              |
+| Object (accusative)   | (nominative, feminine)    | His sister hates him              | Seine Schwester hasst ihn         | Sa sœur le déteste                |
+| Object (accusative)   | (nominative, neuter)      | His child hates him               | Sein Kind hasst ihn               | Son enfant le déteste             |
+| Object (accusative)   | (nominative, plural)      | His children hate him             | Seine Kinder hassen ihn           | Ses enfants le détestent          |
+
+|                                   | English                           | German                            | French                            |
+| --                                | --                                | --                                | --                                |
+| Subject (nominative, masculine)   | Her brother gives her the book    | Ihr Bruder gibt ihr das Buch      |
+| Subject (nominative, feminine)    | Her sister gives her the book     | Ihre Schwester gibt ihr das Buch  |
+| Subject (nominative, neuter)      | Her child gives her the book      | Ihr Kind gibt ihr das Buch        |
+| Object (dative, masculine)        | She gives her brother the book    | Sie gibt ihrem Bruder das Buch    |
+| Object (dative, feminine)         | She gives her sister the book     | Sie gibt ihrer Schwester das Buch |
+| Object (dative, neuter)           | She gives her child the book      | Sie gibt ihrem Kind das Buch      |
+| Object (accusative, masculine)    | She hates her brother             | Sie hasst ihren Bruder            |
+| Object (accusative, feminine)     | She hates her sister              | Sie hasst ihre Schwester          |
+| Object (accusative, neuter)       | She hates her child               | Sie hasst ihr Kind                |
 
 |               | English           | German            | French            | Spanish           |
 | --            | --                | --                | --                | --                |
