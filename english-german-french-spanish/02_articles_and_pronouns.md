@@ -9,8 +9,7 @@
 | masculine, singular   | the       | der       | le        | el        |
 | feminine, singular    | the       | die       | la        | la        |
 | neuter, singular      | the       | das       | --        | --        |
-| masculine, plural     | the       | die       | les       | los       |
-| feminine, plural      | the       | die       | les       | las       |
+| plural                | the       | die       | les       | los, las  |
 
 Examples of indefinite articles:
 
@@ -18,8 +17,6 @@ Examples of indefinite articles:
 | --            | --            | --            | --            |
 | a man         | ein mann      | un homme      | un hombre     |
 | a woman       | eine frau     | une femme     | una mujer     |
-| a child       | ein kind      | un enfant     | un niño       |
-|               |               |               | una niña      |
 | a book        | ein buch      | un livre      | un libro      |
 | an apple      | ein apfel     | une pomme     | una manzana   |
 | a banana      | eine banane   | une banane    | un plátano    |
@@ -36,10 +33,6 @@ Examples of definite articles:
 | the men           | die männer    | les hommes    | los hombres   |
 | the woman         | die frau      | la femme      | la mujer      |
 | the women         | die frauen    | les femmes    | las mujeres   |
-| the child         | das kind      | l'enfant      | el niño       |
-|                   |               |               | la niña       |
-| the children      | die kinder    | les enfants   | los niños     |
-|                   |               |               | las niñas     |
 | the book          | das buch      | le livre      | el libro      |
 | the books         | die bücher    | les livres    | los libros    |
 | the apple         | der apfel     | la pomme      | la manzana    |
@@ -145,27 +138,37 @@ Demonstrative pronouns (this):
 
 Examples:
 
-|               | Masculine                     | Feminine                      | Neuter                        |
-| --            | --                            | --                            | --                            |
-| Nominative    | Der Mann gibt                 | Die Frau gibt                 | das Kind gibt                 |
-| Accusative    | Gib den Apfel                 | Gib die Kirsche               | gib das Buch                  |
-| Dative        | Ich gebe dem Mann den Apfel   | Ich gebe der Frau die Kirsche | Ich gebe dem Kind das Buch    |
-| Genitive      | Der Apfel des Mannes          | Die Kirsche der Frau          | das Buch des Kindes           |
-
-### Spanish Pronouns
+|               | Masculine                         | Feminine                          | Neuter                            |
+| --            | --                                | --                                | --                                |
+| Nominative    | Ein Mann isst                     | Eine Frau isst                    | Ein Kind liest                    |
+| Nominative    | Der Mann isst                     | Die Frau isst                     | Das Kind liest                    |
+| Nominative    | Dieser Mann isst                  | Diese Frau isst                   | Dieses Kind liest                 |
+| Accusative    | Iss einen Apfel                   | Iss eine Kirsche                  | Liest ein Buch                    |
+| Accusative    | Iss den Apfel                     | Iss die Kirsche                   | Liest das Buch                    |
+| Accusative    | Iss diesen Apfel                  | Iss diese Kirsche                 | Liest dieses Buch                 |
+| Dative        | Ich gebe einem Mann einen Hund    | Ich schenke einer Frau eine Katze | Ich gebe einem Kind ein Buch      |
+| Dative        | Ich gebe dem Mann den Hund        | Ich gebe der Frau die Katze       | Ich gebe dem Kind das Buch        |
+| Dative        | Ich gebe diesem Mann diesen Hund  | Ich gebe dieser Frau diese Katze  | Ich gebe diesem Kind dieses Buch  |
+| Genitive      | Der Hund eines Mannes             | Die Katze einer Frau              | Ein Ei eines Huhns                |
+| Genitive      | Der Hund des Mannes               | Die Katze der Frau                | Das Ei des Huhns                  |
+| Genitive      | Der Hund dieses Mannes            | Die Katze dieser Frau             | Dieses Ei dieses Huhns            |
 
 ### Pronouns of 1st Person, Singular
 
-|                                                   | English       | German                | French            | Spanish       |
-| --                                                | --            | --                    | --                | --            |
-| Subject (nominative)                              | I             | ich                   | je                | yo            |
-| Object (accusative, direct)                       | me            | mich                  | me                | me            |
-| Object (dative, indirect)                         | (to) me       | mir                   | me                | me            |
-| Object (disjunctive, prepositional)               | (for) me      | mich                  | (pour) moi        | (para) mí     |
-| Dependent possessive (genitive, single, m/f/n)    | my            | meinen, meine, mein   | mon, ma           | mi            |
-| Dependent possessive (genitive, plural)           | my            | meine                 | mes               | mis           |
-| Independent possessive (genitive, single, m/f/n)  | mine          | meiner, meine, meins  | mien, mienne      | mío, mía      |
-| Independent possessive (genitive, plural)         | mine          | meine                 | miens, miennes    | míos, mías    |
+|                                                   | English       | German                    | French            | Spanish       |
+| --                                                | --            | --                        | --                | --            |
+| Subject (nominative)                              | I             | ich                       | je                | yo            |
+| Object (accusative, direct)                       | me            | mich                      | me                | me            |
+| Object (dative, indirect)                         | (to) me       | mir                       | me                | me            |
+| Object (disjunctive, prepositional)               | (for) me      | mich                      | (pour) moi        | (para) mí     |
+| Dependent possessive (nominative, single, m/f/n)  | my            | mein, meine, mein         | mon, ma           | mi            |
+| Dependent possessive (accusative, single, m/f/n)  |               | meinen, meine, mein       |
+| Dependent possessive (dative, single, m/f/n)      |               | meinem, meiner, meinem    |
+| Dependent possessive (nominative, plural)         | my            | meine                     | mes               | mis           |
+| Independent possessive (nominative, single, m/f/n)| mine          | meiner, meine, meines     | mien, mienne      | mío, mía      |
+| Independent possessive (accusative, single, m/f/n)|               | meinen, meine, meins      |
+| Independent possessive (dative, single, m/f/n)    |               | meinem, meiner, meinem    |
+| Independent possessive (nominative, plural)       | mine          | meine                     | miens, miennes    | míos, mías    |
 
 _m/f/n is Masculine/Feminine/Neuter_
 
@@ -176,87 +179,88 @@ _m/f/n is Masculine/Feminine/Neuter_
 
 Examples:
 
-|               | English                   | German                        | French                    | Spanish                   |
-| --            | --                        | --                            | --                        | --                        |
-| Masculine     |                           | Ich esse meinen Apfel         | Je mange mon ananas       | Yo como mi tomate         |
-| Masculine     |                           | Ich esse meine Äpfel          | Je mange mes ananas       | Yo como mis tomates       |
-| Feminine      | I eat my cherry           | Ich esse meine Kirsche        | Je mange ma cerise        | Yo como mi cereza         |
-| Feminine      | I eat my cherries         | Ich esse meine Kirschen       | Je mange mes cerises      | Yo como mis cerezas       |
-| Neuter        | I read my book            | Ich lese mein Buch            | Je lis mon livre          | Yo leo mi libro           |
-| Neuter        | I read my books           | Ich lese meine Bücher         | Je lis mes livres         | Yo leo mis libros         |
-| Masculine     |                           | Der Apfel gehört mir          | L'ananas est à moi        | El tomate es mío          |
-| Masculine     |                           | Die Äpfel gehören mir         | Les ananas sont à moi     | Los tomates son míos      |
-| Feminine      | The cherry is mine        | Die Kirsche gehört mir        | La cerise est à moi       | La cereza es mía          |
-| Feminine      | The cherries are mine     | Die Kirschen gehören mir      | Les cerises sont à moi    | Las cerezas son mías      |
-| Neuter        | The book is mine          | Das Buch gehört mir           | Le livre est à moi        | El libro es mío           |
-| Neuter        | The books are mine        | Die Bücher gehören mir        | Les livres sont à moi     | Los libros son míos       |
+| I, mine               | my                    | English                           | German                                    | French                                | Spanish                               |
+| --                    | --                    | --                                | --                                        | --                                    | --                                    |
+| Subject (nominative)  | (dative, nominative)  | I give my brother my dog          | Ich gebe meinem Bruder meinen Hund        | Je donne mon chien à mon frère        | (Le) doy mi perro a mi hermano        |
+| Subject (nominative)  | (dative, nominative)  | I give my sister my cat           | Ich gebe meiner Schwester meine Katze     | Je donne mon chat à ma sœur           | (Le) doy mi gato a mi hermana         |
+| Subject (nominative)  | (dative, nominative)  | I give my child my chicken        | Ich gebe meinem Kind mein Huhn            | Je donne mon poulet à mon enfant      | (Le) doy a mi hijo/hija mi pollo      |
+| Subject (nominative)  | (dative, nominative)  | I give my children my chickens    | Ich gebe meinen Kindern meine Hühner      | Je donne mes poulets à mes enfants    | (Le) doy a mis hijos/hijas mis pollos |
+| Object (accusative)   | (nominative)          | My chickens hate me               | Meine Hühner hassen mich                  | Mes poules me détestent               | Mis gallinas me odian                 |
+| Object (dative)       | (nominative)          | My brother gives me a dog         | Mein Bruder schenkt mir einen Hund        | Mon frère me donne un chien           | Mi hermano me da un perro             |
+| Object (dative)       | (nominative)          | My sister gives me a cat          | Meine Schwester schenkt mir eine Katze    | Ma sœur me donne un chat              | Mi hermana me da un gato              |
+| Object (dative)       | (nominative)          | My child gives me a chicken       | Mein Kind schenkt mir ein Huhn            | Mon enfant me donne un poulet         | Mi hijo/hija me da un pollo           |
+| Subject (nominative)  |                       | Your brother and mine are friends | Dein Bruder und meiner sind Freunde       | Ton frère et le mien sont amis        | Tu hermano y el mío son amigos        |
+| Subject (nominative)  |                       | Your sister and mine are friends  | Deine Schwester und meine sind Freundinnen| Ta sœur et la mienne sont amies       | Tu hermana y la mía son amigas        |
+| Subject (nominative)  |                       | Your car and mine are the same    | Dein Auto und meines sind gleich          |                                       |                                       |
+| Object (accusative)   |                       | Your brother meets mine           | Dein Bruder trifft meinen                 | Tes frères rencontrent les miens      | Tus hermanos conocen a los míos       |
+| Object (accusative)   |                       | Your sister meets mine            | Deine Schwester trifft meine              | Tes sœurs rencontrent les miennes     | Tus hermanas conocen a las mías       |
+| Object (accusative)   |                       | Your rabbit bites mine            | Dein Kaninchen beißt meins                |                                       |                                       |
+| Object (dative)       |                       | Your brother gives mine a dog     | Dein Bruder schenkt meinem einen Hund     |                                       |                                       |
+| Object (dative)       |                       | Your sister gives mine a cat      | Deine Schwester schenkt meiner eine Katze |                                       |                                       |
+| Object (dative)       |                       | Your child gives mine a chicken   | Dein Kind gibt meinem ein Huhn            |                                       |                                       |
+| Subject (nominative)  |                       | I am you                          | Ich bin du                                | Je suis toi                           | Yo soy tú                             |
+| Subject (nominative)  |                       | Mine is yours                     | Meins ist deins                           | Le mien est à toi                     | Lo mío es tuyo                        |
+|                       | (nominative)          | My home is your home              | Mein Zuhause ist dein Zuhause             | Ma maison est ta maison               | Mi casa es tu casa                    |
 
 ### Pronouns of 2nd Person, Singular
 
-|                                                   | English       | German                | French            | Spanish       |
-| --                                                | --            | --                    | --                | --            |
-| Subject (nominative)                              | you           | du                    | tu                | tú            |
-| Object (accusative, direct)                       | you           | dich                  | te                | te            |
-| Object (dative, indirect)                         | (to) you      | dir                   | te                | te            |
-| Object (disjunctive, prepositional)               | (for) you     | dich                  | (pour) toi        | (para) ti     |
-| Dependent possessive (genitive, single, m/f/n)    | your          | deinen, deine, dein   | ton, ta           | tu            |
-| Dependent possessive (genitive, plural)           | your          | deine                 | tes               | tus           |
-| Independent possessive (genitive, single, m/f/n)  | yours         | deiner, deine, deins  | tien, tienne      | tuyo, tuya    |
-| Independent possessive (genitive, plural)         | yours         | deine                 | tiens, tiennes    | tuyos, tuyas  |
+|                                                   | English       | German                    | French            | Spanish       |
+| --                                                | --            | --                        | --                | --            |
+| Subject (nominative)                              | you           | du                        | tu                | tú            |
+| Object (accusative, direct)                       | you           | dich                      | te                | te            |
+| Object (dative, indirect)                         | (to) you      | dir                       | te                | te            |
+| Object (disjunctive, prepositional)               | (for) you     | dich                      | (pour) toi        | (para) ti     |
+| Dependent possessive (nominative, single, m/f/n)  | your          | dein, deine, dein         | ton, ta           | tu            |
+| Dependent possessive (accusative, single, m/f/n)  |               | deinen, deine, dein       |
+| Dependent possessive (dative, single, m/f/n)      |               | deinem, deiner, deinem    |
+| Dependent possessive (nominative, plural)         | your          | deine                     | tes               | tus           |
+| Independent possessive (nominative, single, m/f/n)| yours         | deiner, deine, deines     | tien, tienne      | tuyo, tuya    |
+| Independent possessive (accusative, single, m/f/n)|               | deinen, deine, deins      |
+| Independent possessive (dative, single, m/f/n)    |               | deinem, deiner, deinem    |
+| Independent possessive (nominative, plural)       | yours         | deine                     | tiens, tiennes    | tuyos, tuyas  |
+
+_m/f/n is Masculine/Feminine/Neuter_
 
 Examples:
 
-|               | English                   | German                        | French                    | Spanish                   |
-| --            | --                        | --                            | --                        | --                        |
-| Masculine     |                           | Du isst deinen Apfel          | Tu manges ton ananas      | Tú comes tu tomate        |
-| Masculine     |                           | Du isst deine Äpfel           | Tu manges tes ananas      | Tú comes tus tomates      |
-| Feminine      | You eat your cherry       | Du isst deine Kirsche         | Tu manges ta cerise       | Tú comes tu cereza        |
-| Feminine      | You eat your cherries     | Du isst deine Kirschen        | Tu manges tes cerises     | Tú comes tus cerezas      |
-| Neuter        | You read your book        | Du liest dein Buch            | Tu lis ton livre          | Tú lees tu libro          |
-| Neuter        | You read your books       | Du liest deine Bücher         | Tu lis tes livres         | Tú lees tus libros        |
-| Masculine     |                           | Der Apfel gehört dir          | L'ananas est à toi        | El tomate es tuyo         |
-| Masculine     |                           | Die Äpfel gehören dir         | Les ananas sont à vous    | Los tomates son tuyos     |
-| Feminine      | The cherry is yours       | Die Kirsche gehört dir        | La cerise est à toi       | La cereza es tuya         |
-| Feminine      | The cherries are yours    | Die Kirschen gehören dir      | Les cerises sont à toi    | Las cerezas son tuyas     |
-| Neuter        | The book is yours         | Das Buch gehört dir           | Le livre est à toi        | El libro es tuyo          |
-| Neuter        | The books are yours       | Die Bücher gehören dir        | Les livres sont à toi     | Los libros son tuyos      |
-
-| English                       | German                        | French                                        | Spanish                               |
-| --                            | --                            | --                                            | --                                    |
-| I am you                      | Ich bin du                    | Je suis toi                                   | Yo soy tú                             |
-| Your are me                   | Du bist ich                   | Tu es moi                                     | Tú eres yo                            |
-| Mine is yours                 | Meins ist deins               | Le mien est à toi                             | Lo mío es tuyo                        |
-| Yours is mine                 | Deins ist meins               | Le tien est à moi                             | Lo tuyo es mío                        |
-| My home is your home          | Mein Zuhause ist dein Zuhause | Ma maison est ta maison                       | Mi casa es tu casa                    |
-| Your home is my home          | Dein Zuhause ist mein Zuhause | Ta maison est ma maison                       | Tu casa es mi casa                    |
-| It is mine                    | Es ist meins                  | C'est à moi                                   | Es mío                                |
-| It is yours                   | Es ist deins                  | C'est à toi                                   | Es tuyo                               |
-| It is for me                  | Es ist für mich               | C'est pour moi                                | Es para mí                            |
-| It is for you                 | Es ist für dich               | C'est pour toi                                | Es para ti                            |
-| I see you                     | Ich sehe dich                 | Je te vois                                    | Te veo                                |
-| You see me                    | Sie sehen mich                | Vous me voyez                                 | Me ves                                |
-| I give the book to you        | Ich gebe dir das Buch         | Je te donne le livre                          | Te doy el libro                       |
-|                               | (I give you the book)         | (I you give the book)                         | ((I) you give the book)               |
-| You give the book to me       | Du gibst mir das Buch         | Tu me donnes le livre                         | Me das el libro                       |
-|                               | (You give me the book)        | (You me give the book)                        | ((You) me give the book)              |
-| Mine is better than yours     | Meins ist besser als deins    | Le mien est meilleur que le tien              | El mío es mejor que el tuyo           |
-| Mine are better than yours    | Meine sind besser als deine   | Les miennes sont meilleures que les tiennes   | Los míos son mejores que los tuyos    |
-| Yours is better than mine     | Deins ist besser als meines   | Le tien est meilleur que le mien              | El tuyo es mejor que el mío           |
-| Yours are better than mine    | Deine sind besser als meine   | Les tiens sont meilleurs que les miens        | Los tuyos son mejores que los míos    |
-| Read me                       | Lies mich                     | Lis-moi                                       | Léame                                 |
-| tell me                       | Sag mir                       | Dites-moi                                     | Dime                                  |
+| you, yours            | your                  | English                                   | German                                    | French                                        | Spanish                               |
+| --                    | --                    | --                                        | --                                        | --                                            | --                                    |
+| Subject (nominative)  | (dative, nominative)  | You give your brother your dog            | Du gibst deinem Bruder deinen Hund        | Tu donnes ton chien à ton frère               | Le das a tu hermano tu perro          |
+| Subject (nominative)  | (dative, nominative)  | You give your sister your cat             | Du gibst deiner Schwester deine Katze     | Tu donnes ton chat à ta sœur                  | Le das a tu hermana tu gato           |
+| Subject (nominative)  | (dative, nominative)  | You give your child your chicken          | Du gibst deinem Kind dein Huhn            | Vous donnez votre poulet à votre enfant       | Le das a tu hijo/hija tu pollo        |
+| Subject (nominative)  | (dative, nominative)  | You give your children your chickens      | Sie geben Ihren Kindern Ihre Hühner       | Vous donnez vos poulets à vos enfants         | Le das a tus hijos/hijas tus pollos   |
+| Object (accusative)   | (nominative)          | Your chickens hate you                    | Deine Hühner hassen dich                  | Vos poules vous détestent                     | Tus gallinas te odian                 |
+| Object (dative)       | (nominative)          | Your brother gives you a dog              | Dein Bruder schenkt dir einen Hund        | Ton frère te donne un chien                   | Tu hermano te da un perro             |
+| Object (dative)       | (nominative)          | Your sister gives you a cat               | Deine Schwester schenkt dir eine Katze    | Ta sœur te donne un chat                      | Tu hermana te da un gato              |
+| Object (dative)       | (nominative)          | Your child gives you a chicken            | Ihr Kind schenkt Ihnen ein Huhn           | Votre enfant vous donne un poulet             | Tu hijo/hija te da un pollo           |
+| Subject (nominative)  |                       | My brother and yours are friends          | Mein Bruder und dein Bruder sind Freunde  | Mon frère et le tien sont amis                | Mi hermano y el tuyo son amigos       |
+| Subject (nominative)  |                       | My sister and yours are friends           | Meine Schwester und deine sind Freunde    | Ma sœur et la tienne sont amies               | Mi hermana y la tuya son amigas       |
+| Subject (nominative)  |                       | My car and yours are the same             | Mein Auto und deins sind gleich           |                                               |                                       |
+| Object (accusative)   |                       | My brother meets yours                    | Mein Bruder trifft deinen                 | Mes frères rencontrent les tiens              | Mis hermanos conocen a los tuyos      |
+| Object (accusative)   |                       | My sister meets yours                     | Meine Schwester trifft deine              | Mes sœurs rencontrent les tiennes             | Mis hermanas conocen a las tuyas      |
+| Object (accusative)   |                       | My rabbit bites yours                     | Mein Kaninchen beißt deins                |                                               |                                       |
+| Object (dative)       |                       | My brother gives yours a dog              | Mein Bruder schenkt deinem einen Hund     |                                               |                                       |
+| Object (dative)       |                       | My sister gives yours a cat               | Meine Schwester schenkt deiner eine Katze |                                               |                                       |
+| Object (dative)       |                       | My child gives yours a chicken            | Mein Kind gibt deinem ein Huhn            |                                               |                                       |
+| Subject (nominative)  |                       | You are me                                | Du bist ich                               | Tu es moi                                     | Tú eres yo                            |
+| Subject (nominative)  |                       | Yours is mine                             | Deins ist meins                           | Le tien est à moi                             | El tuyo es mío, La tuya es mía        |
+|                       | (nominative)          | Your home is my home                      | Dein Zuhause ist mein Zuhause             | Ta maison est ma maison                       | Tu casa es mi casa                    |
 
  ### Pronouns of 1st Person, Plural
 
-|                                                   | English   | German                    | French    | Spanish               |
-| --                                                | --        | --                        | --        | --                    |
-| Subject (nominative)                              | we        | wir                       | nous      | nosotros, nosotras    |
-| Object (accusative, direct)                       | us        | uns                       | nous      | nos                   |
-| Object (dative, indirect)                         | us        | uns                       | nous      | nos                   |
-| Dependent possessive (genitive, single, m/f/n)    | our       | unseren, unsere, unser    | notre     | nuestro, nuestra      |
-| Dependent possessive (genitive, plural)           | our       | unsere                    | nos       | nuestros, nuestras    |
-| Independent possessive (genitive, single, m/f/n)  | ours      | unserer, unsere, unseres  | nôtre     | nuestro, nuestra      |
-| Independent possessive (genitive, plural)         | ours      | unsere                    | nôtres    | nuestros, nuestras    |
+|                                                       | English   | German                        | French    | Spanish               |
+| --                                                    | --        | --                            | --        | --                    |
+| Subject (nominative)                                  | we        | wir                           | nous      | nosotros, nosotras    |
+| Object (accusative, direct)                           | us        | uns                           | nous      | nos                   |
+| Object (dative, indirect)                             | us        | uns                           | nous      | nos                   |
+| Dependent possessive (nominative, single, m/f/n)      | our       | unser, unsere, unser          | notre     | nuestro, nuestra      |
+| Dependent possessive (accusative, single, m/f/n)      |           | unseren, unsere, unser        |
+| Dependent possessive (dative, single, m/f/n)          |           | unserem, unserer, unserem     |
+| Dependent possessive (nominative, plural)             | our       | unsere                        | nos       | nuestros, nuestras    |
+| Independent possessive (nominative, single, m/f/n)    | ours      | unserer, unsere, unseres      | nôtre     | nuestro, nuestra      |
+| Independent possessive (accusative, single, m/f/n)    |           | unseren, unsere, unses        |
+| Independent possessive (dative, single, m/f/n)        |           | unserem, unserer, unserem     |
+| Independent possessive (nominative, plural)           | ours      | unsere                        | nôtres    | nuestros, nuestras    |
 
 Examples:
 
@@ -278,10 +282,14 @@ Examples:
 | Subject (nominative)                              | you       | ihr                       | Sie                   | vous      | vosotros, vosotras    |
 | Object (accusative, direct)                       | you       | euch                      | Sie                   | vous      | os                    |
 | Object (dative, indirect)                         | you       | euch                      | Ihnen                 | vous      | os                    |
-| Dependent possessive (genitive, single, m/f/n)    | your      | euren, eure, euer         | Ihren, Ihre, Ihr      | votre     | vuestro, vuestra      |
-| Dependent possessive (genitive, plural)           | your      | eure                      | Ihre                  | vos       | vuestros, vuestras    |
-| Independent possessive (genitive, single, m/f/n)  | yours     | eurer, eure, eures        | Ihrer, Ihre, Ihres    | vôtre     | vuestro, vuestra      |
-| Independent possessive (genitive, plural)         | yours     | eure                      | Ihre                  | vôtre     | vuestros, vuestras    |
+| Dependent possessive (nominative, single, m/f/n)  | your      | euer, eure, euer          | Ihren, Ihre, Ihr      | votre     | vuestro, vuestra      |
+| Dependent possessive (accusative, single, m/f/n)  |           | euren, eure, euer         |
+| Dependent possessive (dative, single, m/f/n)      |           | eurem, eurer, eurem       |
+| Dependent possessive (nominative, plural)         | your      | eure                      | Ihre                  | vos       | vuestros, vuestras    |
+| Independent possessive (nominative, single, m/f/n)| yours     | eurer, eure, eures        | Ihrer, Ihre, Ihres    | vôtre     | vuestro, vuestra      |
+| Independent possessive (accusative, single, m/f/n)|           | euren, eure, eures        |
+| Independent possessive (dative, single, m/f/n)    |           | eurem, eurer, eurem       |
+| Independent possessive (nominative, plural)       | yours     | eure                      | Ihre                  | vôtre     | vuestros, vuestras    |
 
 Examples (need to verify):
 
@@ -296,39 +304,7 @@ Examples (need to verify):
 | Neuter        | This book is yours        | Dieses Buch gehört Ihnen      | Ce livre est à vous           | Este libro es de vosotros     |
 | Neuter        | These books are yours     | Diese Bücher gehören Ihnen    | Ces livres sont à vous        | Estos libros son de vosotros  |
 
-| English                   | German                        | French                        | Spanish                       |
-| --                        | --                            | --                            | --                            |
-| We are you                | Wir sind Sie                  | Nous sommes vous              | Nosotros somos ustedes        |
-| You are us                | Sie sind wir                  | Vous êtes nous                | Ustedes son nosotros          |
-| Ours is yours             | Unser ist Ihr                 | Le nôtre est le vôtre         | Lo nuestro es vuestro         |
-| Yours is ours             | Ihres ist unser               | Le vôtre est le nôtre         | Lo vuestro es nuestro         |
-| It is ours                | Es ist unser                  | C'est à nous                  | Es nuestro                    |
-| It is yours               | Es ist euer                   | C'est à vous                  | Es vuestro                    |
-| It is for us              | Es ist für uns                | C'est pour nous               | Es para nosotros              |
-| It is for you             | Es ist für euch               | C'est pour vous               | Es para vosotros              |
-| We see you                | Wir sehen euch                | Nous vous voyons              | Nos vemos                     |
-| You see us                | Ihr seht uns                  | Vous nous voyez               | Nos veis                      |
-| We give the book to you   | Wir schenken euch das Buch    | Nous vous donnons le livre    | Os damos el libro             |
-|                           | (We give you the book)        | (We you give the book)        | ((We) you give the book)      |
-| You give the book to us   | Ihr gebt uns das Buch         | Vous nous donnez le livre     | Nos dais el libro             |
-|                           | (You give us the book)        | (You us give the book)        | ((You) us give the book)      |
-
 ### Pronouns of 3rd Person, Singular
-
-| English   | German    | French        | Spanish   |
-| --        | --        | --            | --        |
-| he        | er        | il            | él        |
-| him       | ihm, ihm  | lui           | él        |
-| his       | sein      | son, sa, ses  | su        |
-| his       | sein      | tienne, sienne| suyo      |
-| she       | sie       | elle          | ella      |
-| her       | sie, ihr  | elle          | ella      |
-| her       | ihr       | son, sa, ses  | su        |
-| hers      | ihr       | tienne, sienne| suyo      |
-| it        | es        | il            |
-| its       | sein      | son, sa, ses  |
-| someone   |
-| someone's |
 
 Masculine (he, him):
 
@@ -336,12 +312,12 @@ Masculine (he, him):
 | --                                                | --        |                           --                      |                           --                  |                           --              |
 | Subject (nominative)                              | he        | ${\color{#000000}\text{   er                   }}$| ${\color{#000000}\text{   il            }}$   | ${\color{#cc9900}\text{   él          }}$ |
 | Object (accusative, direct)                       | him       | ${\color{#cc9900}\text{   ihn                  }}$| ${\color{#000000}\text{   le            }}$   | ${\color{#000000}\text{   lo          }}$ |
-| Object (dative, indirect)                         | him       | ${\color{#cc0000}\text{   ihm                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   le          }}$ |
-| Object (disjunctive, prepositional)               | him       | ${\color{#cc9900}\text{   ihn                  }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   él          }}$ |
-| Dependent possessive (genitive, single, m/f/n)    | his       | ${\color{#0066cc}\text{   seinen, seine, sein  }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
-| Dependent possessive (genitive, plural)           | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
-| Independent possessive (genitive, single, m/f/n)  | his       | ${\color{#0066cc}\text{   seiner, seine, seins }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
-| Independent possessive (genitive, plural          | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+| Object (dative, indirect)                         | him       | ${\color{#cc0000}\text{   ihm                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc0000}\text{   le          }}$ |
+| Object (disjunctive, prepositional)               | him       | ${\color{#cc9900}\text{   ihn                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc9900}\text{   él          }}$ |
+| Dependent possessive (accusative, single, m/f/n)  | his       | ${\color{#0066cc}\text{   seinen, seine, sein  }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (nominative, plural)         | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (nominative, single, m/f/n)| his       | ${\color{#0066cc}\text{   seiner, seine, seins }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (nominative, plural        | his       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
 
 Feminine (she, her):
 
@@ -349,12 +325,12 @@ Feminine (she, her):
 | --                                                | --        |                           --                      |                           --                  |                           --              |
 | Subject (nominative)                              | she       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   elle          }}$   | ${\color{#cc9900}\text{   ella        }}$ |
 | Object (accusative, direct)                       | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   la            }}$   | ${\color{#000000}\text{   la          }}$ |
-| Object (dative, indirect)                         | her       | ${\color{#000000}\text{   ihr                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   le          }}$ |
-| Object (disjunctive, prepositional)               | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   ella        }}$ |
-| Dependent possessive (genitive, single, m/f/n)    | her       | ${\color{#000000}\text{   ihren                }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
-| Dependent possessive (genitive, plural)           | her       | ${\color{#000000}\text{   ihren                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
-| Independent possessive (genitive, single, m/f/n)  | hers      | ${\color{#000000}\text{   ihrs                 }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
-| Independent possessive (genitive, plural          | hers      | ${\color{#000000}\text{   ihrs                 }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+| Object (dative, indirect)                         | her       | ${\color{#000000}\text{   ihr                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc0000}\text{   le          }}$ |
+| Object (disjunctive, prepositional)               | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   elle          }}$   | ${\color{#cc9900}\text{   ella        }}$ |
+| Dependent possessive (accusative, single, m/f/n)  | her       | ${\color{#000000}\text{   ihren, ihre, ihr     }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (nominative, plural)         | her       | ${\color{#000000}\text{   ihre                 }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (nominative, single, m/f/n)| hers      | ${\color{#000000}\text{   ihrer, ihre, ihrs    }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (nominative, plural        | hers      | ${\color{#000000}\text{   ihre                 }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
 
 Neuter (it):
 
@@ -363,74 +339,82 @@ Neuter (it):
 | Subject (nominative)                              | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#000000}\text{   on            }}$   | ${\color{#cc9900}\text{   ello        }}$ |
 | Object (accusative, direct)                       | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#000000}\text{   --            }}$   | ${\color{#000000}\text{   se          }}$ |
 | Object (dative, indirect)                         | it        | ${\color{#cc0000}\text{   ihm                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#000000}\text{   se          }}$ |
-| Object (disjunctive, prepositional)               | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#0066cc}\text{   soi           }}$   | ${\color{#cc9900}\text{   ello        }}$ |
-| Dependent possessive (genitive, single, m/f/n)    | its       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
-| Dependent possessive (genitive, plural)           | its       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
-| Independent possessive (genitive, single, m/f/n)  | its       | ${\color{#0066cc}\text{   seins                }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
-| Independent possessive (genitive, plural          | its       | ${\color{#0066cc}\text{   seins                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+| Object (disjunctive, prepositional)               | it        | ${\color{#cc9900}\text{   es                   }}$| ${\color{#000000}\text{   cela          }}$   | ${\color{#cc9900}\text{   ello        }}$ |
+| Dependent possessive (accusative, single, m/f/n)  | its       | ${\color{#0066cc}\text{   seinen, seine, sein  }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
+| Dependent possessive (nominative, plural)         | its       | ${\color{#0066cc}\text{   seine                }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
+| Independent possessive (nominative, single, m/f/n)| its       | ${\color{#0066cc}\text{   seiner, seine, seins }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
+| Independent possessive (nominative, plural        | its       | ${\color{#0066cc}\text{   seins                }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
 
 Examples:
 
-| him                   | his family                | English                           | German                            | French                            |
-| --                    | --                        | --                                | --                                | --                                |
-| Subject (nominative)  | (dative, masculine)       | He gives his brother the book     | Er gibt seinem Bruder das Buch    | Il donne le livre à son frère     |
-| Subject (nominative)  | (dative, feminine)        | He gives his sister the book      | Er gibt seiner Schwester das Buch | Il donne le livre à sa sœur       |
-| Subject (nominative)  | (dative, neuter)          | He gives his child the book       | Er gibt seinem Kind das Buch      | Il donne le livre à son enfant    |
-| Object (dative)       | (nominative, masculine)   | His brother gives him the book    | Sein Bruder gibt ihm das Buch     | Son frère lui donne le livre      |
-| Object (dative)       | (nominative, feminine)    | His sister gives him the book     | Seine Schwester gibt ihm das Buch | Sa sœur lui donne le livre        |
-| Object (dative)       | (nominative, neuter)      | His child gives him the book      | Sein Kind gibt ihm das Buch       | Son enfant lui donne le livre     |
-| Subject (nominative)  | (accusative, masculine)   | He hates his brother              | Er hasst seinen Bruder            | Il déteste son frère              |
-| Subject (nominative)  | (accusative, feminine)    | He hates his sister               | Er hasst seine Schwester          | Il déteste sa sœur                |
-| Subject (nominative)  | (accusative, neuter)      | He hates his child                | Er hasst sein Kind                | Il déteste son enfant             |
-| Subject (nominative)  | (accusative, plural)      | He hates his children             | Er hasst seine Kinder             | Il déteste ses enfants            |
-| Object (accusative)   | (nominative, masculine)   | His brother hates him             | Sein Bruder hasst ihn             | Son frère le déteste              |
-| Object (accusative)   | (nominative, feminine)    | His sister hates him              | Seine Schwester hasst ihn         | Sa sœur le déteste                |
-| Object (accusative)   | (nominative, neuter)      | His child hates him               | Sein Kind hasst ihn               | Son enfant le déteste             |
-| Object (accusative)   | (nominative, plural)      | His children hate him             | Seine Kinder hassen ihn           | Ses enfants le détestent          |
+| him                   | his family                | English                           | German                                    | French                                | Spanish                               |
+| --                    | --                        | --                                | --                                        | --                                    | --                                    |
+| Subject (nominative)  | (dative, masculine)       | He gives his brother his dog      | Er gibt seinem Bruder seinen Hund         | Il donne son chien à son frère        | Él Le da a su hermano su perro        |
+| Subject (nominative)  | (dative, feminine)        | He gives his sister his cat       | Er gibt seiner Schwester seine Katze      | Il donne son chat à sa sœur           | Él le da a su hermana su gato         |
+| Subject (nominative)  | (dative, neuter)          | He gives his child his chicken    | Er gibt seinem Kind sein Huhn             | Il donne son poulet à ses enfants     | Él les da a sus hijos/hijas su pollo  |
+| Object (dative)       | (nominative, masculine)   | His brother gives him a dog       | Sein Bruder schenkt ihm einen Hund        | Son frère lui donne un chien          | Su hermano le regala un perro         |
+| Object (dative)       | (nominative, feminine)    | His sister gives him a cat        | Seine Schwester schenkt ihm eine Katze    | Sa sœur lui donne un chat             | Su hermana le regala un gato          |
+| Object (dative)       | (nominative, neuter)      | His child gives him a chicken     | Sein Kind schenkt ihm ein Huhn            | Ses enfants lui donnent un poulet     | Sus hijos/hijas le dan un pollo       |
+| Subject (nominative)  | (accusative, masculine)   | He hates his dog                  | Er hasst seinen Hund                      | Il déteste son chien                  | Él odia a su perro                    |
+| Subject (nominative)  | (accusative, feminine)    | He hates his cat                  | Er hasst seine Katze                      | Il déteste son chat                   | Él odia a su gato                     |
+| Subject (nominative)  | (accusative, neuter)      | He hates his chicken              | Er hasst sein Huhn                        | Il déteste ses poules                 | Él odia a sus gallinas                |
+| Object (accusative)   | (nominative, masculine)   | His dog hates him                 | Sein Hund hasst ihn                       | Son chien le déteste                  | Su perro lo odia                      |
+| Object (accusative)   | (nominative, feminine)    | His cat hates him                 | Seine Katze hasst ihn                     | Son chat le déteste                   | Su gato lo odia                       |
+| Object (accusative)   | (nominative, neuter)      | His chicken hates him             | Sein Huhn hasst ihn                       | Ses poules le détestent               | Sus gallinas lo odian                 |
 
-|                                   | English                           | German                            | French                            |
-| --                                | --                                | --                                | --                                |
-| Subject (nominative, masculine)   | Her brother gives her the book    | Ihr Bruder gibt ihr das Buch      |
-| Subject (nominative, feminine)    | Her sister gives her the book     | Ihre Schwester gibt ihr das Buch  |
-| Subject (nominative, neuter)      | Her child gives her the book      | Ihr Kind gibt ihr das Buch        |
-| Object (dative, masculine)        | She gives her brother the book    | Sie gibt ihrem Bruder das Buch    |
-| Object (dative, feminine)         | She gives her sister the book     | Sie gibt ihrer Schwester das Buch |
-| Object (dative, neuter)           | She gives her child the book      | Sie gibt ihrem Kind das Buch      |
-| Object (accusative, masculine)    | She hates her brother             | Sie hasst ihren Bruder            |
-| Object (accusative, feminine)     | She hates her sister              | Sie hasst ihre Schwester          |
-| Object (accusative, neuter)       | She hates her child               | Sie hasst ihr Kind                |
-
-|               | English           | German            | French            | Spanish           |
-| --            | --                | --                | --                | --                |
-| Masculine     | his brother       | sein Bruder       | son frère         | su hermano        |
-| Masculine     | his brothers      | seine Brüder      | ses frères        | sus hermanos      |
-| Feminine      | his sister        | seine Schwester   | sa sœur           | su hermana        |
-| Feminine      | his sisters       | seine Schwestern  | ses sœurs         | sus hermanas      |
-| Neuter        | his book          | sein Buch         | son livre         | su libro          |
-| Neuter        | his books         | seine Bücher      | ses livres        | sus libros        |
+| her                   | her family                | English                           | German                                    | French                                | Spanish                               |
+| --                    | --                        | --                                | --                                        | --                                    | --                                    |
+| Subject (nominative)  | (dative, masculine)       | She gives her brother her dog     | Sie gibt ihrem Bruder ihren Hund          | Elle donne son chien à son frère      | Ella le da su perro a su hermano      |
+| Subject (nominative)  | (dative, feminine)        | She gives her sister her cat      | Sie gibt ihrer Schwester ihre Katze       | Elle donne son chat à sa sœur         | Ella le da a su hermana su gato       |
+| Subject (nominative)  | (dative, neuter)          | She gives her child her chicken   | Sie gibt ihrem Kind ihr Huhn              | Elle donne son poulet à ses enfants   | Ella les da su pollo a sus hijos/hijas|
+| Object (dative)       | (nominative, masculine)   | Her brother gives her a dog       | Ihr Bruder schenkt ihr einen Hund         | Son frère lui donne un chien          | Su hermano le regala un perro         |
+| Object (dative)       | (nominative, feminine)    | Her sister gives her a cat        | Ihre Schwester schenkt ihr eine Katze     | Sa sœur lui donne un chat             | Su hermana le regala un gato          |
+| Object (dative)       | (nominative, neuter)      | Her child gives her a chicken     | Ihr Kind schenkt ihr ein Huhn             | Ses enfants lui donnent un poulet     | Sus hijos/hijas le dan un pollo       |
+| Subject (nominative)  | (accusative, masculine)   | She hates her dog                 | Sie hasst ihren Hund                      | Elle déteste son chien                | Ella odia a su perro                  |
+| Subject (nominative)  | (accusative, feminine)    | She hates her cat                 | Sie hasst ihre Katze                      | Elle déteste son chat                 | Ella odia a su gato                   |
+| Subject (nominative)  | (accusative, neuter)      | She hates her chicken             | Sie hasst ihr Huhn                        | Elle déteste ses poules               | Ella odia a sus gallinas              |
+| Object (accusative)   | (nominative, masculine)   | Her dog hates her                 | Ihr Hund hasst sie                        | Son chien la déteste                  | Su perro la odia                      |
+| Object (accusative)   | (nominative, feminine)    | Her cat hates her                 | Ihre Katze hasst sie                      | Son chat la déteste                   | Su gato la odia                       |
+| Object (accusative)   | (nominative, neuter)      | Her chicken hates her             | Ihr Huhn hasst sie                        | Ses poules la détestent               | Sus gallinas la odian                 |
 
 ### Pronouns of 3rd Person, Plural
 
-| English   | French        |
-| --        | --            |
-| they   (M)| ils           |
-| they   (F)| elles         |
-| them      | eux           |
-| their     | leur          |
-| theirs    | leurs         |
+|                                                   | English       | German                    | French            | Spanish       |
+| --                                                | --            | --                        | --                | --            |
+| Subject (nominative)                              | they          | sie                       | ils, elles        | ellos, ellas  |
+| Object (accusative, direct)                       | them          | sie                       | les               | los, las      |
+| Object (dative, indirect)                         | them          | ihnen                     | leur              | les           |
+| Object (disjunctive, prepositional)               | them          | sie                       | eux               | ellos, ellas  |
+| Dependent possessive (nominative, single, m/f/n)  | their         | ihr, ihre, ihr            | leur              | suyo, suya    |
+| Dependent possessive (accusative, single, m/f/n)  | their         | ihren, ihre, ihr          |
+| Dependent possessive (dative, single, m/f/n)      | their         | ihrem, ihrer, ihrem       |
+| Dependent possessive (nominative, plural)         | their         | ihre                      | leurs             | suyos, suyas  |
+| Independent possessive (nominative, single, m/f/n)| theirs        | ihrer, ihre, ihres        | leur              | suyo, suya    |
+| Independent possessive (accusative, single, m/f/n)| theirs        | ihren, ihre, ihrs         |
+| Independent possessive (dative, single, m/f/n)    | theirs        | ihrem, ihrer, ihrem       |
+| Independent possessive (nominative, plural)       | theirs        | ihre                      | leurs             | suyoa, suyas  |
 
 ### Other Pronouns
 
 Demonstrative Pronouns:
 
-| English   | German    | French    | Spanish   |
-| --        | --        | --        | --        |
-| this      | dies      | ce        | este      |
-| that      | das       | que       | eso       |
-| these     | diese     | ces       | estos     |
-| those     | jene      | ceux      | aquellos  |
-| here      | hier      | ici       | aquí      |
-| there     | dort      | là        | allá      |
+| English   | Classical Latin   | German    | French    | Spanish   |
+| --        | --                | --        | --        | --        |
+| this      | hoc               | dies      | ce        | este      |
+| that      | ille              | das       | que       | eso       |
+| these     | haec              | diese     | ces       | estos     |
+| those     | illi              | jene      | ceux      | aquellos  |
+| here      | hic               | hier      | ici       | aquí      |
+| there     | ibi               | dort      | là        | allá      |
+
+| English           | German        | French        | Spanish (this)    | Spanish (that)    |
+| --                | --            | --            | --                | --                |
+| this man          | dieser Mann   | cet homme     | este hombre       | ese hombre        |
+| these men         | diese Männer  | ces hommes    | estos hombres     | esos hombres      |
+| this woman        | diese Frau    | cette femme   | esta mujer        | esa mujer         |
+| these women       | diese Frauen  | ces femmes    | estas mujeres     | esas mujeres      |
+| this book         | dieses Buch   | ce livre      | este libro        | ese libro         |
+| these books       | diese Bücher  | ces livres    | estos libros      | esos libros       |
 
 Interrogative Pronouns:
 
