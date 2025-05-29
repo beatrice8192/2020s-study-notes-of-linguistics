@@ -64,15 +64,16 @@ Personal pronouns in standard Modern English:
 | Third Person, Plural      | they      | them      | their                 | theirs                    | themselves    |
 
 * Demonstrative: this, these, that, those
-* Relative
+* Interrogative / Relative: who, whom, whose, what, which
 * Indefinite:
     * one, one's, oneself
     * things: something, anything, nothing
     * people: someone, anyone, no one
     * people: somebody, anybody, nobody
-* Interrogative: who, whom, whose, what, which
 
 ### German Articles And Pronouns
+
+In this summary, ~strikethrough~ is used if Neuter is the same as Masculine, or Plural is the same as Feminine.
 
 |               | Example                                           |
 | --            | --                                                |
@@ -80,24 +81,6 @@ Personal pronouns in standard Modern English:
 | Accusative    | the direct object                                 |
 | Dative        | the indirect object or object of a preposition    |
 | Genitive      | possessive, of the                                |
-
-Indefinite articles:
-
-|               | Masculine     | Feminine      | Neuter        | Plural    |
-| --            | --            | --            | --            | --        |
-| Nominative    | ein           | ein**e**      | ein           |
-| Accusative    | ein**en**     | ein**e**      | ein           |
-| Dative        | ein**em**     | ein**er**     | ein**em**     |
-| Genitive      | ein**es**     | ein**er**     | ein**es**     |
-
-Definite articles:
-
-|               | Masculine | Feminine  | Neuter    | Plural    |
-| --            | --        | --        | --        | --        |
-| Nominative    | der       | die       | das       | die       |
-| Accusative    | den       | die       | das       | die       |
-| Dative        | dem       | der       | dem       | den       |
-| Genitive      | des       | der       | des       | der       |
 
 Definite article-like endings:
 
@@ -108,33 +91,52 @@ Definite article-like endings:
 | Dative        | -em       | -er       | -em       | -en       |
 | Genitive      | -es       | -er       | -es       | -er       |
 
+Indefinite articles:
+
+|               | Masculine     | Feminine      | Neuter        | Plural    |
+| --            | --            | --            | --            | --        |
+| Nominative    | ein           | ein**e**      |~ein~          |
+| Accusative    | ein**en**     | ein**e**      | ein           |
+| Dative        | ein**em**     | ein**er**     |~ein**em**~    |
+| Genitive      | ein**es**     | ein**er**     |~ein**es**~    |
+
+Definite articles:
+
+|               | Masculine | Feminine  | Neuter    | Plural    |
+| --            | --        | --        | --        | --        |
+| Nominative    | der       | die       | das       |~die~      |
+| Accusative    | den       | die       | das       |~die~      |
+| Dative        | dem       | der       |~dem~      | den       |
+| Genitive      | des       | der       |~des~      |~der~      |
+
+Relative pronouns (which, that) (on top of Definite articles):
+
+|               | Masculine     | Feminine      | Neuter        | Plural        |
+| --            | --            | --            | --            | --            |
+| Nominative    | der           | die           | das           |~die~          |
+| Accusative    | den           | die           | das           |~die~          |
+| Dative        | dem           | der           |~dem~          | den**en**     |
+| Genitive      | des**sen**    | der**en**     |~des**sen**~   |~der**en**~    |
+
 Possessive pronouns (my, mine):
 
 |                       | Masculine     | Feminine      | Neuter        | Plurals       |
 | --                    | --            | --            | --            | --            |
-| Nominative (my)       | mein          | mein**e**     | mein          | mein**e**     |
-| Nominative (mine)     | mein**er**    | mein**e**     | mein**s**     | mein**e**     |
-| Accusative            | mein**en**    | mein**e**     | mein          | mein**e**     |
-| Dative                | mein**em**    | mein**er**    | mein**em**    | mein**en**    |
-| Genitive              | mein**es**    | mein**er**    | mein**es**    | mein**er**    |
-
-Relative pronouns (which, that) (compared to Definite articles):
-
-|               | Masculine     | Feminine      | Neuter        | Plural        |
-| --            | --            | --            | --            | --            |
-| Nominative    | der           | die           | das           | die           |
-| Accusative    | den           | die           | das           | die           |
-| Dative        | dem           | der           | dem           | den**en**     |
-| Genitive      | des**sen**    | der**en**     | des**sen**    | der**en**     |
+| Nominative (my)       | mein          | mein**e**     |~mein~         |~mein**e**~    |
+| Nominative (mine)     | mein**er**    | mein**e**     | mein**s**     |~mein**e**~    |
+| Accusative (my)       | mein**en**    | mein**e**     | mein          |~mein**e**~    |
+| Accusative (mine)     | mein**en**    | mein**e**     | mein**s**     |~mein**e**~    |
+| Dative                | mein**em**    | mein**er**    |~mein**em**~   | mein**en**    |
+| Genitive              | mein**es**    | mein**er**    |~mein**es**~   |~mein**er**~   |
 
 Demonstrative pronouns (this):
 
 |               | Masculine     | Feminine      | Neuter        | Plural        |
 | --            | --            | --            | --            | --            |
-| Nominative    | diese**r**    | diese         | diese**s**    | diese         |
-| Accusative    | diese**n**    | diese         | diese**s**    | diese         |
-| Dative        | diese**m**    | diese**r**    | diese**m**    | diese**n**    |
-| Genitive      | diese**s**    | diese**r**    | diese**s**    | diese**r**    |
+| Nominative    | diese**r**    | diese         | diese**s**    |~diese~        |
+| Accusative    | diese**n**    | diese         | diese**s**    |~diese~        |
+| Dative        | diese**m**    | diese**r**    |~diese**m**~   | diese**n**    |
+| Genitive      | diese**s**    | diese**r**    |~diese**s**~   |~diese**r**~   |
 
 Examples:
 
@@ -146,7 +148,7 @@ Examples:
 | Accusative    | Iss einen Apfel                   | Iss eine Kirsche                  | Liest ein Buch                    |
 | Accusative    | Iss den Apfel                     | Iss die Kirsche                   | Liest das Buch                    |
 | Accusative    | Iss diesen Apfel                  | Iss diese Kirsche                 | Liest dieses Buch                 |
-| Dative        | Ich gebe einem Mann einen Hund    | Ich schenke einer Frau eine Katze | Ich gebe einem Kind ein Buch      |
+| Dative        | Ich gebe einem Mann einen Hund    | Ich gebe einer Frau eine Katze    | Ich gebe einem Kind ein Buch      |
 | Dative        | Ich gebe dem Mann den Hund        | Ich gebe der Frau die Katze       | Ich gebe dem Kind das Buch        |
 | Dative        | Ich gebe diesem Mann diesen Hund  | Ich gebe dieser Frau diese Katze  | Ich gebe diesem Kind dieses Buch  |
 | Genitive      | Der Hund eines Mannes             | Die Katze einer Frau              | Ein Ei eines Huhns                |
@@ -165,42 +167,48 @@ Examples:
 | Dependent possessive (accusative, single, m/f/n)  |               | meinen, meine, mein       |
 | Dependent possessive (dative, single, m/f/n)      |               | meinem, meiner, meinem    |
 | Dependent possessive (nominative, plural)         | my            | meine                     | mes               | mis           |
-| Independent possessive (nominative, single, m/f/n)| mine          | meiner, meine, meines     | mien, mienne      | mío, mía      |
-| Independent possessive (accusative, single, m/f/n)|               | meinen, meine, meins      |
-| Independent possessive (dative, single, m/f/n)    |               | meinem, meiner, meinem    |
-| Independent possessive (nominative, plural)       | mine          | meine                     | miens, miennes    | míos, mías    |
+| Independent possessive (nominative, single, m/f/n)| mine          | meiner, ~meine~, mein(e)s | mien, mienne      | mío, mía      |
+| Independent possessive (accusative, single, m/f/n)|               |~meinen, meine~, mein(e)s  |
+| Independent possessive (dative, single, m/f/n)    |               |~meinem, meiner, meinem~   |
+| Independent possessive (nominative, plural)       | mine          |~meine~                    | miens, miennes    | míos, mías    |
 
-_m/f/n is Masculine/Feminine/Neuter_
+> m/f/n is Masculine/Feminine/Neuter.
 
-* The gender and number of possessive pronouns depend on the object being possessed.
-* German: `gehört mir` (belongs to me) is used instead of possessive pronoun `mine`.
-* French: `est à moi` (is to me) is used instead of possessive pronoun `mine`.
-* Spanish: What's mi vs mí, tu vs tú?
+> ~strikethrough~ is used if `mine` is the same as `my`.
+
+> The gender and number of possessive pronouns depend on the object being possessed.
+
+> German: `gehört mir` (belongs to me) is used in place of possessive pronoun `mine`.
+
+> French: `est à moi` (is to me) is used in place of possessive pronoun `mine`.
+
+> Spanish: What's mi vs mí, tu vs tú?
 
 Examples:
 
-| I, mine               | my                    | English                           | German                                    | French                                | Spanish                               |
-| --                    | --                    | --                                | --                                        | --                                    | --                                    |
-| Subject (nominative)  | (dative, nominative)  | I give my brother my dog          | Ich gebe meinem Bruder meinen Hund        | Je donne mon chien à mon frère        | (Le) doy mi perro a mi hermano        |
-| Subject (nominative)  | (dative, nominative)  | I give my sister my cat           | Ich gebe meiner Schwester meine Katze     | Je donne mon chat à ma sœur           | (Le) doy mi gato a mi hermana         |
-| Subject (nominative)  | (dative, nominative)  | I give my child my chicken        | Ich gebe meinem Kind mein Huhn            | Je donne mon poulet à mon enfant      | (Le) doy a mi hijo/hija mi pollo      |
-| Subject (nominative)  | (dative, nominative)  | I give my children my chickens    | Ich gebe meinen Kindern meine Hühner      | Je donne mes poulets à mes enfants    | (Le) doy a mis hijos/hijas mis pollos |
-| Object (accusative)   | (nominative)          | My chickens hate me               | Meine Hühner hassen mich                  | Mes poules me détestent               | Mis gallinas me odian                 |
-| Object (dative)       | (nominative)          | My brother gives me a dog         | Mein Bruder schenkt mir einen Hund        | Mon frère me donne un chien           | Mi hermano me da un perro             |
-| Object (dative)       | (nominative)          | My sister gives me a cat          | Meine Schwester schenkt mir eine Katze    | Ma sœur me donne un chat              | Mi hermana me da un gato              |
-| Object (dative)       | (nominative)          | My child gives me a chicken       | Mein Kind schenkt mir ein Huhn            | Mon enfant me donne un poulet         | Mi hijo/hija me da un pollo           |
-| Subject (nominative)  |                       | Your brother and mine are friends | Dein Bruder und meiner sind Freunde       | Ton frère et le mien sont amis        | Tu hermano y el mío son amigos        |
-| Subject (nominative)  |                       | Your sister and mine are friends  | Deine Schwester und meine sind Freundinnen| Ta sœur et la mienne sont amies       | Tu hermana y la mía son amigas        |
-| Subject (nominative)  |                       | Your car and mine are the same    | Dein Auto und meines sind gleich          |                                       |                                       |
-| Object (accusative)   |                       | Your brother meets mine           | Dein Bruder trifft meinen                 | Tes frères rencontrent les miens      | Tus hermanos conocen a los míos       |
-| Object (accusative)   |                       | Your sister meets mine            | Deine Schwester trifft meine              | Tes sœurs rencontrent les miennes     | Tus hermanas conocen a las mías       |
-| Object (accusative)   |                       | Your rabbit bites mine            | Dein Kaninchen beißt meins                |                                       |                                       |
-| Object (dative)       |                       | Your brother gives mine a dog     | Dein Bruder schenkt meinem einen Hund     |                                       |                                       |
-| Object (dative)       |                       | Your sister gives mine a cat      | Deine Schwester schenkt meiner eine Katze |                                       |                                       |
-| Object (dative)       |                       | Your child gives mine a chicken   | Dein Kind gibt meinem ein Huhn            |                                       |                                       |
-| Subject (nominative)  |                       | I am you                          | Ich bin du                                | Je suis toi                           | Yo soy tú                             |
-| Subject (nominative)  |                       | Mine is yours                     | Meins ist deins                           | Le mien est à toi                     | Lo mío es tuyo                        |
-|                       | (nominative)          | My home is your home              | Mein Zuhause ist dein Zuhause             | Ma maison est ta maison               | Mi casa es tu casa                    |
+| I, mine               | my                    | English                               | German                                        | French                                | Spanish                               |
+| --                    | --                    | --                                    | --                                            | --                                    | --                                    |
+| Subject (nominative)  | (dative, nominative)  | I give my brother my dog              | Ich gebe meinem Bruder meinen Hund            | Je donne mon chien à mon frère        | (Le) doy mi perro a mi hermano        |
+| Subject (nominative)  | (dative, nominative)  | I give my sister my cat               | Ich gebe meiner Schwester meine Katze         | Je donne mon chat à ma sœur           | (Le) doy mi gato a mi hermana         |
+| Subject (nominative)  | (dative, nominative)  | I give my child my chicken            | Ich gebe meinem Kind mein Huhn                | Je donne mon poulet à mon enfant      | (Le) doy a mi hijo/hija mi pollo      |
+| Subject (nominative)  | (dative, nominative)  | I give my children my chickens        | Ich gebe meinen Kindern meine Hühner          | Je donne mes poulets à mes enfants    | (Le) doy a mis hijos/hijas mis pollos |
+| Object (dative)       | (nominative)          | My brother gives me a dog             | Mein Bruder schenkt mir einen Hund            | Mon frère me donne un chien           | Mi hermano me da un perro             |
+| Object (dative)       | (nominative)          | My sister gives me a cat              | Meine Schwester schenkt mir eine Katze        | Ma sœur me donne un chat              | Mi hermana me da un gato              |
+| Object (dative)       | (nominative)          | My child gives me a chicken           | Mein Kind schenkt mir ein Huhn                | Mon enfant me donne un poulet         | Mi hijo/hija me da un pollo           |
+| Object (accusative)   | (nominative)          | My chickens hate me                   | Meine Hühner hassen mich                      | Mes poules me détestent               | Mis gallinas me odian                 |
+| Subject (nominative)  |                       | Your brother and mine are friends     | Dein Bruder und meiner sind Freunde           | Ton frère et le mien sont amis        | Tu hermano y el mío son amigos        |
+| Subject (nominative)  |                       | Your sister and mine are friends      | Deine Schwester und meine sind Freundinnen    | Ta sœur et la mienne sont amies       | Tu hermana y la mía son amigas        |
+| Subject (nominative)  |                       | Your car and mine are the same        | Dein Auto und meines sind gleich              |                                       |                                       |
+| Object (accusative)   |                       | Your brother meets mine               | Dein Bruder trifft meinen                     | Tes frères rencontrent les miens      | Tus hermanos conocen a los míos       |
+| Object (accusative)   |                       | Your sister meets mine                | Deine Schwester trifft meine                  | Tes sœurs rencontrent les miennes     | Tus hermanas conocen a las mías       |
+| Object (accusative)   |                       | Your child meets mine                 | Dein Kind trifft meines                       |                                       |                                       |
+| Object (accusative)   |                       | Your rabbit bites mine                | Dein Kaninchen beißt meins                    |                                       |                                       |
+| Object (dative)       |                       | Your brother gives mine a dog         | Dein Bruder schenkt meinem einen Hund         |                                       |                                       |
+| Object (dative)       |                       | Your sister gives mine a cat          | Deine Schwester schenkt meiner eine Katze     |                                       |                                       |
+| Object (dative)       |                       | Your child gives mine a chicken       | Dein Kind gibt meinem ein Huhn                |                                       |                                       |
+| Subject (nominative)  |                       | I am you                              | Ich bin du                                    | Je suis toi                           | Yo soy tú                             |
+| Subject (nominative)  |                       | Mine is yours                         | Meins ist deins                               | Le mien est à toi                     | Lo mío es tuyo                        |
+|                       | (nominative)          | My home is your home                  | Mein Zuhause ist dein Zuhause                 | Ma maison est ta maison               | Mi casa es tu casa                    |
 
 ### Pronouns of 2nd Person, Singular
 
@@ -214,95 +222,110 @@ Examples:
 | Dependent possessive (accusative, single, m/f/n)  |               | deinen, deine, dein       |
 | Dependent possessive (dative, single, m/f/n)      |               | deinem, deiner, deinem    |
 | Dependent possessive (nominative, plural)         | your          | deine                     | tes               | tus           |
-| Independent possessive (nominative, single, m/f/n)| yours         | deiner, deine, deines     | tien, tienne      | tuyo, tuya    |
-| Independent possessive (accusative, single, m/f/n)|               | deinen, deine, deins      |
-| Independent possessive (dative, single, m/f/n)    |               | deinem, deiner, deinem    |
-| Independent possessive (nominative, plural)       | yours         | deine                     | tiens, tiennes    | tuyos, tuyas  |
+| Independent possessive (nominative, single, m/f/n)| yours         | deiner, ~deine~, dein(e)s | tien, tienne      | tuyo, tuya    |
+| Independent possessive (accusative, single, m/f/n)|               |~deinen, deine~, dein(e)s  |
+| Independent possessive (dative, single, m/f/n)    |               |~deinem, deiner, deinem~   |
+| Independent possessive (nominative, plural)       | yours         |~deine~                    | tiens, tiennes    | tuyos, tuyas  |
 
 _m/f/n is Masculine/Feminine/Neuter_
 
+> ~strikethrough~ is used if `yours` is the same as `your`.
+
 Examples:
 
-| you, yours            | your                  | English                                   | German                                    | French                                        | Spanish                               |
-| --                    | --                    | --                                        | --                                        | --                                            | --                                    |
-| Subject (nominative)  | (dative, nominative)  | You give your brother your dog            | Du gibst deinem Bruder deinen Hund        | Tu donnes ton chien à ton frère               | Le das a tu hermano tu perro          |
-| Subject (nominative)  | (dative, nominative)  | You give your sister your cat             | Du gibst deiner Schwester deine Katze     | Tu donnes ton chat à ta sœur                  | Le das a tu hermana tu gato           |
-| Subject (nominative)  | (dative, nominative)  | You give your child your chicken          | Du gibst deinem Kind dein Huhn            | Vous donnez votre poulet à votre enfant       | Le das a tu hijo/hija tu pollo        |
-| Subject (nominative)  | (dative, nominative)  | You give your children your chickens      | Sie geben Ihren Kindern Ihre Hühner       | Vous donnez vos poulets à vos enfants         | Le das a tus hijos/hijas tus pollos   |
-| Object (accusative)   | (nominative)          | Your chickens hate you                    | Deine Hühner hassen dich                  | Vos poules vous détestent                     | Tus gallinas te odian                 |
-| Object (dative)       | (nominative)          | Your brother gives you a dog              | Dein Bruder schenkt dir einen Hund        | Ton frère te donne un chien                   | Tu hermano te da un perro             |
-| Object (dative)       | (nominative)          | Your sister gives you a cat               | Deine Schwester schenkt dir eine Katze    | Ta sœur te donne un chat                      | Tu hermana te da un gato              |
-| Object (dative)       | (nominative)          | Your child gives you a chicken            | Ihr Kind schenkt Ihnen ein Huhn           | Votre enfant vous donne un poulet             | Tu hijo/hija te da un pollo           |
-| Subject (nominative)  |                       | My brother and yours are friends          | Mein Bruder und dein Bruder sind Freunde  | Mon frère et le tien sont amis                | Mi hermano y el tuyo son amigos       |
-| Subject (nominative)  |                       | My sister and yours are friends           | Meine Schwester und deine sind Freunde    | Ma sœur et la tienne sont amies               | Mi hermana y la tuya son amigas       |
-| Subject (nominative)  |                       | My car and yours are the same             | Mein Auto und deins sind gleich           |                                               |                                       |
-| Object (accusative)   |                       | My brother meets yours                    | Mein Bruder trifft deinen                 | Mes frères rencontrent les tiens              | Mis hermanos conocen a los tuyos      |
-| Object (accusative)   |                       | My sister meets yours                     | Meine Schwester trifft deine              | Mes sœurs rencontrent les tiennes             | Mis hermanas conocen a las tuyas      |
-| Object (accusative)   |                       | My rabbit bites yours                     | Mein Kaninchen beißt deins                |                                               |                                       |
-| Object (dative)       |                       | My brother gives yours a dog              | Mein Bruder schenkt deinem einen Hund     |                                               |                                       |
-| Object (dative)       |                       | My sister gives yours a cat               | Meine Schwester schenkt deiner eine Katze |                                               |                                       |
-| Object (dative)       |                       | My child gives yours a chicken            | Mein Kind gibt deinem ein Huhn            |                                               |                                       |
-| Subject (nominative)  |                       | You are me                                | Du bist ich                               | Tu es moi                                     | Tú eres yo                            |
-| Subject (nominative)  |                       | Yours is mine                             | Deins ist meins                           | Le tien est à moi                             | El tuyo es mío, La tuya es mía        |
-|                       | (nominative)          | Your home is my home                      | Dein Zuhause ist mein Zuhause             | Ta maison est ma maison                       | Tu casa es mi casa                    |
+| you, yours            | your                  | English                               | German                                    | French                                    | Spanish                               |
+| --                    | --                    | --                                    | --                                        | --                                        | --                                    |
+| Subject (nominative)  | (dative, nominative)  | You give your brother your dog        | Du gibst deinem Bruder deinen Hund        | Tu donnes ton chien à ton frère           | Le das a tu hermano tu perro          |
+| Subject (nominative)  | (dative, nominative)  | You give your sister your cat         | Du gibst deiner Schwester deine Katze     | Tu donnes ton chat à ta sœur              | Le das a tu hermana tu gato           |
+| Subject (nominative)  | (dative, nominative)  | You give your child your chicken      | Du gibst deinem Kind dein Huhn            | Vous donnez votre poulet à votre enfant   | Le das a tu hijo/hija tu pollo        |
+| Subject (nominative)  | (dative, nominative)  | You give your children your chickens  | Sie geben Ihren Kindern Ihre Hühner       | Vous donnez vos poulets à vos enfants     | Le das a tus hijos/hijas tus pollos   |
+| Object (dative)       | (nominative)          | Your brother gives you a dog          | Dein Bruder schenkt dir einen Hund        | Ton frère te donne un chien               | Tu hermano te da un perro             |
+| Object (dative)       | (nominative)          | Your sister gives you a cat           | Deine Schwester schenkt dir eine Katze    | Ta sœur te donne un chat                  | Tu hermana te da un gato              |
+| Object (dative)       | (nominative)          | Your child gives you a chicken        | Ihr Kind schenkt Ihnen ein Huhn           | Votre enfant vous donne un poulet         | Tu hijo/hija te da un pollo           |
+| Object (accusative)   | (nominative)          | Your chickens hate you                | Deine Hühner hassen dich                  | Vos poules vous détestent                 | Tus gallinas te odian                 |
+| Subject (nominative)  |                       | My brother and yours are friends      | Mein Bruder und deiner sind Freunde       | Mon frère et le tien sont amis            | Mi hermano y el tuyo son amigos       |
+| Subject (nominative)  |                       | My sister and yours are friends       | Meine Schwester und deine sind Freunde    | Ma sœur et la tienne sont amies           | Mi hermana y la tuya son amigas       |
+| Subject (nominative)  |                       | My car and yours are the same         | Mein Auto und deins sind gleich           |                                           |                                       |
+| Object (accusative)   |                       | My brother meets yours                | Mein Bruder trifft deinen                 | Mes frères rencontrent les tiens          | Mis hermanos conocen a los tuyos      |
+| Object (accusative)   |                       | My sister meets yours                 | Meine Schwester trifft deine              | Mes sœurs rencontrent les tiennes         | Mis hermanas conocen a las tuyas      |
+| Object (accusative)   |                       | My child meets yours                  | Mein Kind trifft deines                   |                                           |                                       |
+| Object (accusative)   |                       | My rabbit bites yours                 | Mein Kaninchen beißt deins                |                                           |                                       |
+| Object (dative)       |                       | My brother gives yours a dog          | Mein Bruder schenkt deinem einen Hund     |                                           |                                       |
+| Object (dative)       |                       | My sister gives yours a cat           | Meine Schwester schenkt deiner eine Katze |                                           |                                       |
+| Object (dative)       |                       | My child gives yours a chicken        | Mein Kind gibt deinem ein Huhn            |                                           |                                       |
+| Subject (nominative)  |                       | You are me                            | Du bist ich                               | Tu es moi                                 | Tú eres yo                            |
+| Subject (nominative)  |                       | Yours is mine                         | Deins ist meins                           | Le tien est à moi                         | El tuyo es mío, La tuya es mía        |
+|                       | (nominative)          | Your home is my home                  | Dein Zuhause ist mein Zuhause             | Ta maison est ma maison                   | Tu casa es mi casa                    |
 
  ### Pronouns of 1st Person, Plural
 
-|                                                       | English   | German                        | French    | Spanish               |
-| --                                                    | --        | --                            | --        | --                    |
-| Subject (nominative)                                  | we        | wir                           | nous      | nosotros, nosotras    |
-| Object (accusative, direct)                           | us        | uns                           | nous      | nos                   |
-| Object (dative, indirect)                             | us        | uns                           | nous      | nos                   |
-| Dependent possessive (nominative, single, m/f/n)      | our       | unser, unsere, unser          | notre     | nuestro, nuestra      |
-| Dependent possessive (accusative, single, m/f/n)      |           | unseren, unsere, unser        |
-| Dependent possessive (dative, single, m/f/n)          |           | unserem, unserer, unserem     |
-| Dependent possessive (nominative, plural)             | our       | unsere                        | nos       | nuestros, nuestras    |
-| Independent possessive (nominative, single, m/f/n)    | ours      | unserer, unsere, unseres      | nôtre     | nuestro, nuestra      |
-| Independent possessive (accusative, single, m/f/n)    |           | unseren, unsere, unses        |
-| Independent possessive (dative, single, m/f/n)        |           | unserem, unserer, unserem     |
-| Independent possessive (nominative, plural)           | ours      | unsere                        | nôtres    | nuestros, nuestras    |
+|                                                   | English   | German                        | French    | Spanish               |
+| --                                                | --        | --                            | --        | --                    |
+| Subject (nominative)                              | we        | wir                           | nous      | nosotros, nosotras    |
+| Object (accusative, direct)                       | us        | uns                           | nous      | nos                   |
+| Object (dative, indirect)                         | us        | uns                           | nous      | nos                   |
+| Dependent possessive (nominative, single, m/f/n)  | our       | unser, unsere, unser          | notre     | nuestro, nuestra      |
+| Dependent possessive (accusative, single, m/f/n)  |           | unseren, unsere, unser        |
+| Dependent possessive (dative, single, m/f/n)      |           | unserem, unserer, unserem     |
+| Dependent possessive (nominative, plural)         | our       | unsere                        | nos       | nuestros, nuestras    |
+| Independent possessive (nominative, single, m/f/n)| ours      | unserer, ~unsere~, unseres    | nôtre     | nuestro, nuestra      |
+| Independent possessive (accusative, single, m/f/n)|           |~unseren, unsere~, unseres     |
+| Independent possessive (dative, single, m/f/n)    |           |~unserem, unserer, unserem~    |
+| Independent possessive (nominative, plural)       | ours      |~unsere~                       | nôtres    | nuestros, nuestras    |
 
 Examples:
 
-|               | English                   | German                        | French                        | Spanish                       |
-| --            | --                        | --                            | --                            | --                            |
-| Masculine     | We love our brother       | Wir lieben unseren Bruder     | Nous aimons notre frère       | Amamos a nuestro hermano      |
-| Masculine     | We love our brothers      | Wir lieben unsere Brüder      | Nous aimons nos frères        | Amamos a nuestros hermanos    |
-| Feminine      | We love our sister        | Wir lieben unsere Schwester   | Nous aimons notre sœur        | Amamos a nuestra hermana      |
-| Feminine      | We love our sisters       | Wir lieben unsere Schwestern  | Nous aimons nos sœurs         | Amamos a nuestras hermanas    |
-| Neuter        | We read our book          | Wir lesen unser Buch          | Nous lisons notre livre       | Leemos nuestro libro          |
-| Neuter        | We read our books         | Wir lesen unsere Bücher       | Nous lisons nos livres        | Leemos nuestros libros        |
-| Neuter        | This book is ours         | Dieses Buch gehört uns        | Ce livre est à nous           | Este libro es nuestro         |
-| Neuter        | These books are ours      | Diese Bücher gehören uns      | Ces livres sont à nous        | Estos libros son nuestros     |
+| we, ours              | our                   | English                       | German                                | French                                | Spanish                               |
+| --                    | --                    | --                            | --                                    | --                                    | --                                    |
+| Subject (nominative)  | (accusative)          | We love our brother           | Wir lieben unseren Bruder             | Nous aimons notre frère               | Amamos a nuestro hermano              |
+| Subject (nominative)  | (accusative)          | We love our brothers          | Wir lieben unsere Brüder              | Nous aimons nos frères                | Amamos a nuestros hermanos            |
+| Subject (nominative)  | (accusative)          | We love our sister            | Wir lieben unsere Schwester           | Nous aimons notre sœur                | Amamos a nuestra hermana              |
+| Subject (nominative)  | (accusative)          | We love our sisters           | Wir lieben unsere Schwestern          | Nous aimons nos sœurs                 | Amamos a nuestras hermanas            |
+| Subject (nominative)  | (accusative)          | We read our book              | Wir lesen unser Buch                  | Nous lisons notre livre               | Leemos nuestro libro                  |
+| Subject (nominative)  | (accusative)          | We read our books             | Wir lesen unsere Bücher               | Nous lisons nos livres                | Leemos nuestros libros                |
+| Object (accusative)   | (nominative)          | Our brother loves us          | Unser Bruder liebt uns                | Notre frère nous aime                 | Nuestro hermano nos ama               |
+| Object (accusative)   | (nominative)          | Our brothers love us          | Unsere Brüder lieben uns              | Nos frères nous aiment                | Nuestros hermanos nos aman            |
+| Object (accusative)   | (nominative)          | Our sister loves us           | Unsere Schwester liebt uns            | Notre sœur nous aime                  | Nuestra hermana nos ama               |
+| Object (accusative)   | (nominative)          | Our sisters love us           | Unsere Schwestern lieben uns          | Nos sœurs nous aiment                 | Nuestras hermanas nos aman            |
+| Subject (nominative)  | (dative)              | We give books to our brother  | Wir schenken unserem Bruder Bücher    | Nous donnons des livres à notre frère | Le damos libros a nuestro hermano     |
+| Subject (nominative)  | (dative)              | We give books to our sister   | Wir schenken unserer Schwester Bücher | Nous donnons des livres à notre sœur  | Le damos libros a nuestra hermana     |
+| Subject (nominative)  | (dative)              | We give books to our children | Wir schenken unseren Kindern Bücher   | Nous donnons des livres à nos enfants | Damos libros a nuestros hijos/hijas   |
+| Object (dative)       | (nominative)          | Our brother gives us books    | Unser Bruder gibt uns Bücher          | Notre frère nous donne des livres     | Nuestro hermano nos da libros         |
+| Object (dative)       | (nominative)          | Our sister gives us books     | Unsere Schwester schenkt uns Bücher   | Notre sœur nous donne des livres      | Nuestra hermana nos regala libros     |
+| Object (dative)       | (nominative)          | Our children gives us books   | Unsere Kinder schenken uns Bücher     | Nos enfants nous donnent des livres   | Nuestros hijos/hijas nos dan libros   |
+| Subject (nominative)  |                       | Their book and ours           | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
+| Subject (nominative)  |                       | Their books and ours          | Ihre Bücher und unsere                | Leurs livres et les nôtres            | Sus libros y los nuestros             |
+|                       |                       | This book is ours             | Dieses Buch gehört uns                | Ce livre est à nous                   | Este libro es nuestro                 |
+|                       |                       | These books are ours          | Diese Bücher gehören uns              | Ces livres sont à nous                | Estos libros son nuestros             |
 
 ### Pronouns of 2nd Person, Plural
 
-|                                                   | English   | German (informal)         | German (formal)       | French    | Spanish               |
-| --                                                | --        | --                        | --                    | --        | --                    |
-| Subject (nominative)                              | you       | ihr                       | Sie                   | vous      | vosotros, vosotras    |
-| Object (accusative, direct)                       | you       | euch                      | Sie                   | vous      | os                    |
-| Object (dative, indirect)                         | you       | euch                      | Ihnen                 | vous      | os                    |
-| Dependent possessive (nominative, single, m/f/n)  | your      | euer, eure, euer          | Ihren, Ihre, Ihr      | votre     | vuestro, vuestra      |
-| Dependent possessive (accusative, single, m/f/n)  |           | euren, eure, euer         |
-| Dependent possessive (dative, single, m/f/n)      |           | eurem, eurer, eurem       |
-| Dependent possessive (nominative, plural)         | your      | eure                      | Ihre                  | vos       | vuestros, vuestras    |
-| Independent possessive (nominative, single, m/f/n)| yours     | eurer, eure, eures        | Ihrer, Ihre, Ihres    | vôtre     | vuestro, vuestra      |
-| Independent possessive (accusative, single, m/f/n)|           | euren, eure, eures        |
-| Independent possessive (dative, single, m/f/n)    |           | eurem, eurer, eurem       |
-| Independent possessive (nominative, plural)       | yours     | eure                      | Ihre                  | vôtre     | vuestros, vuestras    |
+|                                                   | English   | German (informal)     | German (formal)       | French    | Spanish               |
+| --                                                | --        | --                    | --                    | --        | --                    |
+| Subject (nominative)                              | you       | ihr                   | Sie                   | vous      | vosotros, vosotras    |
+| Object (accusative, direct)                       | you       | euch                  | Sie                   | vous      | os                    |
+| Object (dative, indirect)                         | you       | euch                  | Ihnen                 | vous      | os                    |
+| Dependent possessive (nominative, single, m/f/n)  | your      | euer, eure, euer      | Ihren, Ihre, Ihr      | votre     | vuestro, vuestra      |
+| Dependent possessive (accusative, single, m/f/n)  |           | euren, eure, euer     |
+| Dependent possessive (dative, single, m/f/n)      |           | eurem, eurer, eurem   |
+| Dependent possessive (nominative, plural)         | your      | eure                  | Ihre                  | vos       | vuestros, vuestras    |
+| Independent possessive (nominative, single, m/f/n)| yours     | eurer, eure, eures    | Ihrer, Ihre, Ihres    | vôtre     | vuestro, vuestra      |
+| Independent possessive (accusative, single, m/f/n)|           | euren, eure, eures    |
+| Independent possessive (dative, single, m/f/n)    |           | eurem, eurer, eurem   |
+| Independent possessive (nominative, plural)       | yours     | eure                  | Ihre                  | vôtre     | vuestros, vuestras    |
 
 Examples (need to verify):
 
-|               | English                   | German                        | French                        | Spanish                       |
-| --            | --                        | --                            | --                            | --                            |
-| Masculine     | You love your brother     | Ihr liebt euren Bruder        | Vous aimez votre frère        | Amáis a vuestro hermano       |
-| Masculine     | You love your brothers    | Ihr liebt eure Brüder         | Vous aimez vos frères         | Amáis a vuestros hermanos     |
-| Feminine      | You love your sister      | Ihr liebt eure Schwester      | Vous aimez votre sœur         | Amáis a vuestra hermana       |
-| Feminine      | You love your sisters     | Ihr liebt eure Schwestern     | Vous aimez vos sœurs          | Amáis a vuestras hermanas     |
-| Neuter        | You read your book        | Sie lesen Ihr Buch            | Vous lisons votre livre       | Ustedes leyeron su libro      |
-| Neuter        | You read your books       | Sie lesen Ihre Bücher         | Vous lisons vos livres        | Ustedes leen sus libros       |
-| Neuter        | This book is yours        | Dieses Buch gehört Ihnen      | Ce livre est à vous           | Este libro es de vosotros     |
-| Neuter        | These books are yours     | Diese Bücher gehören Ihnen    | Ces livres sont à vous        | Estos libros son de vosotros  |
+| you, yours            | your                  | English                   | German                        | French                        | Spanish                       |
+| --                    | --                    | --                        | --                            | --                            | --                            |
+| Subject (nominative)  | (accusative)          | You love your brother     | Ihr liebt euren Bruder        | Vous aimez votre frère        | Amáis a vuestro hermano       |
+| Subject (nominative)  | (accusative)          | You love your brothers    | Ihr liebt eure Brüder         | Vous aimez vos frères         | Amáis a vuestros hermanos     |
+| Subject (nominative)  | (accusative)          | You love your sister      | Ihr liebt eure Schwester      | Vous aimez votre sœur         | Amáis a vuestra hermana       |
+| Subject (nominative)  | (accusative)          | You love your sisters     | Ihr liebt eure Schwestern     | Vous aimez vos sœurs          | Amáis a vuestras hermanas     |
+| Subject (nominative)  | (accusative)          | You read your book        | Sie lesen Ihr Buch            | Vous lisons votre livre       | Ustedes leyeron su libro      |
+| Subject (nominative)  | (accusative)          | You read your books       | Sie lesen Ihre Bücher         | Vous lisons vos livres        | Ustedes leen sus libros       |
+|                       |                       | This book is yours        | Dieses Buch gehört Ihnen      | Ce livre est à vous           | Este libro es de vosotros     |
+|                       |                       | These books are yours     | Diese Bücher gehören Ihnen    | Ces livres sont à vous        | Estos libros son de vosotros  |
 
 ### Pronouns of 3rd Person, Singular
 
@@ -347,7 +370,7 @@ Neuter (it):
 
 Examples:
 
-| him                   | his family                | English                           | German                                    | French                                | Spanish                               |
+| he                    | his                       | English                           | German                                    | French                                | Spanish                               |
 | --                    | --                        | --                                | --                                        | --                                    | --                                    |
 | Subject (nominative)  | (dative, masculine)       | He gives his brother his dog      | Er gibt seinem Bruder seinen Hund         | Il donne son chien à son frère        | Él Le da a su hermano su perro        |
 | Subject (nominative)  | (dative, feminine)        | He gives his sister his cat       | Er gibt seiner Schwester seine Katze      | Il donne son chat à sa sœur           | Él le da a su hermana su gato         |
@@ -362,7 +385,7 @@ Examples:
 | Object (accusative)   | (nominative, feminine)    | His cat hates him                 | Seine Katze hasst ihn                     | Son chat le déteste                   | Su gato lo odia                       |
 | Object (accusative)   | (nominative, neuter)      | His chicken hates him             | Sein Huhn hasst ihn                       | Ses poules le détestent               | Sus gallinas lo odian                 |
 
-| her                   | her family                | English                           | German                                    | French                                | Spanish                               |
+| she                   | her                       | English                           | German                                    | French                                | Spanish                               |
 | --                    | --                        | --                                | --                                        | --                                    | --                                    |
 | Subject (nominative)  | (dative, masculine)       | She gives her brother her dog     | Sie gibt ihrem Bruder ihren Hund          | Elle donne son chien à son frère      | Ella le da su perro a su hermano      |
 | Subject (nominative)  | (dative, feminine)        | She gives her sister her cat      | Sie gibt ihrer Schwester ihre Katze       | Elle donne son chat à sa sœur         | Ella le da a su hermana su gato       |
