@@ -157,20 +157,20 @@ Examples:
 
 ### Pronouns of 1st Person, Singular
 
-|                                                   | English       | German                    | French            | Spanish       |
-| --                                                | --            | --                        | --                | --            |
-| Subject (nominative)                              | I             | ich                       | je                | yo            |
-| Object (accusative, direct)                       | me            | mich                      | me                | me            |
-| Object (dative, indirect)                         | (to) me       | mir                       | me                | me            |
-| Object (disjunctive, prepositional)               | (for) me      | mich                      | (pour) moi        | (para) mí     |
-| Dependent possessive (nominative, single, m/f/n)  | my            | mein, meine, mein         | mon, ma           | mi            |
-| Dependent possessive (accusative, single, m/f/n)  |               | meinen, meine, mein       |
-| Dependent possessive (dative, single, m/f/n)      |               | meinem, meiner, meinem    |
-| Dependent possessive (nominative, plural)         | my            | meine                     | mes               | mis           |
-| Independent possessive (nominative, single, m/f/n)| mine          | meiner, ~meine~, mein(e)s | mien, mienne      | mío, mía      |
-| Independent possessive (accusative, single, m/f/n)|               |~meinen, meine~, mein(e)s  |
-| Independent possessive (dative, single, m/f/n)    |               |~meinem, meiner, meinem~   |
-| Independent possessive (nominative, plural)       | mine          |~meine~                    | miens, miennes    | míos, mías    |
+|                                                   | English   | German                    | French            | Spanish       |
+| --                                                | --        | --                        | --                | --            |
+| Subject (nominative)                              | I         | ich                       | je                | yo            |
+| Object (accusative, direct)                       | me        | mich                      | me                | me            |
+| Object (dative, indirect)                         | (to) me   | mir                       | me                | me            |
+| Object (disjunctive, prepositional)               | (for) me  | mich                      | (pour) moi        | (para) mí     |
+| Dependent possessive (nominative, single, m/f/n)  | my        | mein, meine, mein         | mon, ma           | mi            |
+| Dependent possessive (accusative, single, m/f/n)  |           | meinen, meine, mein       |
+| Dependent possessive (dative, single, m/f/n)      |           | meinem, meiner, meinem    |
+| Dependent possessive (nominative, plural)         | my        | meine                     | mes               | mis           |
+| Independent possessive (nominative, single, m/f/n)| mine      | meiner, ~meine~, mein(e)s | mien, mienne      | mío, mía      |
+| Independent possessive (accusative, single, m/f/n)|           |~meinen, meine~, mein(e)s  |
+| Independent possessive (dative, single, m/f/n)    |           |~meinem, meiner, meinem~   |
+| Independent possessive (nominative, plural)       | mine      |~meine~                    | miens, miennes    | míos, mías    |
 
 > m/f/n is Masculine/Feminine/Neuter.
 
@@ -212,20 +212,20 @@ Examples:
 
 ### Pronouns of 2nd Person, Singular
 
-|                                                   | English       | German                    | French            | Spanish       |
-| --                                                | --            | --                        | --                | --            |
-| Subject (nominative)                              | you           | du                        | tu                | tú            |
-| Object (accusative, direct)                       | you           | dich                      | te                | te            |
-| Object (dative, indirect)                         | (to) you      | dir                       | te                | te            |
-| Object (disjunctive, prepositional)               | (for) you     | dich                      | (pour) toi        | (para) ti     |
-| Dependent possessive (nominative, single, m/f/n)  | your          | dein, deine, dein         | ton, ta           | tu            |
-| Dependent possessive (accusative, single, m/f/n)  |               | deinen, deine, dein       |
-| Dependent possessive (dative, single, m/f/n)      |               | deinem, deiner, deinem    |
-| Dependent possessive (nominative, plural)         | your          | deine                     | tes               | tus           |
-| Independent possessive (nominative, single, m/f/n)| yours         | deiner, ~deine~, dein(e)s | tien, tienne      | tuyo, tuya    |
-| Independent possessive (accusative, single, m/f/n)|               |~deinen, deine~, dein(e)s  |
-| Independent possessive (dative, single, m/f/n)    |               |~deinem, deiner, deinem~   |
-| Independent possessive (nominative, plural)       | yours         |~deine~                    | tiens, tiennes    | tuyos, tuyas  |
+|                                                   | English   | German                    | French            | Spanish       |
+| --                                                | --        | --                        | --                | --            |
+| Subject (nominative)                              | you       | du                        | tu                | tú            |
+| Object (accusative, direct)                       | you       | dich                      | te                | te            |
+| Object (dative, indirect)                         | (to) you  | dir                       | te                | te            |
+| Object (disjunctive, prepositional)               | (for) you | dich                      | (pour) toi        | (para) ti     |
+| Dependent possessive (nominative, single, m/f/n)  | your      | dein, deine, dein         | ton, ta           | tu            |
+| Dependent possessive (accusative, single, m/f/n)  |           | deinen, deine, dein       |
+| Dependent possessive (dative, single, m/f/n)      |           | deinem, deiner, deinem    |
+| Dependent possessive (nominative, plural)         | your      | deine                     | tes               | tus           |
+| Independent possessive (nominative, single, m/f/n)| yours     | deiner, ~deine~, dein(e)s | tien, tienne      | tuyo, tuya    |
+| Independent possessive (accusative, single, m/f/n)|           |~deinen, deine~, dein(e)s  |
+| Independent possessive (dative, single, m/f/n)    |           |~deinem, deiner, deinem~   |
+| Independent possessive (nominative, plural)       | yours     |~deine~                    | tiens, tiennes    | tuyos, tuyas  |
 
 _m/f/n is Masculine/Feminine/Neuter_
 
@@ -275,28 +275,30 @@ Examples:
 
 Examples:
 
-| we, ours              | our                   | English                       | German                                | French                                | Spanish                               |
-| --                    | --                    | --                            | --                                    | --                                    | --                                    |
-| Subject (nominative)  | (accusative)          | We love our brother           | Wir lieben unseren Bruder             | Nous aimons notre frère               | Amamos a nuestro hermano              |
-| Subject (nominative)  | (accusative)          | We love our brothers          | Wir lieben unsere Brüder              | Nous aimons nos frères                | Amamos a nuestros hermanos            |
-| Subject (nominative)  | (accusative)          | We love our sister            | Wir lieben unsere Schwester           | Nous aimons notre sœur                | Amamos a nuestra hermana              |
-| Subject (nominative)  | (accusative)          | We love our sisters           | Wir lieben unsere Schwestern          | Nous aimons nos sœurs                 | Amamos a nuestras hermanas            |
-| Subject (nominative)  | (accusative)          | We read our book              | Wir lesen unser Buch                  | Nous lisons notre livre               | Leemos nuestro libro                  |
-| Subject (nominative)  | (accusative)          | We read our books             | Wir lesen unsere Bücher               | Nous lisons nos livres                | Leemos nuestros libros                |
-| Object (accusative)   | (nominative)          | Our brother loves us          | Unser Bruder liebt uns                | Notre frère nous aime                 | Nuestro hermano nos ama               |
-| Object (accusative)   | (nominative)          | Our brothers love us          | Unsere Brüder lieben uns              | Nos frères nous aiment                | Nuestros hermanos nos aman            |
-| Object (accusative)   | (nominative)          | Our sister loves us           | Unsere Schwester liebt uns            | Notre sœur nous aime                  | Nuestra hermana nos ama               |
-| Object (accusative)   | (nominative)          | Our sisters love us           | Unsere Schwestern lieben uns          | Nos sœurs nous aiment                 | Nuestras hermanas nos aman            |
-| Subject (nominative)  | (dative)              | We give books to our brother  | Wir schenken unserem Bruder Bücher    | Nous donnons des livres à notre frère | Le damos libros a nuestro hermano     |
-| Subject (nominative)  | (dative)              | We give books to our sister   | Wir schenken unserer Schwester Bücher | Nous donnons des livres à notre sœur  | Le damos libros a nuestra hermana     |
-| Subject (nominative)  | (dative)              | We give books to our children | Wir schenken unseren Kindern Bücher   | Nous donnons des livres à nos enfants | Damos libros a nuestros hijos/hijas   |
-| Object (dative)       | (nominative)          | Our brother gives us books    | Unser Bruder gibt uns Bücher          | Notre frère nous donne des livres     | Nuestro hermano nos da libros         |
-| Object (dative)       | (nominative)          | Our sister gives us books     | Unsere Schwester schenkt uns Bücher   | Notre sœur nous donne des livres      | Nuestra hermana nos regala libros     |
-| Object (dative)       | (nominative)          | Our children gives us books   | Unsere Kinder schenken uns Bücher     | Nos enfants nous donnent des livres   | Nuestros hijos/hijas nos dan libros   |
-| Subject (nominative)  |                       | Their book and ours           | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
-| Subject (nominative)  |                       | Their books and ours          | Ihre Bücher und unsere                | Leurs livres et les nôtres            | Sus libros y los nuestros             |
-|                       |                       | This book is ours             | Dieses Buch gehört uns                | Ce livre est à nous                   | Este libro es nuestro                 |
-|                       |                       | These books are ours          | Diese Bücher gehören uns              | Ces livres sont à nous                | Estos libros son nuestros             |
+| we, ours              | our           | English                       | German                                | French                                | Spanish                               |
+| --                    | --            | --                            | --                                    | --                                    | --                                    |
+| Subject (nominative)  | (accusative)  | We love our brother           | Wir lieben unseren Bruder             | Nous aimons notre frère               | Amamos a nuestro hermano              |
+| Subject (nominative)  | (accusative)  | We love our brothers          | Wir lieben unsere Brüder              | Nous aimons nos frères                | Amamos a nuestros hermanos            |
+| Subject (nominative)  | (accusative)  | We love our sister            | Wir lieben unsere Schwester           | Nous aimons notre sœur                | Amamos a nuestra hermana              |
+| Subject (nominative)  | (accusative)  | We love our sisters           | Wir lieben unsere Schwestern          | Nous aimons nos sœurs                 | Amamos a nuestras hermanas            |
+| Subject (nominative)  | (accusative)  | We read our book              | Wir lesen unser Buch                  | Nous lisons notre livre               | Leemos nuestro libro                  |
+| Subject (nominative)  | (accusative)  | We read our books             | Wir lesen unsere Bücher               | Nous lisons nos livres                | Leemos nuestros libros                |
+| Object (accusative)   | (nominative)  | Our brother loves us          | Unser Bruder liebt uns                | Notre frère nous aime                 | Nuestro hermano nos ama               |
+| Object (accusative)   | (nominative)  | Our brothers love us          | Unsere Brüder lieben uns              | Nos frères nous aiment                | Nuestros hermanos nos aman            |
+| Object (accusative)   | (nominative)  | Our sister loves us           | Unsere Schwester liebt uns            | Notre sœur nous aime                  | Nuestra hermana nos ama               |
+| Object (accusative)   | (nominative)  | Our sisters love us           | Unsere Schwestern lieben uns          | Nos sœurs nous aiment                 | Nuestras hermanas nos aman            |
+| Subject (nominative)  | (dative)      | We give books to our brother  | Wir schenken unserem Bruder Bücher    | Nous donnons des livres à notre frère | Le damos libros a nuestro hermano     |
+| Subject (nominative)  | (dative)      | We give books to our sister   | Wir schenken unserer Schwester Bücher | Nous donnons des livres à notre sœur  | Le damos libros a nuestra hermana     |
+| Subject (nominative)  | (dative)      | We give books to our children | Wir schenken unseren Kindern Bücher   | Nous donnons des livres à nos enfants | Damos libros a nuestros hijos/hijas   |
+| Object (dative)       | (nominative)  | Our brother gives us books    | Unser Bruder gibt uns Bücher          | Notre frère nous donne des livres     | Nuestro hermano nos da libros         |
+| Object (dative)       | (nominative)  | Our sister gives us books     | Unsere Schwester schenkt uns Bücher   | Notre sœur nous donne des livres      | Nuestra hermana nos regala libros     |
+| Object (dative)       | (nominative)  | Our children give us books    | Unsere Kinder schenken uns Bücher     | Nos enfants nous donnent des livres   | Nuestros hijos/hijas nos dan libros   |
+| Subject (nominative)  |               | Their dog and ours            | Ihr Hund und unserer                  | Leur chien et le nôtre                | Su perro y el nuestro                 |
+| Subject (nominative)  |               | Their cat and ours            | Ihre Katze und unsere                 | Leur chat et le nôtre                 | Su gato y el nuestro                  |
+| Subject (nominative)  |               | Their book and ours           | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
+| Subject (nominative)  |               | Their books and ours          | Ihre Bücher und unsere                | Leurs livres et les nôtres            | Sus libros y los nuestros             |
+|                       |               | This book is ours             | Dieses Buch gehört uns                | Ce livre est à nous                   | Este libro es nuestro                 |
+|                       |               | These books are ours          | Diese Bücher gehören uns              | Ces livres sont à nous                | Estos libros son nuestros             |
 
 ### Pronouns of 2nd Person, Plural (may have mistakes)
 
@@ -316,16 +318,16 @@ Examples:
 
 Examples:
 
-| you, yours            | your                  | English                   | German                        | French                        | Spanish                       |
-| --                    | --                    | --                        | --                            | --                            | --                            |
-| Subject (nominative)  | (accusative)          | You love your brother     | Ihr liebt euren Bruder        | Vous aimez votre frère        | Amáis a vuestro hermano       |
-| Subject (nominative)  | (accusative)          | You love your brothers    | Ihr liebt eure Brüder         | Vous aimez vos frères         | Amáis a vuestros hermanos     |
-| Subject (nominative)  | (accusative)          | You love your sister      | Ihr liebt eure Schwester      | Vous aimez votre sœur         | Amáis a vuestra hermana       |
-| Subject (nominative)  | (accusative)          | You love your sisters     | Ihr liebt eure Schwestern     | Vous aimez vos sœurs          | Amáis a vuestras hermanas     |
-| Subject (nominative)  | (accusative)          | You read your book        | Sie lesen Ihr Buch            | Vous lisons votre livre       | Ustedes leyeron su libro      |
-| Subject (nominative)  | (accusative)          | You read your books       | Sie lesen Ihre Bücher         | Vous lisons vos livres        | Ustedes leen sus libros       |
-|                       |                       | This book is yours        | Dieses Buch gehört Ihnen      | Ce livre est à vous           | Este libro es de vosotros     |
-|                       |                       | These books are yours     | Diese Bücher gehören Ihnen    | Ces livres sont à vous        | Estos libros son de vosotros  |
+| you, yours            | your          | English                   | German                        | French                        | Spanish                       |
+| --                    | --            | --                        | --                            | --                            | --                            |
+| Subject (nominative)  | (accusative)  | You love your brother     | Ihr liebt euren Bruder        | Vous aimez votre frère        | Amáis a vuestro hermano       |
+| Subject (nominative)  | (accusative)  | You love your brothers    | Ihr liebt eure Brüder         | Vous aimez vos frères         | Amáis a vuestros hermanos     |
+| Subject (nominative)  | (accusative)  | You love your sister      | Ihr liebt eure Schwester      | Vous aimez votre sœur         | Amáis a vuestra hermana       |
+| Subject (nominative)  | (accusative)  | You love your sisters     | Ihr liebt eure Schwestern     | Vous aimez vos sœurs          | Amáis a vuestras hermanas     |
+| Subject (nominative)  | (accusative)  | You read your book        | Sie lesen Ihr Buch            | Vous lisons votre livre       | Ustedes leyeron su libro      |
+| Subject (nominative)  | (accusative)  | You read your books       | Sie lesen Ihre Bücher         | Vous lisons vos livres        | Ustedes leen sus libros       |
+|                       |               | This book is yours        | Dieses Buch gehört Ihnen      | Ce livre est à vous           | Este libro es de vosotros     |
+|                       |               | These books are yours     | Diese Bücher gehören Ihnen    | Ces livres sont à vous        | Estos libros son de vosotros  |
 
 ### Pronouns of 3rd Person, Singular
 
@@ -414,20 +416,47 @@ Examples:
 
 ### Pronouns of 3rd Person, Plural
 
-|                                                   | English       | German                    | French            | Spanish       |
-| --                                                | --            | --                        | --                | --            |
-| Subject (nominative)                              | they          | sie                       | ils, elles        | ellos, ellas  |
-| Object (accusative, direct)                       | them          | sie                       | les               | los, las      |
-| Object (dative, indirect)                         | them          | ihnen                     | leur              | les           |
-| Object (disjunctive, prepositional)               | them          | sie                       | eux               | ellos, ellas  |
-| Dependent possessive (nominative, single, m/f/n)  | their         | ihr, ihre, ihr            | leur              | suyo, suya    |
-| Dependent possessive (accusative, single, m/f/n)  | their         | ihren, ihre, ihr          |
-| Dependent possessive (dative, single, m/f/n)      | their         | ihrem, ihrer, ihrem       |
-| Dependent possessive (nominative, plural)         | their         | ihre                      | leurs             | suyos, suyas  |
-| Independent possessive (nominative, single, m/f/n)| theirs        | ihrer, ihre, ihres        | leur              | suyo, suya    |
-| Independent possessive (accusative, single, m/f/n)| theirs        | ihren, ihre, ihrs         |
-| Independent possessive (dative, single, m/f/n)    | theirs        | ihrem, ihrer, ihrem       |
-| Independent possessive (nominative, plural)       | theirs        | ihre                      | leurs             | suyoa, suyas  |
+|                                                   | English   | German                | French        | Spanish       |
+| --                                                | --        | --                    | --            | --            |
+| Subject (nominative)                              | they      | sie                   | ils, elles    | ellos, ellas  |
+| Object (accusative, direct)                       | them      | sie                   | les           | los, las      |
+| Object (dative, indirect)                         | them      | ihnen                 | leur          | les           |
+| Object (disjunctive, prepositional)               | them      | sie                   | eux           | ellos, ellas  |
+| Dependent possessive (nominative, single, m/f/n)  | their     | ihr, ihre, ihr        | leur          | suyo, suya    |
+| Dependent possessive (accusative, single, m/f/n)  | their     | ihren, ihre, ihr      |
+| Dependent possessive (dative, single, m/f/n)      | their     | ihrem, ihrer, ihrem   |
+| Dependent possessive (nominative, plural)         | their     | ihre                  | leurs         | suyos, suyas  |
+| Independent possessive (nominative, single, m/f/n)| theirs    | ihrer, ihre, ihr(e)s  | leur          | suyo, suya    |
+| Independent possessive (accusative, single, m/f/n)| theirs    | ihren, ihre, ihr(e)s  |
+| Independent possessive (dative, single, m/f/n)    | theirs    | ihrem, ihrer, ihrem   |
+| Independent possessive (nominative, plural)       | theirs    | ihre                  | leurs         | suyoa, suyas  |
+
+Examples:
+
+| they, theirs          | their         | English                           | German                                | French                                | Spanish                               |
+| --                    | --            | --                                | --                                    | --                                    | --                                    |
+| Subject (nominative)  | (accusative)  | They love their brother           | Wir lieben unseren Bruder             | Nous aimons notre frère               | Amamos a nuestro hermano              |
+| Subject (nominative)  | (accusative)  | They love their brothers          | Wir lieben unsere Brüder              | Nous aimons nos frères                | Amamos a nuestros hermanos            |
+| Subject (nominative)  | (accusative)  | They love their sister            | Wir lieben unsere Schwester           | Nous aimons notre sœur                | Amamos a nuestra hermana              |
+| Subject (nominative)  | (accusative)  | They love their sisters           | Wir lieben unsere Schwestern          | Nous aimons nos sœurs                 | Amamos a nuestras hermanas            |
+| Subject (nominative)  | (accusative)  | They read their book              | Wir lesen unser Buch                  | Nous lisons notre livre               | Leemos nuestro libro                  |
+| Subject (nominative)  | (accusative)  | They read their books             | Wir lesen unsere Bücher               | Nous lisons nos livres                | Leemos nuestros libros                |
+| Object (accusative)   | (nominative)  | Their brother loves them          | Unser Bruder liebt uns                | Notre frère nous aime                 | Nuestro hermano nos ama               |
+| Object (accusative)   | (nominative)  | Their brothers love them          | Unsere Brüder lieben uns              | Nos frères nous aiment                | Nuestros hermanos nos aman            |
+| Object (accusative)   | (nominative)  | Their sister loves them           | Unsere Schwester liebt uns            | Notre sœur nous aime                  | Nuestra hermana nos ama               |
+| Object (accusative)   | (nominative)  | Their sisters love them           | Unsere Schwestern lieben uns          | Nos sœurs nous aiment                 | Nuestras hermanas nos aman            |
+| Subject (nominative)  | (dative)      | They give books to their brother  | Wir schenken unserem Bruder Bücher    | Nous donnons des livres à notre frère | Le damos libros a nuestro hermano     |
+| Subject (nominative)  | (dative)      | They give books to their sister   | Wir schenken unserer Schwester Bücher | Nous donnons des livres à notre sœur  | Le damos libros a nuestra hermana     |
+| Subject (nominative)  | (dative)      | They give books to their children | Wir schenken unseren Kindern Bücher   | Nous donnons des livres à nos enfants | Damos libros a nuestros hijos/hijas   |
+| Object (dative)       | (nominative)  | Their brother gives them books    | Unser Bruder gibt uns Bücher          | Notre frère nous donne des livres     | Nuestro hermano nos da libros         |
+| Object (dative)       | (nominative)  | Their sister gives them books     | Unsere Schwester schenkt uns Bücher   | Notre sœur nous donne des livres      | Nuestra hermana nos regala libros     |
+| Object (dative)       | (nominative)  | Their children give them books    | Unsere Kinder schenken uns Bücher     | Nos enfants nous donnent des livres   | Nuestros hijos/hijas nos dan libros   |
+| Subject (nominative)  |               | Our dog and theirs                | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
+| Subject (nominative)  |               | Our cat and theirs                | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
+| Subject (nominative)  |               | Our book and theirs               | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
+| Subject (nominative)  |               | Our books and theirs              | Ihre Bücher und unsere                | Leurs livres et les nôtres            | Sus libros y los nuestros             |
+|                       |               | This book is theirs               | Dieses Buch gehört uns                | Ce livre est à nous                   | Este libro es nuestro                 |
+|                       |               | These books are theirs            | Diese Bücher gehören uns              | Ces livres sont à nous                | Estos libros son nuestros             |
 
 ### Other Pronouns
 
