@@ -331,37 +331,37 @@ Examples:
 
 Masculine (he, him):
 
-|                                                   | English   |                         German                    |                           French              |                           Spanish         |
-| --                                                | --        |                         --                        |                           --                  |                           --              |
-| Subject (nominative)                              | he        | ${\color{#000000}\text{ er                     }}$| ${\color{#000000}\text{   il            }}$   | ${\color{#cc9900}\text{   él          }}$ |
-| Object (accusative, direct)                       | him       | ${\color{#cc9900}\text{ ihn                    }}$| ${\color{#000000}\text{   le            }}$   | ${\color{#000000}\text{   lo          }}$ |
-| Object (dative, indirect)                         | him       | ${\color{#cc0000}\text{ ihm                    }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc0000}\text{   le          }}$ |
-| Object (disjunctive, prepositional)               | him       | ${\color{#cc9900}\text{ ihn                    }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc9900}\text{   él          }}$ |
-| Dependent possessive (nominative, single, m/f/n)  | his       | ${\color{#0066cc}\text{ sein, seine, sein      }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
-| Dependent possessive (accusative, single, m/f/n)  | his       | ${\color{#0066cc}\text{ seinen, seine, sein    }}$|
-| Dependent possessive (dative, single, m/f/n)      | his       | ${\color{#0066cc}\text{ seinem, seiner, seinem }}$|
-| Dependent possessive (nominative, plural)         | his       | ${\color{#0066cc}\text{ seine                  }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
-| Independent possessive (nominative, single, m/f/n)| his       | ${\color{#0066cc}\text{ seiner, seine, seins   }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
-| Independent possessive (accusative, single, m/f/n)| his       | ${\color{#0066cc}\text{ seinen, seine, seins   }}$|
-| Independent possessive (dative, single, m/f/n)    | his       | ${\color{#0066cc}\text{ seinem, seiner, seinem }}$|
-| Independent possessive (nominative, plural        | his       | ${\color{#0066cc}\text{ seine                  }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+|                                                   | English   |                     German                    |                     French            |                     Spanish           |
+| --                                                | --        |                     --                        |                     --                |                     --                |
+| Subject (nominative)                              | he        |${\color{#000}\text{ er                     }}$|${\color{#000}\text{ il             }}$|${\color{#c90}\text{ él             }}$|
+| Object (accusative, direct)                       | him       |${\color{#c90}\text{ ihn                    }}$|${\color{#000}\text{ le             }}$|${\color{#000}\text{ lo             }}$|
+| Object (dative, indirect)                         | him       |${\color{#c00}\text{ ihm                    }}$|${\color{#c00}\text{ lui            }}$|${\color{#c00}\text{ le             }}$|
+| Object (disjunctive, prepositional)               | him       |${\color{#c90}\text{ ihn                    }}$|${\color{#c00}\text{ lui            }}$|${\color{#c90}\text{ él             }}$|
+| Dependent possessive (nominative, single, m/f/n)  | his       |${\color{#06c}\text{ sein, seine, sein      }}$|${\color{#06c}\text{ son, sa        }}$|${\color{#06c}\text{ su             }}$|
+| Dependent possessive (accusative, single, m/f/n)  | his       |${\color{#06c}\text{ seinen, seine, sein    }}$|
+| Dependent possessive (dative, single, m/f/n)      | his       |${\color{#06c}\text{ seinem, seiner, seinem }}$|
+| Dependent possessive (nominative, plural)         | his       |${\color{#06c}\text{ seine                  }}$|${\color{#06c}\text{ ses            }}$|${\color{#06c}\text{ sus            }}$|
+| Independent possessive (nominative, single, m/f/n)| his       |${\color{#06c}\text{ seiner, seine, seins   }}$|${\color{#06c}\text{ sien, sienne   }}$|${\color{#06c}\text{ suyo, suya     }}$|
+| Independent possessive (accusative, single, m/f/n)| his       |${\color{#06c}\text{ seinen, seine, seins   }}$|
+| Independent possessive (dative, single, m/f/n)    | his       |${\color{#06c}\text{ seinem, seiner, seinem }}$|
+| Independent possessive (nominative, plural        | his       |${\color{#06c}\text{ seine                  }}$|${\color{#06c}\text{ siens, siennes }}$|${\color{#06c}\text{ suyos, suyas   }}$|
 
 Feminine (she, her):
 
-|                                                   | English   |                           German                  |                           French              |                           Spanish         |
-| --                                                | --        |                           --                      |                           --                  |                           --              |
-| Subject (nominative)                              | she       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#cc9900}\text{   elle          }}$   | ${\color{#cc9900}\text{   ella        }}$ |
-| Object (accusative, direct)                       | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#000000}\text{   la            }}$   | ${\color{#000000}\text{   la          }}$ |
-| Object (dative, indirect)                         | her       | ${\color{#000000}\text{   ihr                  }}$| ${\color{#cc0000}\text{   lui           }}$   | ${\color{#cc0000}\text{   le          }}$ |
-| Object (disjunctive, prepositional)               | her       | ${\color{#cc9900}\text{   sie                  }}$| ${\color{#cc9900}\text{   elle          }}$   | ${\color{#cc9900}\text{   ella        }}$ |
-| Dependent possessive (nominative, single, m/f/n)  | her       | ${\color{#000000}\text{   ihr, ihre, ihr       }}$| ${\color{#0066cc}\text{   son, sa       }}$   | ${\color{#0066cc}\text{   su          }}$ |
-| Dependent possessive (accusative, single, m/f/n)  | her       | ${\color{#000000}\text{   ihren, ihre, ihr     }}$|
-| Dependent possessive (dative, single, m/f/n)      | her       | ${\color{#000000}\text{   ihrem, ihrer, ihrem  }}$|
-| Dependent possessive (nominative, plural)         | her       | ${\color{#000000}\text{   ihre                 }}$| ${\color{#0066cc}\text{   ses           }}$   | ${\color{#0066cc}\text{   sus         }}$ |
-| Independent possessive (nominative, single, m/f/n)| hers      | ${\color{#000000}\text{   ihrer, ihre, ihr(e)s }}$| ${\color{#0066cc}\text{   sien, sienne  }}$   | ${\color{#0066cc}\text{   suyo, suya  }}$ |
-| Independent possessive (accusative, single, m/f/n)| hers      | ${\color{#000000}\text{   ihren, ihre, ihr(e)s }}$|
-| Independent possessive (dative, single, m/f/n)    | hers      | ${\color{#000000}\text{   ihrem, ihrer, ihrem  }}$|
-| Independent possessive (nominative, plural        | hers      | ${\color{#000000}\text{   ihre                 }}$| ${\color{#0066cc}\text{   siens, siennes}}$   | ${\color{#0066cc}\text{   suyos, suyas}}$ |
+|                                                   | English   |                     German                    |                     French            |                     Spanish           |
+| --                                                | --        |                     --                        |                     --                |                     --                |
+| Subject (nominative)                              | she       |${\color{#c90}\text{ sie                    }}$|${\color{#c90}\text{ elle           }}$|${\color{#c90}\text{ ella           }}$|
+| Object (accusative, direct)                       | her       |${\color{#c90}\text{ sie                    }}$|${\color{#000}\text{ la             }}$|${\color{#000}\text{ la             }}$|
+| Object (dative, indirect)                         | her       |${\color{#000}\text{ ihr                    }}$|${\color{#c00}\text{ lui            }}$|${\color{#c00}\text{ le             }}$|
+| Object (disjunctive, prepositional)               | her       |${\color{#c90}\text{ sie                    }}$|${\color{#c90}\text{ elle           }}$|${\color{#c90}\text{ ella           }}$|
+| Dependent possessive (nominative, single, m/f/n)  | her       |${\color{#000}\text{ ihr, ihre, ihr         }}$|${\color{#06c}\text{ son, sa        }}$|${\color{#06c}\text{ su             }}$|
+| Dependent possessive (accusative, single, m/f/n)  | her       |${\color{#000}\text{ ihren, ihre, ihr       }}$|
+| Dependent possessive (dative, single, m/f/n)      | her       |${\color{#000}\text{ ihrem, ihrer, ihrem    }}$|
+| Dependent possessive (nominative, plural)         | her       |${\color{#000}\text{ ihre                   }}$|${\color{#06c}\text{ ses            }}$|${\color{#06c}\text{ sus            }}$|
+| Independent possessive (nominative, single, m/f/n)| hers      |${\color{#000}\text{ ihrer, ihre, ihr(e)s   }}$|${\color{#06c}\text{ sien, sienne   }}$|${\color{#06c}\text{ suyo, suya     }}$|
+| Independent possessive (accusative, single, m/f/n)| hers      |${\color{#000}\text{ ihren, ihre, ihr(e)s   }}$|
+| Independent possessive (dative, single, m/f/n)    | hers      |${\color{#000}\text{ ihrem, ihrer, ihrem    }}$|
+| Independent possessive (nominative, plural        | hers      |${\color{#000}\text{ ihre                   }}$|${\color{#06c}\text{ siens, siennes }}$|${\color{#06c}\text{ suyos, suyas   }}$|
 
 Neuter (it):
 
