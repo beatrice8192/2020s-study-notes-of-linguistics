@@ -516,6 +516,9 @@ Reflexive Pronouns:
 * https://www.lawlessfrench.com/grammar/possessive-pronouns/
 * https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
 * https://www.lawlessitalian.com/grammar/pronouns/possessive-pronouns/
+* https://en.wikipedia.org/wiki/Interrogative_word
+* https://en.wikipedia.org/wiki/Sentence_function
+* https://en.wikipedia.org/wiki/Indefinite_pronoun
 
 ### To-Do
 

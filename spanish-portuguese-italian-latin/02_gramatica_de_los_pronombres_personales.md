@@ -79,3 +79,5 @@ Por ejemplo:
 * https://it.wikipedia.org/wiki/Pronome
 * https://it.wikipedia.org/wiki/Pronome_possessivo
 * https://en.wikipedia.org/wiki/Latin_grammar
+* https://en.wikipedia.org/wiki/Eastern_Romance_languages
+* https://en.wikipedia.org/wiki/Romanian_grammar#Pronouns
