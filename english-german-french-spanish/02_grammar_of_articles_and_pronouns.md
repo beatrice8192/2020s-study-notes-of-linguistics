@@ -433,30 +433,30 @@ Examples:
 
 Examples:
 
-| they, theirs          | their         | English                           | German                                | French                                | Spanish                               |
-| --                    | --            | --                                | --                                    | --                                    | --                                    |
-| Subject (nominative)  | (accusative)  | They love their brother           | Wir lieben unseren Bruder             | Nous aimons notre frère               | Amamos a nuestro hermano              |
-| Subject (nominative)  | (accusative)  | They love their brothers          | Wir lieben unsere Brüder              | Nous aimons nos frères                | Amamos a nuestros hermanos            |
-| Subject (nominative)  | (accusative)  | They love their sister            | Wir lieben unsere Schwester           | Nous aimons notre sœur                | Amamos a nuestra hermana              |
-| Subject (nominative)  | (accusative)  | They love their sisters           | Wir lieben unsere Schwestern          | Nous aimons nos sœurs                 | Amamos a nuestras hermanas            |
-| Subject (nominative)  | (accusative)  | They read their book              | Wir lesen unser Buch                  | Nous lisons notre livre               | Leemos nuestro libro                  |
-| Subject (nominative)  | (accusative)  | They read their books             | Wir lesen unsere Bücher               | Nous lisons nos livres                | Leemos nuestros libros                |
-| Object (accusative)   | (nominative)  | Their brother loves them          | Unser Bruder liebt uns                | Notre frère nous aime                 | Nuestro hermano nos ama               |
-| Object (accusative)   | (nominative)  | Their brothers love them          | Unsere Brüder lieben uns              | Nos frères nous aiment                | Nuestros hermanos nos aman            |
-| Object (accusative)   | (nominative)  | Their sister loves them           | Unsere Schwester liebt uns            | Notre sœur nous aime                  | Nuestra hermana nos ama               |
-| Object (accusative)   | (nominative)  | Their sisters love them           | Unsere Schwestern lieben uns          | Nos sœurs nous aiment                 | Nuestras hermanas nos aman            |
-| Subject (nominative)  | (dative)      | They give books to their brother  | Wir schenken unserem Bruder Bücher    | Nous donnons des livres à notre frère | Le damos libros a nuestro hermano     |
-| Subject (nominative)  | (dative)      | They give books to their sister   | Wir schenken unserer Schwester Bücher | Nous donnons des livres à notre sœur  | Le damos libros a nuestra hermana     |
-| Subject (nominative)  | (dative)      | They give books to their children | Wir schenken unseren Kindern Bücher   | Nous donnons des livres à nos enfants | Damos libros a nuestros hijos/hijas   |
-| Object (dative)       | (nominative)  | Their brother gives them books    | Unser Bruder gibt uns Bücher          | Notre frère nous donne des livres     | Nuestro hermano nos da libros         |
-| Object (dative)       | (nominative)  | Their sister gives them books     | Unsere Schwester schenkt uns Bücher   | Notre sœur nous donne des livres      | Nuestra hermana nos regala libros     |
-| Object (dative)       | (nominative)  | Their children give them books    | Unsere Kinder schenken uns Bücher     | Nos enfants nous donnent des livres   | Nuestros hijos/hijas nos dan libros   |
-| Subject (nominative)  |               | Our dog and theirs                | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
-| Subject (nominative)  |               | Our cat and theirs                | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
-| Subject (nominative)  |               | Our book and theirs               | Ihr Buch und unseres                  | Leur livre et le nôtre                | Su libro y el nuestro                 |
-| Subject (nominative)  |               | Our books and theirs              | Ihre Bücher und unsere                | Leurs livres et les nôtres            | Sus libros y los nuestros             |
-|                       |               | This book is theirs               | Dieses Buch gehört uns                | Ce livre est à nous                   | Este libro es nuestro                 |
-|                       |               | These books are theirs            | Diese Bücher gehören uns              | Ces livres sont à nous                | Estos libros son nuestros             |
+| they, theirs          | their         | English                           | German                                | French                                | Spanish                           |
+| --                    | --            | --                                | --                                    | --                                    | --                                |
+| Subject (nominative)  | (accusative)  | They love their brother           | Sie lieben ihren Bruder               | Ils aiment leur frère                 | Ellos aman a su hermano           |
+| Subject (nominative)  | (accusative)  | They love their brothers          | Sie lieben ihre Brüder                | Ils aiment leurs frères               | Ellos aman a sus hermanos         |
+| Subject (nominative)  | (accusative)  | They love their sister            | Sie lieben ihre Schwester             | Ils aiment leur sœur                  | Ellos aman a su hermana           |
+| Subject (nominative)  | (accusative)  | They love their sisters           | Sie lieben ihre Schwestern            | Ils aiment leurs sœurs                | Ellas aman a sus hermanas         |
+| Subject (nominative)  | (accusative)  | They read their book              | Sie lesen ihr Buch                    | Ils ont lu leur livre                 | Ellos/Ellas leen su libro         |
+| Subject (nominative)  | (accusative)  | They read their books             | Sie lesen ihre Bücher                 | Ils lisent leurs livres               | Ellos/Ellas leen sus libros       |
+| Object (accusative)   | (nominative)  | Their brother loves them          | Ihr Bruder liebt sie                  | Leur frère les aime                   | Su hermano los ama                |
+| Object (accusative)   | (nominative)  | Their brothers love them          | Ihre Brüder lieben sie                | Leurs frères les aiment               | Sus hermanos los aman             |
+| Object (accusative)   | (nominative)  | Their sister loves them           | Ihre Schwester liebt sie              | Leur sœur les aime                    | Su hermana los ama                |
+| Object (accusative)   | (nominative)  | Their sisters love them           | Ihre Schwestern lieben sie            | Leurs sœurs les aiment                | Sus hermanas los aman             |
+| Subject (nominative)  | (dative)      | They give books to their brother  | Sie geben ihrem Bruder Bücher         | Ils donnent des livres à leur frère   | Le dan libros a su hermano        |
+| Subject (nominative)  | (dative)      | They give books to their sister   | Sie schenken ihrer Schwester Bücher   | Ils donnent des livres à leur sœur    | Le dan libros a su hermana        |
+| Subject (nominative)  | (dative)      | They give books to their children | Sie schenken ihren Kindern Bücher     | Ils donnent des livres à leurs enfants| Les dan libros a sus hijos/hijas  |
+| Object (dative)       | (nominative)  | Their brother gives them books    | Ihr Bruder gibt ihnen Bücher          | Leur frère leur donne des livres      | Su hermano les da libros          |
+| Object (dative)       | (nominative)  | Their sister gives them books     | Ihre Schwester gibt ihnen Bücher      | Leur sœur leur donne des livres       | Su hermana les da libros          |
+| Object (dative)       | (nominative)  | Their children give them books    | Ihre Kinder geben ihnen Bücher        | Leurs enfants leur donnent des livres | Sus hijos les regalan libros      |
+| Subject (nominative)  |               | Our dog and theirs                | Unser Hund und ihrer                  | Notre chien et le leur                | Nuestro perro y el de ellos       |
+| Subject (nominative)  |               | Our cat and theirs                | Unsere Katze und ihre                 | Notre chat et le leur                 | Nuestro gato y el de ellos        |
+| Subject (nominative)  |               | Our book and theirs               | Unser Buch und ihres                  | Notre livre et le leur                | Nuestro libro y el de ellos       |
+| Subject (nominative)  |               | Our books and theirs              | Unsere Bücher und ihre                | Nos livres et les leurs               | Nuestros libros y los de ellos    |
+|                       |               | This book is theirs               | Dieses Buch gehört ihnen              | Ce livre est le leur                  | Este libro es de ellos            |
+|                       |               | These books are theirs            | Diese Bücher gehören ihnen            | Ces livres sont les leurs             | Estos libros son de ellos         |
 
 ### Other Pronouns
 
