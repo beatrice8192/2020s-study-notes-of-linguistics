@@ -458,69 +458,28 @@ Examples:
 |                       |               | This book is theirs               | Dieses Buch gehört ihnen              | Ce livre est le leur                  | Este libro es de ellos            |
 |                       |               | These books are theirs            | Diese Bücher gehören ihnen            | Ces livres sont les leurs             | Estos libros son de ellos         |
 
-### Other Pronouns
-
-Demonstrative Pronouns:
-
-| English   | Classical Latin   | German    | French    | Spanish   |
-| --        | --                | --        | --        | --        |
-| this      | hoc               | dies      | ce        | este      |
-| that      | ille              | das       | que       | eso       |
-| these     | haec              | diese     | ces       | estos     |
-| those     | illi              | jene      | ceux      | aquellos  |
-| here      | hic               | hier      | ici       | aquí      |
-| there     | ibi               | dort      | là        | allá      |
-
-| English           | German        | French        | Spanish (this)    | Spanish (that)    |
-| --                | --            | --            | --                | --                |
-| this man          | dieser Mann   | cet homme     | este hombre       | ese hombre        |
-| these men         | diese Männer  | ces hommes    | estos hombres     | esos hombres      |
-| this woman        | diese Frau    | cette femme   | esta mujer        | esa mujer         |
-| these women       | diese Frauen  | ces femmes    | estas mujeres     | esas mujeres      |
-| this book         | dieses Buch   | ce livre      | este libro        | ese libro         |
-| these books       | diese Bücher  | ces livres    | estos libros      | esos libros       |
-
-Interrogative Pronouns:
-
-| English   | Classical Latin   | German    | French    | Spanish   |
-| --        | --                | --        | --        | --        |
-| who       | quis              | wer       | oms       | oms       |
-| what      | quid              | was       | quoi      | qué       |
-| when      | quando            | wenn      | quand     | cuando    |
-| where     | ubi               | wo        | où        | dónde     |
-| why       | cur               | warum     | pourquoi  | por qué   |
-| how       | quomodo           | wie       | comment   | cómo      |
-
-Indefinite Pronouns:
-
-Reflexive Pronouns:
-
 ### References
 
-* https://en.wikipedia.org/wiki/Five_Ws
-* https://en.wikipedia.org/wiki/Article_(grammar)
-* https://en.wikipedia.org/wiki/Pronoun
-* https://en.wikipedia.org/wiki/Interlingua
-* https://en.wikibooks.org/wiki/German/Grammar
-* https://en.wikibooks.org/wiki/French/Grammar
-* https://en.wikibooks.org/wiki/Category:Book:German
-* https://en.wikibooks.org/wiki/Category:Book:French
-* https://en.wikibooks.org/wiki/Category:Book:Spanish
-* https://people.umass.edu/sharris/in/gram/GrammarBook/GramCases.html
-* https://en.wikipedia.org/wiki/German_articles
-* https://en.wikibooks.org/wiki/German/Grammar/Pronouns
-* https://en.wikipedia.org/wiki/German_pronouns
-* https://en.wikipedia.org/wiki/French_personal_pronouns
-* https://en.wikipedia.org/wiki/Spanish_pronouns
-* https://germanwithlaura.com/possessive-pronouns/
-* https://www.lawlessfrench.com/grammar/possessive-pronouns/
-* https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
-* https://www.lawlessitalian.com/grammar/pronouns/possessive-pronouns/
-* https://en.wikipedia.org/wiki/Interrogative_word
-* https://en.wikipedia.org/wiki/Sentence_function
-* https://en.wikipedia.org/wiki/Indefinite_pronoun
-
-### To-Do
-
-- [ ] Spelling rules of genders in nouns:
-
+* General
+    * https://en.wikipedia.org/wiki/Five_Ws
+    * https://en.wikipedia.org/wiki/Article_(grammar)
+    * https://en.wikipedia.org/wiki/Pronoun
+    * https://en.wikipedia.org/wiki/Indefinite_pronoun
+    * https://en.wikipedia.org/wiki/Interrogative_word
+    * https://en.wikipedia.org/wiki/Sentence_function
+* German
+    * https://en.wikibooks.org/wiki/Category:Book:German
+    * https://en.wikibooks.org/wiki/German/Grammar
+    * https://en.wikipedia.org/wiki/German_articles
+    * https://en.wikipedia.org/wiki/German_pronouns
+    * https://germanwithlaura.com/possessive-pronouns/
+* French
+    * https://en.wikibooks.org/wiki/Category:Book:French
+    * https://en.wikibooks.org/wiki/French/Grammar
+    * https://en.wikipedia.org/wiki/French_personal_pronouns
+    * https://www.lawlessfrench.com/grammar/possessive-pronouns/
+* Spanish
+    * https://en.wikibooks.org/wiki/Category:Book:Spanish
+    * https://en.wikipedia.org/wiki/Spanish_pronouns
+    * https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
+    * https://www.lawlessitalian.com/grammar/pronouns/possessive-pronouns/
