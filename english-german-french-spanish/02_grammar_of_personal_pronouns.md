@@ -109,7 +109,7 @@ Examples:
 
 ### Pronouns of 1st Person, Singular
 
-|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French            | Spanish       |
 | --                                            | --        | --                                    | --                | --            |
 | Subject (nominative)                          | I         | ich                                   | je                | yo            |
 | Object (accusative, direct)                   | me        | mich                                  | me                | me            |
@@ -164,7 +164,7 @@ Examples:
 
 ### Pronouns of 2nd Person, Singular
 
-|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French            | Spanish       |
 | --                                            | --        | --                                    | --                | --            |
 | Subject (nominative)                          | you       | du                                    | tu                | tú            |
 | Object (accusative, direct)                   | you       | dich                                  | te                | te            |
@@ -211,7 +211,7 @@ Examples:
 
  ### Pronouns of 1st Person, Plural
 
-|                                               | English   | German (nominative,accusative,dative) | French    | Spanish               |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French    | Spanish               |
 | --                                            | --        | --                                    | --        | --                    |
 | Subject (nominative)                          | we        | wir                                   | nous      | nosotros, nosotras    |
 | Object (accusative, direct)                   | us        | uns                                   | nous      | nos                   |
@@ -289,7 +289,7 @@ Examples:
 
 Masculine (he, him):
 
-|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French            | Spanish       |
 | --                                            | --        | --                                    | --                | --            |
 | Subject (nominative)                          | he        | er                                    | il                | él            |
 | Object (accusative, direct)                   | him       | ihn                                   | le                | lo            |
@@ -308,7 +308,7 @@ Masculine (he, him):
 
 Feminine (she, her):
 
-|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French            | Spanish       |
 | --                                            | --        | --                                    | --                | --            |
 | Subject (nominative)                          | she       | sie                                   | elle              | ella          |
 | Object (accusative, direct)                   | her       | sie                                   | la                | la            |
@@ -327,7 +327,7 @@ Feminine (she, her):
 
 Neuter (it):
 
-|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French            | Spanish       |
 | --                                            | --        | --                                    | --                | --            |
 | Subject (nominative)                          | it        | es                                    | on                | ello          |
 | Object (accusative, direct)                   | it        | es                                    | --                | se            |
@@ -378,7 +378,7 @@ Examples:
 
 ### Pronouns of 3rd Person, Plural
 
-|                                               | English   | German (nominative,accusative,dative) | French        | Spanish       |
+|                                               | English   | German (nominativ,akkusativ,dativ)    | French        | Spanish       |
 | --                                            | --        | --                                    | --            | --            |
 | Subject (nominative)                          | they      | sie                                   | ils, elles    | ellos, ellas  |
 | Object (accusative, direct)                   | them      | sie                                   | les           | los, las      |
