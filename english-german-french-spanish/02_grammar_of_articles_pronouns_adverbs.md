@@ -1,4 +1,4 @@
-# Pronouns
+# Articles, Pronouns, Adverbs
 
 ### Articles
 
@@ -52,7 +52,7 @@ Examples of definite articles:
 
 Demonstrative adjectives (this):
 
-| English       | German (nominative,accusative,dative) | French        | Spanish (cercano) |
+| English       | German (nominativ,akkusativ,dativ)    | French        | Spanish (cercano) |
 | --            | --                                    | --            | --                |
 | this man      | dieser/diesen/diesem Mann             | cet homme     | este hombre       |
 | these men     | diese Männer                          | ces hommes    | estos hombres     |
@@ -65,7 +65,7 @@ Demonstrative adjectives (this):
 
 Demonstrative adjectives (that):
 
-| English       | German (nominative,accusative,dative) | French        | Spanish (próximo) | Spanish (lejano)  |
+| English       | German (nominativ,akkusativ,dativ)    | French        | Spanish (próximo) | Spanish (lejano)  |
 | --            | --                                    | --            | --                | --                |
 | that man      | jener/jenen/jenem                     |               | ese hombre        | aquel             |
 | those men     | jene                                  |               | esos hombres      | aquellos          |
@@ -87,6 +87,8 @@ Demonstrative pronouns (this one):
 
 | English               | German                    | French                | Spanish               |
 | --                    | --                        | --                    | --                    |
+| here and there        | hier und da               | ça et là              | aquí y allí           |
+| here and there        | hierhin und dorthin       | par-ci par-là         | acá y acá             |
 | the one that speaks   | derjenige, der spricht    | celui qui parle       | el que habla          |
 | those who speak       | diejenigen, die sprechen  | ceux qui parlent      | los que hablan        |
 
@@ -101,91 +103,102 @@ Demonstrative pronouns (this one):
 | why       | warum     | pourquoi  | por qué   |
 | how       | wie       | comment   | cómo      |
 
-### Indefinite Pronouns
+### Indefinite Pronouns And Adverbs
 
-Person:
+Negative:
 
-|                       | English       |
-| --                    | --            |
-| Negative              | no one        |
-| Negative              | nobody        |
-| Universal             | everyone      |
-| Universal             | everybody     |
-| Assertive existential | someone       |
-| Assertive existential | somebody      |
-| Elective existential  | anyone        |
-| Elective existential  | anybody       |
+|           | English       | German        | French                | Spanish           |
+| --        | --            | --            | --                    | --                |
+|           | none          | keiner        | aucun                 | ninguno/ninguna   |
+|           | neither       | --            | ne … pas non plus     | --                |
+| Person    | nobody        | niemand       | nul                   | nadie             |
+| Person    | no one        | --            | --                    | --                |
+| Thing     | nothing       | nichts        | rien                  | nada              |
+|           | no way        |
+| Place     | nowhere       |               | ne … nulle part       |                   |
+| Time      | never         |               | ne … jamais           |                   |
 
-Thing:
+Universal:
 
-|                       | English       |
-| --                    | --            |
-| Negative              | nothing       |
-| Universal             | everything    |
-| Assertive existential | something     |
-| Elective existential  | anything      |
+|           | English       | German        | French                | Spanish           |
+| --        | --            | --            | --                    | --                |
+|           | every         | jeder         | tous                  | cada              |
+|           | each          |
+|           | both          | beide         | --                    | ambos/ambas       |
+|           | other         | andere        | autre                 | otro/otra         |
+|           | others        | andere        | autres                | otros/otras       |
+|           | another       |
+|           | all           | alle          | tout/toute            | todo/toda         |
+| Person    | everybody     |
+| Person    | everyone      |               | tout le monde         | todos/todas       |
+| Thing     | everything    |
+| Place     | everywhere    | überall       | partout               |
+| Time      | forever       | für immer     | pour toujours         | para siempre      |
 
-Place:
+Assertive existential:
 
-|                       | English       |
-| --                    | --            |
-| Negative              | nowhere       |
-| Universal             | everywhere    |
-| Assertive existential | somewhere     |
-| Elective existential  | anywhere      |
+|           | English       | German        | French                | Spanish           |
+| --        | --            | --            | --                    | --                |
+|           | some          | manche        | quelques              | alguno/alguna     |
+|           | such          |
+| Person    | somebody      | jemand        | quelqu'un/quelqu'une  | alguien           |
+| Person    | someone       |
+| Thing     | something     | etwas         | quelque chose         | algo              |
+| Place     | somewhere     | irgendwo      | quelque part          | en algún lugar    |
+| Time      | sometime      |
 
-Time:
+Elective existential:
 
-|                       | English       |
-| --                    | --            |
-| Negative              | never         |
-| Universal             | forever       |
-| Assertive existential | sometime      |
-| Elective existential  | anytime       |
+|           | English       | German        | French                | Spanish           |
+| --        | --            | --            | --                    | --                |
+|           | any           | beliebig      |                       | cualquier         |
+|           | either        |
+| Person    | anybody       |
+| Person    | anyone        |
+| Person    | whoever       |
+| Thing     | anything      | irgendetwas   | rien                  | cualquier cosa    |
+| Thing     | anyway        | trotzdem      | de toute façon        | de todos modos    |
+| Thing     | anyhow        |
+| Thing     | whichever     |
+| Thing     | whatever      |
+| Thing     | however       |
+| Place     | anywhere      |
+| Place     | wherever      |
+| Time      | anytime       |
+| Time      | whenever      |
 
-|                       | English       |
-| --                    | --            |
-|                       | whoever       |
-|                       | whatever      |
-|                       | whenever      |
-|                       | wherever      |
-|                       | anyway        |
-|                       | anyhow        |
-|                       | either        |
-|                       | neither       |
-|                       | both          |
-|                       | other         |
-|                       | others        |
-|                       | another       |
-|                       | none          |
-|                       | all           |
-|                       | such          |
-|                       | some          |
-|                       | any           |
+Uncountable quantifiers:
 
-Quantifiers:
+| English       | German            | French            | Spanish           |
+| --            | --                | --                | --                |
+| least         | am wenigsten      | moins             | el menos          |
+| less          | weniger als       | moins que         | menos que         |
+| little        | wenig             | peu               | poco              |
+| a little      | etwas             | un peu            | un poco           |
+| rare          |                   |                   | escaso/escasa     |
+| enough        |
+| plenty        |
+| very          |
+| much          | viel              | beaucoup          | mucho/mucha       |
+| too much      |                   |                   | demasiado/demasiada   |
+| more          | mehr              | plus              | más               |
+| most          | am meisten        | la plupart        | mayoría           |
+| much more     |
 
-|                       | English       |
-| --                    | --            |
-|                       | least         |
-|                       | less          |
-|                       | little        |
-|                       | a little      |
-|                       | rare          |
-|                       | enough        |
-|                       | plenty        |
-|                       | much          |
-|                       | more          |
-|                       | most          |
-|                       | much more     |
+| English       | German            | French            | Spanish           |
+| --            | --                | --                | --                |
+| little change | wenig Veränderung | peu de changement | pocos cambios     |
+| a little salt | etwas Salz        | un peu de sel     | un poco de sal    |
 
-|                       | English       |
-| --                    | --            |
-|                       | fewer         |
-|                       | few           |
-|                       | a few         |
-|                       | several       |
-|                       | many          |
+Countable quantifiers:
+
+| English       | German            | French            | Spanish           |
+| --            | --                | --                | --                |
+| fewer         |
+| few           |
+| a few         |
+| several       |
+| many          |
 
 ### Reflexive Pronouns
 
@@ -204,6 +217,8 @@ Quantifiers:
     * https://www.lawlessfrench.com/grammar/demonstrative-adjectives/
     * https://www.lawlessfrench.com/grammar/demonstrative-pronouns/
     * https://www.lawlessfrench.com/grammar/indefinite-demonstrative-pronouns/
+    * https://www.lawlessfrench.com/grammar/here-and-there/
+    * https://www.lawlessfrench.com/grammar/negative-adverbs/
 * Spanish
     * https://es.wikipedia.org/wiki/Demostrativo
     * https://www.lawlessspanish.com/grammar/adjectives/demonstrative-adjectives/
