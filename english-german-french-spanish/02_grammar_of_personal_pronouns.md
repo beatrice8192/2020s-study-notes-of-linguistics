@@ -109,22 +109,22 @@ Examples:
 
 ### Pronouns of 1st Person, Singular
 
-|                                                   | English   | German                    | French            | Spanish       |
-| --                                                | --        | --                        | --                | --            |
-| Subject (nominative)                              | I         | ich                       | je                | yo            |
-| Object (accusative, direct)                       | me        | mich                      | me                | me            |
-| Object (dative, indirect)                         | (to) me   | mir                       | me                | me            |
-| Object (disjunctive, prepositional)               | (for) me  | mich                      | (pour) moi        | (para) mí     |
-| Dependent possessive (nominative, single, m/f/n)  | my        | mein, meine, mein         | mon, ma           | mi            |
-| Dependent possessive (accusative, single, m/f/n)  |           | meinen, meine, mein       |
-| Dependent possessive (dative, single, m/f/n)      |           | meinem, meiner, meinem    |
-| Dependent possessive (nominative, plural)         | my        | meine                     | mes               | mis           |
-| Independent possessive (nominative, single, m/f/n)| mine      | meiner, ~meine~, mein(e)s | mien, mienne      | mío, mía      |
-| Independent possessive (accusative, single, m/f/n)|           |~meinen, meine~, mein(e)s  |
-| Independent possessive (dative, single, m/f/n)    |           |~meinem, meiner, meinem~   |
-| Independent possessive (nominative, plural)       | mine      |~meine~                    | miens, miennes    | míos, mías    |
-
-> m/f/n is Masculine/Feminine/Neuter.
+|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+| --                                            | --        | --                                    | --                | --            |
+| Subject (nominative)                          | I         | ich                                   | je                | yo            |
+| Object (accusative, direct)                   | me        | mich                                  | me                | me            |
+| Object (dative, indirect)                     | (to) me   | mir                                   | me                | me            |
+| Object (disjunctive, prepositional)           | (for) me  | mich                                  | (pour) moi        | (para) mí     |
+|                                               |           |                                       |                   |               |
+| Dependent possessive (single, masculine)      | my        | mein, meinen, meinem                  | mon               | mi            |
+| Dependent possessive (single, feminine)       | my        | meine, meine, meiner                  | ma                | mi            |
+| Dependent possessive (single, neuter)         | my        | mein, mein, meinem                    | --                | mi            |
+| Dependent possessive (plural)                 | my        | meine                                 | mes               | mis           |
+|                                               |           |                                       |                   |               |
+| Independent possessive (single, masculine)    | mine      | meiner, ~meinen, meinem~              | mien              | mío           |
+| Independent possessive (single, feminine)     | mine      |~meine, meine, meiner~                 | mienne            | mía           |
+| Independent possessive (single, neuter)       | mine      | mein(e)s, mein(e)s, ~meinem~          | --                | --            |
+| Independent possessive (plural)               | mine      |~meine~                                | miens, miennes    | míos, mías    |
 
 > ~strikethrough~ is used if `mine` is the same as `my`.
 
@@ -164,22 +164,22 @@ Examples:
 
 ### Pronouns of 2nd Person, Singular
 
-|                                                   | English   | German                    | French            | Spanish       |
-| --                                                | --        | --                        | --                | --            |
-| Subject (nominative)                              | you       | du                        | tu                | tú            |
-| Object (accusative, direct)                       | you       | dich                      | te                | te            |
-| Object (dative, indirect)                         | (to) you  | dir                       | te                | te            |
-| Object (disjunctive, prepositional)               | (for) you | dich                      | (pour) toi        | (para) ti     |
-| Dependent possessive (nominative, single, m/f/n)  | your      | dein, deine, dein         | ton, ta           | tu            |
-| Dependent possessive (accusative, single, m/f/n)  |           | deinen, deine, dein       |
-| Dependent possessive (dative, single, m/f/n)      |           | deinem, deiner, deinem    |
-| Dependent possessive (nominative, plural)         | your      | deine                     | tes               | tus           |
-| Independent possessive (nominative, single, m/f/n)| yours     | deiner, ~deine~, dein(e)s | tien, tienne      | tuyo, tuya    |
-| Independent possessive (accusative, single, m/f/n)|           |~deinen, deine~, dein(e)s  |
-| Independent possessive (dative, single, m/f/n)    |           |~deinem, deiner, deinem~   |
-| Independent possessive (nominative, plural)       | yours     |~deine~                    | tiens, tiennes    | tuyos, tuyas  |
-
-> m/f/n is Masculine/Feminine/Neuter.
+|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+| --                                            | --        | --                                    | --                | --            |
+| Subject (nominative)                          | you       | du                                    | tu                | tú            |
+| Object (accusative, direct)                   | you       | dich                                  | te                | te            |
+| Object (dative, indirect)                     | (to) you  | dir                                   | te                | te            |
+| Object (disjunctive, prepositional)           | (for) you | dich                                  | (pour) toi        | (para) ti     |
+|                                               |           |                                       |                   |               |
+| Dependent possessive (single, masculine)      | your      | dein, deinen, deinem                  | ton               | tu            |
+| Dependent possessive (single, feminine)       | your      | deine, deine, deiner                  | ta                | tu            |
+| Dependent possessive (single, neuter)         | your      | dein, dein, deinem                    | --                | tu            |
+| Dependent possessive (plural)                 | your      | deine                                 | tes               | tus           |
+|                                               |           |                                       |                   |               |
+| Independent possessive (single, masculine)    | yours     | deiner, ~deinen, deinem~              | tien              | tuyo          |
+| Independent possessive (single, feminine)     | yours     |~deine, deine, deiner~                 | tienne            | tuya          |
+| Independent possessive (single, neuter)       | yours     | dein(e)s, dein(e)s, ~deinem~          | --                | --            |
+| Independent possessive (plural)               | yours     |~deine~                                | tiens, tiennes    | tuyos, tuyas  |
 
 > ~strikethrough~ is used if `yours` is the same as `your`.
 
@@ -211,19 +211,21 @@ Examples:
 
  ### Pronouns of 1st Person, Plural
 
-|                                                   | English   | German                        | French    | Spanish               |
-| --                                                | --        | --                            | --        | --                    |
-| Subject (nominative)                              | we        | wir                           | nous      | nosotros, nosotras    |
-| Object (accusative, direct)                       | us        | uns                           | nous      | nos                   |
-| Object (dative, indirect)                         | us        | uns                           | nous      | nos                   |
-| Dependent possessive (nominative, single, m/f/n)  | our       | unser, unsere, unser          | notre     | nuestro, nuestra      |
-| Dependent possessive (accusative, single, m/f/n)  |           | unseren, unsere, unser        |
-| Dependent possessive (dative, single, m/f/n)      |           | unserem, unserer, unserem     |
-| Dependent possessive (nominative, plural)         | our       | unsere                        | nos       | nuestros, nuestras    |
-| Independent possessive (nominative, single, m/f/n)| ours      | unserer, ~unsere~, unseres    | nôtre     | nuestro, nuestra      |
-| Independent possessive (accusative, single, m/f/n)|           |~unseren, unsere~, unseres     |
-| Independent possessive (dative, single, m/f/n)    |           |~unserem, unserer, unserem~    |
-| Independent possessive (nominative, plural)       | ours      |~unsere~                       | nôtres    | nuestros, nuestras    |
+|                                               | English   | German (nominative,accusative,dative) | French    | Spanish               |
+| --                                            | --        | --                                    | --        | --                    |
+| Subject (nominative)                          | we        | wir                                   | nous      | nosotros, nosotras    |
+| Object (accusative, direct)                   | us        | uns                                   | nous      | nos                   |
+| Object (dative, indirect)                     | us        | uns                                   | nous      | nos                   |
+|                                               |           |                                       |           |                       |
+| Dependent possessive (single, masculine)      | our       | unser, unseren, unserem               | notre     | nuestro               |
+| Dependent possessive (single, feminine)       | our       | unsere, unsere, unserer               | notre     | nuestra               |
+| Dependent possessive (single, neuter)         | our       | unser, unser, unserem                 | notre     | --                    |
+| Dependent possessive (plural)                 | our       | unsere                                | nos       | nuestros, nuestras    |
+|                                               |           |                                       |           |                       |
+| Independent possessive (single, masculine)    | ours      | unserer, ~unseren, unserem~           | nôtre     |~nuestro~              |
+| Independent possessive (single, feminine)     | ours      |~unsere, unsere, unserer~              | nôtre     |~nuestra~              |
+| Independent possessive (single, neuter)       | ours      | unseres, unseres, ~unserem~           | nôtre     | --                    |
+| Independent possessive (plural)               | ours      |~unsere~                               | nôtres    |~nuestros, nuestras~   |
 
 Examples:
 
@@ -254,19 +256,21 @@ Examples:
 
 ### Pronouns of 2nd Person, Plural (may have mistakes)
 
-|                                                   | English   | German (informal)     | German (formal)       | French    | Spanish               |
-| --                                                | --        | --                    | --                    | --        | --                    |
-| Subject (nominative)                              | you       | ihr                   | Sie                   | vous      | vosotros, vosotras    |
-| Object (accusative, direct)                       | you       | euch                  | Sie                   | vous      | os                    |
-| Object (dative, indirect)                         | you       | euch                  | Ihnen                 | vous      | os                    |
-| Dependent possessive (nominative, single, m/f/n)  | your      | euer, eure, euer      | Ihr, Ihre, Ihr        | votre     | vuestro, vuestra      |
-| Dependent possessive (accusative, single, m/f/n)  |           | euren, eure, euer     | Ihren, Ihre, Ihr      |
-| Dependent possessive (dative, single, m/f/n)      |           | eurem, eurer, eurem   | Ihrem, Ihrer, Ihrem   |
-| Dependent possessive (nominative, plural)         | your      | eure                  | Ihre                  | vos       | vuestros, vuestras    |
-| Independent possessive (nominative, single, m/f/n)| yours     | eurer, ~eure~, eures  | Ihrer, ~Ihre~, Ihr(e)s| vôtre     | vuestro, vuestra      |
-| Independent possessive (accusative, single, m/f/n)|           |~euren, eure~, eures   |~Ihren, Ihre~, Ihr(e)s |
-| Independent possessive (dative, single, m/f/n)    |           |~eurem, eurer, eurem~  |~Ihrem, Ihrer, Ihrem~  |
-| Independent possessive (nominative, plural)       | yours     |~eure~                 |~Ihre~                 | vôtre     | vuestros, vuestras    |
+|                                               | English   | German (informal)     | German (formal)           | French    | Spanish               |
+| --                                            | --        | --                    | --                        | --        | --                    |
+| Subject (nominative)                          | you       | ihr                   | Sie                       | vous      | vosotros, vosotras    |
+| Object (accusative, direct)                   | you       | euch                  | Sie                       | vous      | os                    |
+| Object (dative, indirect)                     | you       | euch                  | Ihnen                     | vous      | os                    |
+|                                               |           |                       |                           |           |                       |
+| Dependent possessive (single, masculine)      | your      | euer, euren, eurem    | Ihr, Ihren, Ihrem         | votre     | vuestro               |
+| Dependent possessive (single, feminine)       | your      | eure, eure, eurer     | Ihre, Ihre, Ihrer         | votre     | vuestra               |
+| Dependent possessive (single, neuter)         | your      | euer, euer, eurem     | Ihr, Ihr, Ihrem           | votre     | --                    |
+| Dependent possessive (plural)                 | your      | eure                  | Ihre                      | vos       | vuestros, vuestras    |
+|                                               |           |                       |                           |           |                       |
+| Independent possessive (single, masculine)    | yours     | eurer, ~euren, eurem~ | Ihrer, ~Ihren, Ihrem~     | vôtre     |~vuestro~              |
+| Independent possessive (single, feminine)     | yours     |~eure, eure, eurer~    |~Ihre, Ihre, Ihrer~        | vôtre     |~vuestra~              |
+| Independent possessive (single, neuter)       | yours     | eures, eures, ~eurem~ | Ihr(e)s, Ihr(e)s, ~Ihrem~ | vôtre     | --                    |
+| Independent possessive (plural)               | yours     |~eure~                 |~Ihre~                     | vôtres    |~vuestros, vuestras~   |
 
 Examples:
 
@@ -285,54 +289,60 @@ Examples:
 
 Masculine (he, him):
 
-|                                                   | English   | German                    | French            | Spanish       |
-| --                                                | --        | --                        | --                | --            |
-| Subject (nominative)                              | he        | er                        | il                | él            |
-| Object (accusative, direct)                       | him       | ihn                       | le                | lo            |
-| Object (dative, indirect)                         | him       | ihm                       | lui               | le            |
-| Object (disjunctive, prepositional)               | him       | ihn                       | (pour) lui        | (para) él     |
-| Dependent possessive (nominative, single, m/f/n)  | his       | sein, seine, sein         | son, sa           | su            |
-| Dependent possessive (accusative, single, m/f/n)  | his       | seinen, seine, sein       |
-| Dependent possessive (dative, single, m/f/n)      | his       | seinem, seiner, seinem    |
-| Dependent possessive (nominative, plural)         | his       | seine                     | ses               | sus           |
-| Independent possessive (nominative, single, m/f/n)| his       | seiner, ~seine~, seins    | sien, sienne      | suyo, suya    |
-| Independent possessive (accusative, single, m/f/n)| his       |~seinen, seine~, seins     |
-| Independent possessive (dative, single, m/f/n)    | his       |~seinem, seiner, seinem~   |
-| Independent possessive (nominative, plural        | his       |~seine~                    | siens, siennes    | suyos, suyas  |
+|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+| --                                            | --        | --                                    | --                | --            |
+| Subject (nominative)                          | he        | er                                    | il                | él            |
+| Object (accusative, direct)                   | him       | ihn                                   | le                | lo            |
+| Object (dative, indirect)                     | him       | ihm                                   | lui               | le            |
+| Object (disjunctive, prepositional)           | him       | ihn                                   | (pour) lui        | (para) él     |
+|                                               |           |                                       |                   |               |
+| Dependent possessive (single, masculine)      | his       | sein, seinen, seinem                  | son               | su            |
+| Dependent possessive (single, feminine)       | his       | seine, seine, seiner                  | sa                | su            |
+| Dependent possessive (single, neuter)         | his       | sein, sein, seinem                    | --                | su            |
+| Dependent possessive (plural)                 | his       | seine                                 | ses               | sus           |
+|                                               |           |                                       |                   |               |
+| Independent possessive (single, masculine)    | his       | seiner, ~seinen, seinem~              | sien              | suyo          |
+| Independent possessive (single, feminine)     | his       |~seine, seine, seiner~                 | sienne            | suya          |
+| Independent possessive (single, neuter)       | his       | seins, seins, ~seinem~                | --                | --            |
+| Independent possessive (plural)               | his       |~seine~                                | siens, siennes    | suyos, suyas  |
 
 Feminine (she, her):
 
-|                                                   | English   | German                    | French            | Spanish       |
-| --                                                | --        | --                        | --                | --            |
-| Subject (nominative)                              | she       | sie                       | elle              | ella          |
-| Object (accusative, direct)                       | her       | sie                       | la                | la            |
-| Object (dative, indirect)                         | her       | ihr                       | lui               | le            |
-| Object (disjunctive, prepositional)               | her       | sie                       | (pour) elle       | (para) ella   |
-| Dependent possessive (nominative, single, m/f/n)  | her       | ihr, ihre, ihr            | son, sa           | su            |
-| Dependent possessive (accusative, single, m/f/n)  | her       | ihren, ihre, ihr          |
-| Dependent possessive (dative, single, m/f/n)      | her       | ihrem, ihrer, ihrem       |
-| Dependent possessive (nominative, plural)         | her       | ihre                      | ses               | sus           |
-| Independent possessive (nominative, single, m/f/n)| hers      | ihrer, ~ihre~, ihr(e)s    | sien, sienne      | suyo, suya    |
-| Independent possessive (accusative, single, m/f/n)| hers      |~ihren, ihre,~ ihr(e)s     |
-| Independent possessive (dative, single, m/f/n)    | hers      |~ihrem, ihrer, ihrem~      |
-| Independent possessive (nominative, plural        | hers      |~ihre~                     | siens, siennes    | suyos, suyas  |
+|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+| --                                            | --        | --                                    | --                | --            |
+| Subject (nominative)                          | she       | sie                                   | elle              | ella          |
+| Object (accusative, direct)                   | her       | sie                                   | la                | la            |
+| Object (dative, indirect)                     | her       | ihr                                   | lui               | le            |
+| Object (disjunctive, prepositional)           | her       | sie                                   | (pour) elle       | (para) ella   |
+|                                               |           |                                       |                   |               |
+| Dependent possessive (single, masculine)      | her       | ihr, ihren, ihrem                     | son               | su            |
+| Dependent possessive (single, feminine)       | her       | ihre, ihre, ihrer                     | sa                | su            |
+| Dependent possessive (single, neuter)         | her       | ihr, ihr, ihrem                       | --                | su            |
+| Dependent possessive (plural)                 | her       | ihre                                  | ses               | sus           |
+|                                               |           |                                       |                   |               |
+| Independent possessive (single, masculine)    | hers      | ihrer, ~ihren, ihrem~                 | sien              | suyo          |
+| Independent possessive (single, feminine)     | hers      |~ihre, ihre, ihrer~                    | sienne            | suya          |
+| Independent possessive (single, neuter)       | hers      | ihr(e)s, ihr(e)s, ~ihrem~             | --                | --            |
+| Independent possessive (plural)               | hers      |~ihre~                                 | siens, siennes    | suyos, suyas  |
 
 Neuter (it):
 
-|                                                   | English   | German                    | French            | Spanish       |
-| --                                                | --        | --                        | --                | --            |
-| Subject (nominative)                              | it        | es                        | on                | ello          |
-| Object (accusative, direct)                       | it        | es                        | --                | se            |
-| Object (dative, indirect)                         | it        | ihm                       | lui               | se            |
-| Object (disjunctive, prepositional)               | it        | es                        | (pour) cela       | (para) ello   |
-| Dependent possessive (nominative, single, m/f/n)  | its       | sein, seine, sein         | son, sa           | su            |
-| Dependent possessive (accusative, single, m/f/n)  | its       | seinen, seine, sein       |
-| Dependent possessive (dative, single, m/f/n)      | its       | seinem, seiner, seinem    |
-| Dependent possessive (nominative, plural)         | its       | seine                     | ses               | sus           |
-| Independent possessive (nominative, single, m/f/n)| its       | seiner, ~seine~, seins    | sien, sienne      | suyo, suya    |
-| Independent possessive (accusative, single, m/f/n)| its       |~seinen, seine~, seins     |
-| Independent possessive (dative, single, m/f/n)    | its       |~seinem, seiner, seinem~   |
-| Independent possessive (nominative, plural        | its       |~seine~                    | siens, siennes    | suyos, suyas  |
+|                                               | English   | German (nominative,accusative,dative) | French            | Spanish       |
+| --                                            | --        | --                                    | --                | --            |
+| Subject (nominative)                          | it        | es                                    | on                | ello          |
+| Object (accusative, direct)                   | it        | es                                    | --                | se            |
+| Object (dative, indirect)                     | it        | ihm                                   | lui               | se            |
+| Object (disjunctive, prepositional)           | it        | es                                    | (pour) cela       | (para) ello   |
+|                                               |           |                                       |                   |               |
+| Dependent possessive (single, masculine)      | its       | sein, seinen, seinem                  | son               | su            |
+| Dependent possessive (single, feminine)       | its       | seine, seine, seiner                  | sa                | su            |
+| Dependent possessive (single, neuter)         | its       | sein, sein, seinem                    | --                | su            |
+| Dependent possessive (plural)                 | its       | seine                                 | ses               | sus           |
+|                                               |           |                                       |                   |               |
+| Independent possessive (single, masculine)    | its       | seiner, ~seinen, seinem~              | sien              | suyo          |
+| Independent possessive (single, feminine)     | its       |~seine, seine, seiner~                 | sienne            | suya          |
+| Independent possessive (single, neuter)       | its       | seins, seins, ~seinem~                | --                | --            |
+| Independent possessive (plural)               | its       |~seine~                                | siens, siennes    | suyos, suyas  |
 
 Examples:
 
@@ -368,20 +378,22 @@ Examples:
 
 ### Pronouns of 3rd Person, Plural
 
-|                                                   | English   | German                | French        | Spanish       |
-| --                                                | --        | --                    | --            | --            |
-| Subject (nominative)                              | they      | sie                   | ils, elles    | ellos, ellas  |
-| Object (accusative, direct)                       | them      | sie                   | les           | los, las      |
-| Object (dative, indirect)                         | them      | ihnen                 | leur          | les           |
-| Object (disjunctive, prepositional)               | them      | sie                   | eux           | ellos, ellas  |
-| Dependent possessive (nominative, single, m/f/n)  | their     | ihr, ihre, ihr        | leur          | suyo, suya    |
-| Dependent possessive (accusative, single, m/f/n)  | their     | ihren, ihre, ihr      |
-| Dependent possessive (dative, single, m/f/n)      | their     | ihrem, ihrer, ihrem   |
-| Dependent possessive (nominative, plural)         | their     | ihre                  | leurs         | suyos, suyas  |
-| Independent possessive (nominative, single, m/f/n)| theirs    | ihrer, ~ihre~, ihr(e)s| leur          | suyo, suya    |
-| Independent possessive (accusative, single, m/f/n)| theirs    |~ihren, ihre~, ihr(e)s |
-| Independent possessive (dative, single, m/f/n)    | theirs    |~ihrem, ihrer, ihrem~  |
-| Independent possessive (nominative, plural)       | theirs    |~ihre~                 | leurs         | suyoa, suyas  |
+|                                               | English   | German (nominative,accusative,dative) | French        | Spanish       |
+| --                                            | --        | --                                    | --            | --            |
+| Subject (nominative)                          | they      | sie                                   | ils, elles    | ellos, ellas  |
+| Object (accusative, direct)                   | them      | sie                                   | les           | los, las      |
+| Object (dative, indirect)                     | them      | ihnen                                 | leur          | les           |
+| Object (disjunctive, prepositional)           | them      | sie                                   | eux           | ellos, ellas  |
+|                                               |           |                                       |               |               |
+| Dependent possessive (single, masculine)      | their     | ihr, ihren, ihrem                     | leur          | su            |
+| Dependent possessive (single, feminine)       | their     | ihre, ihre, ihrer                     | leur          | su            |
+| Dependent possessive (single, neuter)         | their     | ihr, ihr, ihrem                       | leur          | su            |
+| Dependent possessive (plural)                 | their     | ihre                                  | leurs         | sus           |
+|                                               |           |                                       |               |               |
+| Independent possessive (single, masculine)    | theirs    | ihrer, ~ihren, ihrem~                 | leur          | suyo          |
+| Independent possessive (single, feminine)     | theirs    |~ihre, ihre, ihrer~                    | leur          | suya          |
+| Independent possessive (single, neuter)       | theirs    | ihr(e)s, ihr(e)s, ~ihrem~             | leur          | --            |
+| Independent possessive (plural)               | theirs    |~ihre~                                 | leurs         | suyos, suyas  |
 
 Examples:
 
@@ -413,25 +425,25 @@ Examples:
 ### References
 
 * General
-    * https://en.wikipedia.org/wiki/Five_Ws
     * https://en.wikipedia.org/wiki/Article_(grammar)
     * https://en.wikipedia.org/wiki/Pronoun
-    * https://en.wikipedia.org/wiki/Indefinite_pronoun
-    * https://en.wikipedia.org/wiki/Interrogative_word
-    * https://en.wikipedia.org/wiki/Sentence_function
 * German
     * https://en.wikibooks.org/wiki/Category:Book:German
     * https://en.wikibooks.org/wiki/German/Grammar
     * https://en.wikipedia.org/wiki/German_articles
     * https://en.wikipedia.org/wiki/German_pronouns
+    * https://de.wikipedia.org/wiki/Personalpronomen
     * https://germanwithlaura.com/possessive-pronouns/
 * French
     * https://en.wikibooks.org/wiki/Category:Book:French
     * https://en.wikibooks.org/wiki/French/Grammar
     * https://en.wikipedia.org/wiki/French_personal_pronouns
+    * https://fr.wikipedia.org/wiki/Pronom
     * https://www.lawlessfrench.com/grammar/possessive-pronouns/
 * Spanish
     * https://en.wikibooks.org/wiki/Category:Book:Spanish
     * https://en.wikipedia.org/wiki/Spanish_pronouns
+    * https://es.wikipedia.org/wiki/Pronombres_en_espa%C3%B1ol
+    * https://es.wikipedia.org/wiki/Pronombre_personal
     * https://www.lawlessspanish.com/grammar/pronouns/possessive-pronouns/
     * https://www.lawlessitalian.com/grammar/pronouns/possessive-pronouns/
