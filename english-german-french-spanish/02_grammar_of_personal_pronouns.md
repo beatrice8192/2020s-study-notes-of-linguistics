@@ -90,7 +90,7 @@ Demonstrative pronouns (this):
 | Dative        | diese**m**    | diese**r**    |~diese**m**~   | diese**n**    |
 | Genitive      | diese**s**    | diese**r**    |~diese**s**~   |~diese**r**~   |
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 |               | Masculine                         | Feminine                          | Neuter                            |
 | --            | --                                | --                                | --                                |
@@ -136,7 +136,7 @@ Examples:
 
 > Spanish: What's mi vs mí, tu vs tú?
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | I, mine               | my                    | English                               | German                                        | French                                | Spanish                               |
 | --                    | --                    | --                                    | --                                            | --                                    | --                                    |
@@ -183,7 +183,7 @@ Examples:
 
 > ~strikethrough~ is used if `yours` is the same as `your`.
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | you, yours            | your                  | English                               | German                                    | French                                    | Spanish                               |
 | --                    | --                    | --                                    | --                                        | --                                        | --                                    |
@@ -227,7 +227,7 @@ Examples:
 | Independent possessive (single, neuter)       | ours      | unseres, unseres, ~unserem~           | nôtre     | --                    |
 | Independent possessive (plural)               | ours      |~unsere~                               | nôtres    |~nuestros, nuestras~   |
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | we, ours              | our           | English                       | German                                | French                                | Spanish                               |
 | --                    | --            | --                            | --                                    | --                                    | --                                    |
@@ -272,7 +272,7 @@ Examples:
 | Independent possessive (single, neuter)       | yours     | eures, eures, ~eurem~ | Ihr(e)s, Ihr(e)s, ~Ihrem~ | vôtre     | --                    |
 | Independent possessive (plural)               | yours     |~eure~                 |~Ihre~                     | vôtres    |~vuestros, vuestras~   |
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | you, yours            | your          | English                   | German                        | French                        | Spanish                       |
 | --                    | --            | --                        | --                            | --                            | --                            |
@@ -344,7 +344,7 @@ Neuter (it):
 | Independent possessive (single, neuter)       | its       | seins, seins, ~seinem~                | --                | --            |
 | Independent possessive (plural)               | its       |~seine~                                | siens, siennes    | suyos, suyas  |
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | he                    | his                       | English                           | German                                    | French                                | Spanish                               |
 | --                    | --                        | --                                | --                                        | --                                    | --                                    |
@@ -395,7 +395,7 @@ Examples:
 | Independent possessive (single, neuter)       | theirs    | ihr(e)s, ihr(e)s, ~ihrem~             | leur          | --            |
 | Independent possessive (plural)               | theirs    |~ihre~                                 | leurs         | suyos, suyas  |
 
-Examples:
+<img alt="Examples" src="https://img.shields.io/badge/Examples:-99cc00">
 
 | they, theirs          | their         | English                           | German                                | French                                | Spanish                           |
 | --                    | --            | --                                | --                                    | --                                    | --                                |
@@ -422,7 +422,7 @@ Examples:
 |                       |               | This book is theirs               | Dieses Buch gehört ihnen              | Ce livre est le leur                  | Este libro es de ellos            |
 |                       |               | These books are theirs            | Diese Bücher gehören ihnen            | Ces livres sont les leurs             | Estos libros son de ellos         |
 
-### References
+<img alt="References" src="https://img.shields.io/badge/References:-33ccff">
 
 * General
     * https://en.wikipedia.org/wiki/Article_(grammar)
